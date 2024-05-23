@@ -43,7 +43,7 @@ def process_dataframe(file_path, ignore_columns):
     return processed_rows
 
 
-def permute_dfs(elements, depth, path, result, useful_mark, element_counts):
+def permute_dfs(elements, depth, path, useful_mark, element_counts):
     """
     递归生成元素的排列组合，并统计每个排列的出现次数。
 
@@ -60,14 +60,26 @@ def permute_dfs(elements, depth, path, result, useful_mark, element_counts):
             element_counts[str_path] = 1
         else:
             element_counts[str_path] += 1
-        result.append(path[:])
         return
 
-    for i in range(depth, len(elements)):
-        if useful_mark or elements[i][0].find('QUESTION') != -1:
-            path.append(elements[i])
-            permute_dfs(elements, i + 1, path, result, True, element_counts)
+    if useful_mark:
+        # 选
+        path.append(elements[depth])
+        permute_dfs(elements, depth + 1, path, True, element_counts)
+        path.pop()
+
+        # 不选
+        permute_dfs(elements, depth + 1, path, True, element_counts)
+
+    else:
+        if elements[depth][0].find('QUESTION') != -1:
+            # 选
+            path.append(elements[depth])
+            permute_dfs(elements, depth + 1, path, True, element_counts)
             path.pop()
+
+            # 不选
+            permute_dfs(elements, depth + 1, path, useful_mark, element_counts)
 
 
 def process_data_to_dict(file_path, ignore_columns):
@@ -78,9 +90,11 @@ def process_data_to_dict(file_path, ignore_columns):
       :param ignore_columns: list，需要忽略的列名列表
       :return: list，包含处理后的行数据的列表
 
-      示例：   file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
-              ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
-              processed_data = process_data_to_dict(file_path, ignore_columns)
+      示例：
+
+      file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
+      ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
+      processed_data = process_data_to_dict(file_path, ignore_columns)
       """
     # 读取CSV文件并删除指定的列
     df = pd.read_csv(file_path).drop(columns=ignore_columns)
@@ -94,16 +108,19 @@ def process_data_to_dict(file_path, ignore_columns):
 
     # 使用列表推导式处理每一行数据
     processed_rows = [
-        sorted(((column_name, value.lower()) for column_name, value in row.items()
-                if isinstance(value, str) and value.isalpha() and not (
-                isinstance(value, int) and value == 0 or column_name == 'DEPENDENCY_PATH' and value == '[]')),
-               key=lambda x: column_order.get(x[0], float('inf')))
+        sorted(((column_name, value.lower() if isinstance(value, str) else str(value))
+                for column_name, value in row.items()
+                if not (isinstance(value, int) and value == 0) and not (
+                column_name == 'DEPENDENCY_PATH' and value == '[]')),  # 排除整数且值为0，以及'DEPENDENCY_PATH'为'[]'的情况
+               key=lambda x: (column_order.get(x[0], float('inf')), str(x[1])))  # 转换所有值为字符串进行排序
         for _, row in df.iterrows()
     ]
-
-    result = []
     element_counts = dict()
     for row_list in processed_rows:
-        permute_dfs(row_list, 0, [], result, False, element_counts)
-
+        permute_dfs(row_list, 0, [], False, element_counts)
     return element_counts
+
+
+file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
+ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
+processed_data = process_data_to_dict(file_path, ignore_columns)
