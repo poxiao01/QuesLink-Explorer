@@ -99,9 +99,6 @@ def query_and_save_to_list(model):
         session.close()
 
 
-
-
-
 def count_rows_by_conditions(conditions_str):
     # 使用SQLAlchemy构造查询，直接计算行数
     query = select(func.count()).select_from(SentencesDataORM).where(text(conditions_str))

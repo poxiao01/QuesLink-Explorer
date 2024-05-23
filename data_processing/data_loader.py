@@ -50,7 +50,6 @@ def permute_dfs(elements, depth, path, useful_mark, element_counts):
     :param elements: list，待排列的元素列表
     :param depth: int，当前递归深度
     :param path: list，当前排列路径
-    :param result: list，存储所有排列结果的列表
     :param useful_mark: bool，标记当前元素是否有效
     :param element_counts: dict，存储每个排列及其出现次数的字典
     """
@@ -121,6 +120,6 @@ def process_data_to_dict(file_path, ignore_columns):
     return element_counts
 
 
-file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
-ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
-processed_data = process_data_to_dict(file_path, ignore_columns)
+# file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
+# ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
+# processed_data = process_data_to_dict(file_path, ignore_columns)

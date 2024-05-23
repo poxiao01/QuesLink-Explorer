@@ -37,8 +37,9 @@ def validate_element_counts_against_db(file_path, ignore_columns):
         db_count = count_rows_by_conditions(where_clause)
 
         # 比较数据库中的行数与处理后的数据字典中的值
-        assert db_count == expected_count, (f"WHERE子句: {where_clause}\n数据库计数: {db_count}, 预期计数: {expected_count}\n"
-                                            f"错误！element_counts的数据与数据库中的记录")
+        assert db_count == expected_count, (
+            f"WHERE子句: {where_clause}\n数据库计数: {db_count}, 预期计数: {expected_count}\n"
+            f"错误！element_counts的数据与数据库中的记录")
     print(f'validate_element_counts_against_db函数 运行结束，数据预期正常！')
 
     # 筛选出 出现次数大于1的项
