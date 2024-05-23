@@ -48,10 +48,11 @@ def validate_element_counts_against_db(file_path, ignore_columns):
     return filtered_element_counts
 
 
-# 指定CSV文件路径和忽略的列
-file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
-ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
+if __name__ == '__main__':
+    # 指定CSV文件路径和忽略的列
+    file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
+    ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
 
-# 调用函数执行验证
-counts_dict = validate_element_counts_against_db(file_path, ignore_columns)
-save_dict_to_json_sorted_by_value('E:/QuesLink_Explorer/data/target_data.JSON', counts_dict, reverse=True)
+    # 调用函数执行验证
+    counts_dict = validate_element_counts_against_db(file_path, ignore_columns)
+    save_dict_to_json_sorted_by_value('E:/QuesLink_Explorer/data/target_data.JSON', counts_dict, reverse=True)
