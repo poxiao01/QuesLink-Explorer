@@ -101,8 +101,8 @@ def query_and_save_to_list(model):
 
 def count_rows_by_conditions(conditions_str):
     # 使用SQLAlchemy构造查询，直接计算行数
-    query = select(func.count()).select_from(SentencesDataORM).where(text(conditions_str))
-
+    query = select(func.count()).select_from(SentencesDataORM).where(
+        text(conditions_str + " COLLATE Chinese_PRC_CS_AS"))
     # 执行查询并获取行数
     with session as sess:  # 确保session可以当作上下文管理器使用，如使用scoped_session
         row_count = sess.execute(query).scalar()

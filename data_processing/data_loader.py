@@ -9,7 +9,7 @@ def process_data_to_list(file_path, ignore_columns):
 
     :param file_path: str，CSV文件的路径
     :param ignore_columns: list，需要忽略的列名列表
-    :return: list，包含处理后的行数据的列表，整体按照含有 'QUESTION' 的行优先排序
+    :return: list，包含处理后的行数据的列表，整体按照含有 'QUESTION' 的行优先排序 去除不含有 'QUESTION' 的所有行
     """
     df = pd.read_csv(file_path)
     df = df.drop(columns=ignore_columns)
