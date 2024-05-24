@@ -1,6 +1,4 @@
-import pandas as pd
-from mlxtend.preprocessing import TransactionEncoder
-from mlxtend.frequent_patterns import fpgrowth
+import pyfpgrowth
 
 from data_processing.data_loader import process_dataframe
 
@@ -10,25 +8,28 @@ file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
 # 列出你想要忽略的列名
 ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
 
-# 读取并处理数据
-data = process_dataframe(file_path, ignore_columns)
+transactions = process_dataframe(file_path, ignore_columns)
+transactions_str_list = [[str(element) for element in sublist] for sublist in transactions]
+# 设置支持度阈值，这里我们使用2作为最小支持度
+min_support = 2
 
-# 使用 TransactionEncoder 将列表转换为二进制 DataFrame
-te = TransactionEncoder()
-te_ary = te.fit(data).transform(data)
-df = pd.DataFrame(te_ary, columns=te.columns_)
+# 使用pyfpgrowth找出频繁项集和它们的支持度
+patterns_dict = pyfpgrowth.find_frequent_patterns(transactions_str_list, min_support)
 
-# 现在 df 是一个二进制 DataFrame，适合用于 FP-tree 算法
+# 筛选出包含 'QUESTION' 的频繁项集
+question_patterns = [
+    (itemset, support)
+    for itemset, support in patterns_dict.items()
+    if any('QUESTION' in str(item) for item in itemset)
+]
+for itemset, support in question_patterns:
+    if support >= 300:
+        print(f"项集: {itemset}, 支持度: {support}")
 
-# 使用 fpgrowth 函数来发现频繁项集
-frequent_itemsets = fpgrowth(df, min_support=0.1, use_colnames=True)
+# 使用pyfpgrowth生成关联规则
+rules = pyfpgrowth.generate_association_rules(patterns_dict, 0.8)
 
-# 按支持度对频繁项集进行排序
-frequent_itemsets_sorted = frequent_itemsets.sort_values(by='support', ascending=False)
+# 打印rules的内容，以便检查数据格式
+for rule in rules:
+    print(rule)
 
-# 打印排序后的频繁项集
-for index, row in frequent_itemsets_sorted.iterrows():
-    print(f"support: {row['support']}")
-    print("itemsets:", str(row['itemsets']))
-
-    print('-----------------------\n')

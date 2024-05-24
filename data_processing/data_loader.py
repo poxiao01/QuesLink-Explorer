@@ -1,45 +1,31 @@
 import pandas as pd
 
+import pandas as pd
 
-def process_dataframe(file_path, ignore_columns):
+
+def process_data_to_list(file_path, ignore_columns):
     """
-    读取CSV文件，处理DataFrame，并返回处理后的行数据。
+    读取CSV文件，处理DataFrame，并返回处理后的行数据，并按照含有 'QUESTION' 的行优先排序。
 
     :param file_path: str，CSV文件的路径
     :param ignore_columns: list，需要忽略的列名列表
-    :return: list，包含处理后的行数据的列表
-
-    示例：   file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
-            ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
-            processed_data = process_dataframe(file_path, ignore_columns)
+    :return: list，包含处理后的行数据的列表，整体按照含有 'QUESTION' 的行优先排序
     """
-    # 使用pandas的read_csv函数读取CSV文件
     df = pd.read_csv(file_path)
-
-    # 从DataFrame中删除指定的列
     df = df.drop(columns=ignore_columns)
-
-    # 创建一个空列表来存储处理后的句子
     processed_rows = []
 
-    # 遍历DataFrame的每一行
+    # 收集所有处理后的行，但不在此处排序
     for index, row in df.iterrows():
-        # 创建一个临时列表来存储当前行的处理结果
-        temp_list = []
-
-        # 遍历当前行的每个元素
-        for column_name, value in row.items():
-            # 检查value是否为整数类型且不等于0
-            if isinstance(value, int) and value == 0 or column_name == 'DEPENDENCY_PATH' and value == '[]':
-                # 如果满足条件，跳过当前元素
-                continue
-            # 将列名和对应的值以元组形式添加到临时列表中
-            temp_list.append((column_name, value))
-
-        # 将处理后的临时列表添加到总的处理结果列表中
+        temp_list = [(column_name, value) for column_name, value in row.items()
+                     if not (isinstance(value, int) and value == 0) and not (
+                    column_name == 'DEPENDENCY_PATH' and value == '[]')]
+        # 对每一行内部的元素进行排序，优先考虑包含 'QUESTION' 的元素
+        temp_list.sort(key=lambda x: (('QUESTION' in x[0]), str(x[1])), reverse=True)
+        if len(temp_list) == 0 or temp_list[0][0].find('QUESTION') == -1:
+            continue
         processed_rows.append(temp_list)
 
-    # 返回处理后的句子列表
     return processed_rows
 
 
@@ -118,7 +104,6 @@ def process_data_to_dict(file_path, ignore_columns):
     for row_list in processed_rows:
         permute_dfs(row_list, 0, [], False, element_counts)
     return element_counts
-
 
 # file_path = "E:/QuesLink_Explorer/data/sentences_data.csv"
 # ignore_columns = ['ID', 'SENTENCE', 'QUESTION_WORD']
