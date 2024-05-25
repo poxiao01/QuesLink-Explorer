@@ -1,6 +1,7 @@
 import itertools
 
-
+T = f"QUESTION_WORD_POS=NN"
+Count = 0
 class FPNode(object):
     """
     一个FP树中的节点。
@@ -77,11 +78,9 @@ class FPTree(object):
                     items[item] += 1
                 else:
                     items[item] = 1
-
         for key in list(items.keys()):
             if items[key] < threshold:
                 del items[key]
-
         return items
 
     @staticmethod
@@ -180,7 +179,7 @@ class FPTree(object):
         patterns = {}
         items = self.frequent.keys()
 
-        # 如果我们在条件树中，后缀本身就是一种模式。
+        # 如果不在条件模式基树种
         if self.root.value is None:
             suffix_value = []
         else:
@@ -192,6 +191,9 @@ class FPTree(object):
                 pattern = tuple(sorted(list(subset) + suffix_value))
                 patterns[pattern] = \
                     min([self.frequent[x] for x in subset])
+
+        if T in patterns:
+            print(f'T = {T} = {patterns[tuple(T)]}')
 
         return patterns
 
@@ -231,14 +233,12 @@ class FPTree(object):
             subtree = FPTree(conditional_tree_input, threshold,
                              item, self.frequent[item])
             subtree_patterns = subtree.mine_patterns(threshold)
-
             # 将子树模式插入主模式字典。
             for pattern in subtree_patterns.keys():
                 if pattern in patterns:
                     patterns[pattern] += subtree_patterns[pattern]
                 else:
                     patterns[pattern] = subtree_patterns[pattern]
-
         return patterns
 
 
