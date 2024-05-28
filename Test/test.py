@@ -1,143 +1,46 @@
-class FPNode(object):
-    """
-    一个FP树中的节点。
-    """
-
-    def __init__(self, value, count, parent):
-        """
-        创建节点。
-        """
-        self.value = value
-        self.count = count
-        self.parent = parent
-        self.link = None
-        self.children = []
-
-    def has_child(self, value):
-        """
-        检查节点是否有一个特定值的子节点。
-        """
-        for node in self.children:
-            if node.value == value:
-                return True
-
-        return False
-
-    def get_child(self, value):
-        """
-        返回具有特定值的子节点。
-        """
-        for node in self.children:
-            if node.value == value:
-                return node
-
-        return None
-
-    def add_child(self, value):
-        """
-        添加一个子节点。
-        """
-        child = FPNode(value, 1, self)
-        self.children.append(child)
-        return child
+from src.Trie_tree import find_frequent_pattern
 
 
-class FPTree(object):
-    """
-    一个频繁模式树。
-    """
+def generate_association_rules(patterns_list, confidence_threshold):
+    rules = {}
+    patterns = dict()
+    for rows in patterns_list:
+        row, count = rows
+        assert tuple(row) not in patterns, f"{row}"
+        patterns[tuple(row)] = count
 
-    def __init__(self, transactions, threshold, root_value, root_count):
-        """
-        transactions: list 数据集
-        threshold:  阈值
-        frequent:   处理后的数据集(字典形式，存储大于等于阈值的所有单项)
-        headers:    表头
-        初始化树。
-        """
-        self.frequent = self.find_frequent_items(transactions, threshold)
-        self.headers = self.build_header_table(self.frequent)
-        self.root = self.build_fptree(
-            transactions, root_value,
-            root_count, self.frequent, self.headers)
+    for itemset in patterns.keys():
+        upper_support = patterns[itemset]
 
-    @staticmethod
-    def find_frequent_items(transactions, threshold):
-        """
-        创建一个项的词典，其出现次数超过阈值。
-        """
-        items = {}
+        for index in range(1, len(itemset) - 1):
+            antecedent = tuple(itemset[:index])
+            consequent = tuple(itemset[index:])
 
-        for transaction in transactions:
-            for item in transaction:
-                if item in items:
-                    items[item] += 1
-                else:
-                    items[item] = 1
+            lower_support = patterns[antecedent]
+            confidence = float(upper_support) / lower_support
 
-        for key in list(items.keys()):
-            if items[key] < threshold:
-                del items[key]
+            if confidence >= confidence_threshold:
+                rules[antecedent] = (consequent, confidence)
+    return rules
 
-        return items
 
-    @staticmethod
-    def build_header_table(frequent):
-        """
-        构建头表。
-        """
-        headers = {}
-        for key in frequent.keys():
-            headers[key] = None
+if __name__ == '__main__':
+    # 设置数据文件的路径以及需要在处理过程中忽略的列名
+    simpData = [['苹果', '牛奶', '啤酒', '牛肉', '鱼'],
+                ['香蕉', '牛奶', '牛肉', '香肠', '虾'],
+                ['牛奶', '牛肉', '香蕉', '虾'],
+                ['苹果', '牛奶', '香蕉', '鱼'],
+                ['牛奶', '牛肉', '虾'],
+                ['牛肉', '鱼', '啤酒']]
 
-        return headers
+    # 基于处理后的数据，寻找出现频率较高的模式（频繁项集），参数2表示支持度阈值
+    data_list = find_frequent_pattern(simpData, 2)
 
-    def build_fptree(self, transactions, root_value,
-                     root_count, frequent, headers):
-        """
-        构建FP树并返回根节点。
-        """
-        root = FPNode(root_value, root_count, None)
+    for data in data_list:
+        print(data)
+    print('\n\n')
+    # 根据频繁项集生成关联规则，参数0.8表示最小置信度阈值
+    rules_dict = generate_association_rules(data_list, 0)
 
-        for transaction in transactions:
-            sorted_items = [x for x in transaction if x in frequent]
-            sorted_items.sort(key=lambda x: frequent[x], reverse=True)
-            if len(sorted_items) > 0:
-                self.insert_tree(sorted_items, root, headers)
-
-        return root
-
-    def insert_tree(self, items, node, headers):
-        """
-        递归地增长FP树。
-        """
-        first = items[0]
-        child = node.get_child(first)
-        if child is not None:
-            child.count += 1
-        else:
-            # 添加新子节点。
-            child = node.add_child(first)
-
-            # 将其链接到头结构。
-            if headers[first] is None:
-                headers[first] = child
-            else:
-                current = headers[first]
-                while current.link is not None:
-                    current = current.link
-                current.link = child
-
-        # 递归调用函数。
-        remaining_items = items[1:]
-        if len(remaining_items) > 0:
-            self.insert_tree(remaining_items, child, headers)
-
-    def mine_patterns(self, threshold):
-        """
-        挖掘构造的FP树以获取频繁模式。
-        """
-        if self.tree_has_single_path(self.root):
-            return self.generate_pattern_list()
-        else:
-            return self.zip_patterns(self.mine_sub_trees(threshold))
+    for rule, count in rules_dict.items():
+        print(rule, count)
