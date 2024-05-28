@@ -35,4 +35,4 @@ if __name__ == '__main__':
     save_dict_to_json(frequent_patterns, 'E:/QuesLink_Explorer/data/Frequent_itemsets_two.JSON')
 
     # 保存筛选后的关联规则到JSON文件
-    save_dict_to_json(filtered_rules_dict, 'E:/QuesLink_Explorer/data/Rules_two.JSON')
+    save_dict_to_json(filtered_rules_dict, 'E:/QuesLink_Explorer/data/Rules_two.JSON', reverse=True)
