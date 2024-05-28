@@ -31,4 +31,4 @@ if __name__ == '__main__':
     save_list_as_whole(data_list, './data/Frequent_itemsets.json')
 
     # 将生成的关联规则字典保存为另一个JSON格式文件
-    save_dict_to_json('./data/Rules.json', rules_dict)
+    save_dict_to_json(rules_dict, './data/Rules.json', reverse=True)

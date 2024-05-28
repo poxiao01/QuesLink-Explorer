@@ -32,7 +32,7 @@ if __name__ == '__main__':
     validate_rules_against_db(filtered_rules_dict)
 
     # 保存筛选后的频繁集到JSON文件
-    save_dict_to_json('E:/QuesLink_Explorer/data/Frequent_itemsets_two.JSON', frequent_patterns)
+    save_dict_to_json(frequent_patterns, 'E:/QuesLink_Explorer/data/Frequent_itemsets_two.JSON')
 
     # 保存筛选后的关联规则到JSON文件
-    save_dict_to_json('E:/QuesLink_Explorer/data/Rules_two.JSON', filtered_rules_dict)
+    save_dict_to_json(filtered_rules_dict, 'E:/QuesLink_Explorer/data/Rules_two.JSON')

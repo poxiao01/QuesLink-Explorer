@@ -1,7 +1,7 @@
 import json
 
 
-def save_dict_to_json(file_path, dictionary, ensure_ascii=False, indent=4):
+def save_dict_to_json(dictionary, file_path, ensure_ascii=False, indent=4, reverse=False):
     """
     将字典内容保存为JSON格式的文件。
 
@@ -19,13 +19,16 @@ def save_dict_to_json(file_path, dictionary, ensure_ascii=False, indent=4):
     """
 
     # 创建一个新的字典，其中元组键被转换为字符串
-    new_dictionary = dict()
+    new_list = []
     for key, value in dictionary.items():
-        new_dictionary[str(key)] = str(value)
+        if reverse:
+            new_list.append(f'{str(value)}： {str(key)}')
+        else:
+            new_list.append(f'{str(key)}：  {str(value)}')
 
     try:
         with open(file_path, 'w', encoding='utf-8') as json_file:
-            json.dump(new_dictionary, json_file, ensure_ascii=ensure_ascii, indent=indent)
+            json.dump(new_list, json_file, ensure_ascii=ensure_ascii, indent=indent)
         print(f"字典已成功保存至: {file_path}")
     except IOError as e:
         print(f"保存文件时发生错误: {e}")
@@ -35,4 +38,4 @@ def save_list_as_whole(data_list, file_path):
     new_dict = dict()
     for data in data_list:
         new_dict[tuple(data[0])] = data[1]
-    save_dict_to_json(file_path, new_dict)
+    save_dict_to_json(new_dict, file_path)
