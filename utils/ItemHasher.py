@@ -16,7 +16,8 @@ class ItemHasher:
         if item not in self.hash_list:
             self.hash_list.append(item)
             # 判断是否必须作为前项，并记录到 must_antecedent
-            if item[0].find('QUESTION') != -1 or item[0] == 'SAME_QS_WORD' or item[0] == 'SAME_DEPENDENCY':
+            if (item[0].find('QUESTION') != -1 or item[0] == 'SAME_QS_WORD' or item[0] == 'SAME_DEPENDENCY' or
+                    item[0] == 'DEPENDENCY_PATH'):
                 self.must_antecedent.append(False)
             else:
                 self.must_antecedent.append(True)

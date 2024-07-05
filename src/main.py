@@ -22,6 +22,9 @@ if __name__ == '__main__':
     # 检验生成的关联规则是否合法，即是否与数据库中的信息相匹配
     rules.check_rules_against_db()
 
+    # 检查对应关联规则的倒排索引是否合法
+    rules.check_inverted_index_consistency()
+
     # 保存关联规则和倒排索引s
     rules.save_file('../data/Rules')
 

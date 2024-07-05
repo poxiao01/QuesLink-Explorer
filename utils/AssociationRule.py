@@ -63,7 +63,7 @@ class AssociationRule:
         for item in antecedent:
             if item not in self.inverted_index_dict_hashed:
                 self.inverted_index_dict_hashed[item] = []
-            self.inverted_index_dict_hashed[item].append((rule_id, len(consequent)))
+            self.inverted_index_dict_hashed[item].append((rule_id, len(antecedent)))
 
     def check_rules_against_db(self):
         """
@@ -74,14 +74,14 @@ class AssociationRule:
             for item in antecedent:
                 # 检查前件项是否符合预期条件
                 assert not (item[0].find('QUESTION') != -1 or item[0] == 'SAME_QS_WORD' or item[
-                    0] == 'SAME_DEPENDENCY'), f'错误！前件项不符合预期！{antecedent}'
+                    0] == 'SAME_DEPENDENCY' or item[0] == 'DEPENDENCY_PATH'), f'错误！前件项不符合预期！{antecedent}'
 
             # 第二轮遍历：逐个检查每条规则的后件是否符合预期
             for consequent, confidence, rule_id in rules_list:
                 for item in consequent:
                     # 检查后件项是否符合预期条件
                     assert item[0].find('QUESTION') != -1 or item[0] == 'SAME_QS_WORD' or item[
-                        0] == 'SAME_DEPENDENCY', f'错误！后件项不符合预期！{consequent}'
+                        0] == 'SAME_DEPENDENCY' or item[0] == 'DEPENDENCY_PATH', f'错误！后件项不符合预期！{consequent}'
 
                 # 构建前件的 WHERE 子句
                 where_conditions_antecedent = [
@@ -119,11 +119,13 @@ class AssociationRule:
         print("所有规则验证完成，没有发现不匹配的规则。")
 
     def check_inverted_index_consistency(self):
-        for (pre_item, item_list) in self.inverted_index_dict.items():
-            for (index, count) in item_list:
-                if pre_item not in self.rules_list[index][0] or count != len(
-                        self.rules_list[index][1]):
-                    print(f'错误！ 倒排索引数据有误！')
+        for pre_item, item_list in self.inverted_index_dict.items():
+            for index, count in item_list:
+                assert pre_item in self.rules_list[index][
+                    0], f'错误！ 倒排索引数据有误！预项"{pre_item}"不在规则列表的前件中。'
+                assert count == len(self.rules_list[index][
+                                        0]), f'错误！ 倒排索引数据有误！计数"{count}"与前件元素数量"{len(self.rules_list[index][0])}"不符。'
+        print("倒排索引验证完成，没有发现不匹配的数据。")
 
     def save_file(self, filename):
         """
