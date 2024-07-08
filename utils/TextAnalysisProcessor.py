@@ -1,5 +1,6 @@
 # 文本分析处理器
 import heapq
+import itertools
 import json
 from data_processing.data_loader import process_data_to_list
 from utils.AssociationRule import AssociationRule
@@ -9,13 +10,13 @@ from utils.Trie_tree import mining
 
 class TextAnalysisProcessor:
     def __init__(self):
-        self.all_inverted_index_list = []
-        self.all_structure_words_information_list = []
-        self.all_sentence_pattern_list = []
-        self.all_structure_words_in_dependencies_position_list = []
-        self.all_structure_words_and_pos_list = []
-        self.all_words_pos_list = []
-        self.all_words_dependencies_list = []
+        self.all_inverted_index_list = []   # 合法规则的倒排索引
+        self.all_structure_words_information_list = []  # 句型词信息
+        self.all_sentence_pattern_list = [] # 句子类型
+        self.all_structure_words_in_dependencies_position_list = [] # 句型词在依赖结构中的位置
+        self.all_structure_words_and_pos_list = []  # 句型词及其词性
+        self.all_words_pos_list = []    # 句子中所有词及其词性
+        self.all_words_dependencies_list = []   # 依赖结构
         self.model_rules = AssociationRule()
         self.data_list = []
 
@@ -99,6 +100,18 @@ class TextAnalysisProcessor:
             # # 按（第三个元素，第二个元素）降序排序规则索引列表
             # result_index_list.sort(key=lambda _x: (_x[1], -_x[2]))
             self.all_inverted_index_list.append(result_index_list)
+
+    def find_question_word(self):
+        for (index, sentence) in enumerate(self.data_list):
+            # 创建一个空列表来存储所有的组合
+            all_combinations = []
+
+            # 对于每一个可能的选取元素的数量
+            for r in range(1, len(self.all_inverted_index_list[index]) + 1):
+                # 使用 combinations 函数生成组合
+                combinations = itertools.combinations(self.all_inverted_index_list[index], r)
+                # 将生成的组合添加到 all_combinations 列表中
+                all_combinations.extend(combinations)
 
 
 
