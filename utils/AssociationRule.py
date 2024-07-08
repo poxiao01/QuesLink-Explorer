@@ -147,3 +147,10 @@ class AssociationRule:
             for (pre_item, item_list) in self.inverted_index_dict.items():
                 file.write(f"{pre_item}: {item_list} \n")
         print(f"倒排索引数据已保存到文件 {inverted_index_file}.")
+
+
+class QuestionWordFinder:
+    def __init__(self):
+        self.sentences_list = []
+        self.all_inverted_index_list = []
+        self.all_structure_words_information = []
