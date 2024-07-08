@@ -160,5 +160,4 @@ for entry in data:
     sentences_list.append(corrected_question)
 
 text_analysis_processor.model_analyze(sentences_list, 'F:\\')
-
 text_analysis_processor.write_results_to_file('../data/sentences_information.txt')
