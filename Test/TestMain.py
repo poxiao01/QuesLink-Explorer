@@ -158,6 +158,5 @@ with open('../data/test-data.json', 'r', encoding='utf-8') as f:
 for entry in data:
     corrected_question = entry['corrected_question']
     sentences_list.append(corrected_question)
-
 text_analysis_processor.model_analyze(sentences_list, 'F:\\')
 text_analysis_processor.write_results_to_file('../data/sentences_information.txt')
