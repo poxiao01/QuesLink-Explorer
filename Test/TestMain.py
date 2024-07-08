@@ -153,7 +153,6 @@ sentences_list = []
 # 打开json文件并加载数据
 with open('../data/test-data.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
-
 # 遍历数据中的每一项条目
 for entry in data:
     corrected_question = entry['corrected_question']
