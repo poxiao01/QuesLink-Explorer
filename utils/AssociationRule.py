@@ -63,7 +63,7 @@ class AssociationRule:
         for item in antecedent:
             if item not in self.inverted_index_dict_hashed:
                 self.inverted_index_dict_hashed[item] = []
-            self.inverted_index_dict_hashed[item].append((rule_id, len(antecedent)))
+            self.inverted_index_dict_hashed[item].append((rule_id, len(antecedent), confidence))
 
     def check_rules_against_db(self):
         """
@@ -120,7 +120,7 @@ class AssociationRule:
 
     def check_inverted_index_consistency(self):
         for pre_item, item_list in self.inverted_index_dict.items():
-            for index, count in item_list:
+            for index, count, confidence in item_list:
                 assert pre_item in self.rules_list[index][
                     0], f'错误！ 倒排索引数据有误！预项"{pre_item}"不在规则列表的前件中。'
                 assert count == len(self.rules_list[index][
@@ -136,11 +136,14 @@ class AssociationRule:
         """
         rules_file = filename + '_rules.JSON'
         with open(rules_file, 'w', encoding='utf-8') as file:
+            rules_id = 0
             for antecedent, consequent, confidence in self.rules_list:
-                file.write(f"{antecedent} ===> {consequent},{confidence}\n")
+                file.write(f"{rules_id}：{antecedent} ===> {consequent},{confidence}\n")
+                rules_id += 1
         print(f"关联规则数据已保存到文件 {rules_file}.")
 
         inverted_index_file = filename + '_inverted_index.JSON'
         with open(inverted_index_file, 'w', encoding='utf-8') as file:
             for (pre_item, item_list) in self.inverted_index_dict.items():
                 file.write(f"{pre_item}: {item_list} \n")
+        print(f"倒排索引数据已保存到文件 {inverted_index_file}.")

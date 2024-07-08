@@ -1,0 +1,79 @@
+[
+    {
+        "_id": "3090", 
+        "corrected_question": "Whose network's parent organisation is Comcast?", 
+        "intermediary_question": "What are the <television shows> whose <network>'s <parent organisation> is <Comcast>?", 
+        "sparql_query": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/parentOrganisation> <http://dbpedia.org/resource/Comcast> . ?uri <http://dbpedia.org/ontology/network> ?x  . }", 
+        "sparql_template_id": 6
+    }, 
+    {
+        "_id": "3495", 
+        "corrected_question": "Is William H Blanchard buried in Colorado?", 
+        "intermediary_question": "Is <Colorado> the <placeofburial> of <William H. Blanchard>?", 
+        "sparql_query": "ASK WHERE { <http://dbpedia.org/resource/William_H._Blanchard> <http://dbpedia.org/property/placeofburial> <http://dbpedia.org/resource/Colorado> }", 
+        "sparql_template_id": 152
+    }, 
+    {
+        "_id": "3215", 
+        "corrected_question": "Which cport of Vishwajyot High School is also the genere of Battle chess ", 
+        "intermediary_question": "What is the <kind of music> of the <Battle Chess> and <sport> of the <Vishwajyot High School>", 
+        "sparql_query": " SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Battle_Chess> <http://dbpedia.org/property/genre> ?uri. <http://dbpedia.org/resource/Vishwajyot_High_School> <http://dbpedia.org/ontology/sport> ?uri} ", 
+        "sparql_template_id": 16
+    }, 
+    {
+        "_id": "285", 
+        "corrected_question": "In which state is the Channel district?", 
+        "intermediary_question": "What is the <state> of Channel District ?", 
+        "sparql_query": " SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Channel_District> <http://dbpedia.org/ontology/state> ?uri } ", 
+        "sparql_template_id": 2
+    }, 
+    {
+        "_id": "4938", 
+        "corrected_question": "Who was in the missions of Apollo 11 and Gemini 8?", 
+        "intermediary_question": "Whose <missions> are <Apollo 11> and <Gemini 8>?", 
+        "sparql_query": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/property/mission> <http://dbpedia.org/resource/Apollo_11> . ?uri <http://dbpedia.org/property/mission> <http://dbpedia.org/resource/Gemini_8> . }", 
+        "sparql_template_id": 7
+    }, 
+    {
+        "_id": "428", 
+        "corrected_question": "What is the total number of other tenant of the stadia whose one of the tenant is Raptors 905?", 
+        "intermediary_question": "What is the total number of other <tenant> of the <stadia> whose <tenant> is <Raptors 905>?", 
+        "sparql_query": " SELECT DISTINCT COUNT(?uri) WHERE { ?x <http://dbpedia.org/ontology/tenant> <http://dbpedia.org/resource/Raptors_905> . ?x <http://dbpedia.org/ontology/tenant> ?uri }", 
+        "sparql_template_id": 111
+    }, 
+    {
+        "_id": "4448", 
+        "corrected_question": "Where can one find the Dzogchen Ponolop Rinpoche?", 
+        "intermediary_question": "What is the <Location> of Dzogchen Ponlop Rinpoche ?", 
+        "sparql_query": " SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Dzogchen_Ponlop_Rinpoche> <http://dbpedia.org/property/location> ?uri } ", 
+        "sparql_template_id": 2
+    }, 
+    {
+        "_id": "2332", 
+        "corrected_question": "Who is the stockholder of the road tunnels operated by the Massachusetts Department of Transportation?", 
+        "intermediary_question": "What is the <stockholder> of the <road tunnels> whose <operator> is <Massachusetts Department of Transportation>?", 
+        "sparql_query": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/property/operator> <http://dbpedia.org/resource/Massachusetts_Department_of_Transportation> . ?x <http://dbpedia.org/property/owner> ?uri  . ?x <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RoadTunnel>}", 
+        "sparql_template_id": 305
+    }, 
+    {
+        "_id": "2717", 
+        "corrected_question": "What are the awards won by the film director of Saraband ?", 
+        "intermediary_question": "What is the <awards> of the <person> who is the <film director> of <Saraband> ?", 
+        "sparql_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Saraband> <http://dbpedia.org/ontology/director> ?x . ?x <http://dbpedia.org/property/awards> ?uri  . }", 
+        "sparql_template_id": 3
+    }, 
+    {
+        "_id": "2079", 
+        "corrected_question": "What is the almamater of the president whose vice president was Enrique Jos Varona?", 
+        "intermediary_question": "What is the <alma mater> of the <owl> whose <vice president> is <Enrique Jos Varona> ?", 
+        "sparql_query": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/vicePresident> <http://dbpedia.org/resource/Enrique_Jos\u00e9_Varona> . ?x <http://dbpedia.org/ontology/almaMater> ?uri  . }", 
+        "sparql_template_id": 5
+    }, 
+    {
+        "_id": "3389", 
+        "corrected_question": "What is the route end of Birmingham and Oxford Junction Railway ?", 
+        "intermediary_question": "What is the <route end> of Birmingham and Oxford Junction Railway ?", 
+        "sparql_query": " SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Birmingham_and_Oxford_Junction_Railway> <http://dbpedia.org/ontology/routeEnd> ?uri } ", 
+        "sparql_template_id": 2
+    }
+]
