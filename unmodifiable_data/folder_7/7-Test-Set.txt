@@ -1,0 +1,200 @@
+What is the capital of Cameroon?
+capital
+When did the Boston Tea Party take place?
+When
+Who played Gus Fring in Breaking Bad?
+Who
+Who wrote Harry Potter?
+Who
+Which actors play in Big Bang Theory?
+actors
+What is the largest country in the world?
+country
+Who is the most powerful Jedi?
+Jedi
+How many goals did Pel   score?
+goals
+Who is the president of Eritrea?
+president
+Which computer scientist won an oscar?
+scientist
+Who created Family Guy?
+Who
+How many people live in Poland?
+people
+To which party does the mayor of Paris belong?
+party
+Who does the voice of Bart Simpson?
+Who
+Who composed the soundtrack for Cameron's Titanic?
+Who
+When did Boris Becker end his active career?
+When
+Show me all basketball players that are higher than 2 meters.
+players
+What country is Sitecore from?
+country
+Which country was Bill Gates born in?
+country
+Who developed Slack?
+Who
+In which city did Nikos Kazantzakis die?
+city
+How many grand-children did Jacques Cousteau have?
+children
+Which films did Stanley Kubrick direct?
+films
+How many seats does the home stadium of FC Porto have?
+seats
+Show me all books in Asimov's Foundation series.
+books
+Which movies star both Liz Taylor and Richard Burton?
+movies
+In which city are the headquarters of the United Nations?
+city
+In which city was the president of Montenegro born?
+city
+Which writers studied in Istanbul?
+writers
+Who is the mayor of Paris?
+mayor
+What is the full name of Prince Charles?
+name
+What is the longest river in China?
+river
+Who discovered Ceres?
+Who
+When did princess Diana die?
+When
+What do ants eat?
+ants
+Who is the host of the BBC Wildlife Specials?
+host
+How many moons does Mars have?
+moons
+What was the first Queen album?
+album
+Give me a list of all Canadians that reside in the U.S.
+list
+Where is Syngman Rhee buried?
+Where
+In which countries do people speak Japanese?
+countries
+Who is the king of the Netherlands?
+king
+When did the Dodo become extinct?
+When
+Show me all Czech movies.
+movies
+Which rivers flow into the North Sea?
+rivers
+When did Operation Overlord commence?
+When
+Where do the Red Sox play?
+Where
+In which time zone is Rome?
+zone
+Give me a list of all critically endangered birds.
+list
+How much did the Lego Movie cost?
+cost
+What was the original occupation of the inventor of Lego?
+occupation
+Which countries have more than ten volcanoes?
+countries
+Show me all U.S. states.
+states
+Who wrote the Game of Thrones theme?
+Who
+How many calories does a baguette have?
+calories
+Which companies produce hovercrafts?
+companies
+How many emperors did China have?
+emperors
+Show me hiking trails in the Grand Canyon where there's no danger of flash floods.
+trails
+In which ancient empire could you pay with cocoa beans?
+empire
+How did Michael Jackson die?
+How
+Which space probes were sent into orbit around the sun?
+probes
+When was Coca Cola invented?
+When
+What is the biggest stadium in Spain?
+stadium
+On which day is Columbus Day?
+day
+How short is the shortest active NBA player?
+player
+Whom did Lance Bass marry?
+Whom
+What form of government does Russia have?
+form
+What movies does Jesse Eisenberg play in?
+movies
+What color expresses loyalty?
+color
+Show me all museums in London.
+museums
+Give me all South American countries.
+countries
+Who is the coach of Ankara's ice hockey team?
+coach
+Who is the son of Sonny and Cher?
+son
+What are the five boroughs of New York?
+boroughs
+Show me Hemingway's autobiography.
+autobiography
+What kind of music did Lou Reed play?
+music
+In which city does Sylvester Stallone live?
+city
+Who was Vincent van Gogh inspired by?
+Who
+What are the names of the Teenage Mutant Ninja Turtles?
+names
+What are the zodiac signs?
+What
+What languages do they speak in Pakistan?
+What
+Who became president after JFK died?
+president
+In what city is the Heineken brewery?
+city
+What is Elon Musk famous for?
+famous
+What is Batman's real name?
+name
+From which region is the Refosco dal Peduncolo Rosso?
+region
+Give me all Avant-garde jazz record labels.
+labels
+Give me all books written by David Foster Wallace.
+books
+Give me all cars that are produced in Netherlands.
+cars
+Give me all companies in Jena.
+companies
+Give me all inflows of the Lake Houston.
+inflows
+Give me all members of The Who.
+members
+Give me all soccer clubs in Qatar.
+clubs
+Give me all video games published by Black Isle Studios.
+games
+Give me the children of David Foster.
+children
+Give me the homepage of Metropolitan Home.
+homepage
+How big is the Mammoth Pool Reservoir?
+big
+How deep is Steinsee?
+deep
+How high is the Doe Hill Mountain?
+high
+How high is the Volcano Mountain?
+high

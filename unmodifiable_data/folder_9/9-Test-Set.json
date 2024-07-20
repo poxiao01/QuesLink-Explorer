@@ -1,0 +1,302 @@
+[
+    {
+        "sentence": "Which movies starring Mickey Rourke were directed by Guy Ritchie?"
+    },
+    {
+        "sentence": "Which subsidiary of TUI Travel serves both Glasgow and Dublin?"
+    },
+    {
+        "sentence": "Desserts from which country contain fish?"
+    },
+    {
+        "sentence": "How high is the lighthouse in Colombo?"
+    },
+    {
+        "sentence": "List all the musicals with music by Elton John."
+    },
+    {
+        "sentence": "Who was the wife of U.S. president Lincoln?"
+    },
+    {
+        "sentence": "Who is the host of the BBC Wildlife Specials?"
+    },
+    {
+        "sentence": "How much did Pulp Fiction cost?"
+    },
+    {
+        "sentence": "In what city is the Heineken brewery?"
+    },
+    {
+        "sentence": "When did Operation Overlord commence?"
+    },
+    {
+        "sentence": "In which city does the Chile Route 68 end?"
+    },
+    {
+        "sentence": "Who developed Slack?"
+    },
+    {
+        "sentence": "Who was married to president Chirac?"
+    },
+    {
+        "sentence": "What did Bruce Carver die from?"
+    },
+    {
+        "sentence": "Which cities does the Weser flow through?"
+    },
+    {
+        "sentence": "Which books by Kerouac were published by Viking Press?"
+    },
+    {
+        "sentence": "How tall is Amazon Eve?"
+    },
+    {
+        "sentence": "Which museum exhibits The Scream by Munch?"
+    },
+    {
+        "sentence": "Who wrote the book Les Piliers de la terre?"
+    },
+    {
+        "sentence": "Who discovered Ceres?"
+    },
+    {
+        "sentence": "Which river does the Brooklyn Bridge cross?"
+    },
+    {
+        "sentence": "What is the largest country in the world?"
+    },
+    {
+        "sentence": "Who is the mayor of Paris?"
+    },
+    {
+        "sentence": "Who is the coach of Ankara's ice hockey team?"
+    },
+    {
+        "sentence": "Who is the mayor of the capital of French Polynesia?"
+    },
+    {
+        "sentence": "Which awards did Douglas Hofstadter win?"
+    },
+    {
+        "sentence": "How much did the Lego Movie cost?"
+    },
+    {
+        "sentence": "How many languages are spoken in Turkmenistan?"
+    },
+    {
+        "sentence": "In which films did Julia Roberts as well as Richard Gere play?"
+    },
+    {
+        "sentence": "In which country does the Ganges start?"
+    },
+    {
+        "sentence": "In which year was Rachel Stevens born?"
+    },
+    {
+        "sentence": "Where was Bach born?"
+    },
+    {
+        "sentence": "How often did Jane Fonda marry?"
+    },
+    {
+        "sentence": "Who was the first to climb Mount Everest?"
+    },
+    {
+        "sentence": "How many people live in Poland?"
+    },
+    {
+        "sentence": "What is the location of the Houses of Parliament?"
+    },
+    {
+        "sentence": "In which country is the Limerick Lake?"
+    },
+    {
+        "sentence": "What was the last movie with Alec Guinness?"
+    },
+    {
+        "sentence": "What is the highest mountain in Australia?"
+    },
+    {
+        "sentence": "Who created Family Guy?"
+    },
+    {
+        "sentence": "What is the official language of Suriname?"
+    },
+    {
+        "sentence": "Who wrote the song Hotel California?"
+    },
+    {
+        "sentence": "Give me all actors starring in movies directed by William Shatner."
+    },
+    {
+        "sentence": "What is in a chocolate chip cookie?"
+    },
+    {
+        "sentence": "Which ingredients do I need for carrot cake?"
+    },
+    {
+        "sentence": "In which UK city are the headquarters of the MI6?"
+    },
+    {
+        "sentence": "What does IYCM stand for?"
+    },
+    {
+        "sentence": "When did the Ming dynasty dissolve?"
+    },
+    {
+        "sentence": "What is the total population of Melbourne, Florida?"
+    },
+    {
+        "sentence": "What country is Mount Everest in?"
+    },
+    {
+        "sentence": "What is the largest city in Australia?"
+    },
+    {
+        "sentence": "Give me all launch pads operated by NASA."
+    },
+    {
+        "sentence": "Who is the mayor of Tel Aviv?"
+    },
+    {
+        "sentence": "List all episodes of the first season of the HBO television series The Sopranos."
+    },
+    {
+        "sentence": "Who created Batman?"
+    },
+    {
+        "sentence": "Who played Gus Fring in Breaking Bad?"
+    },
+    {
+        "sentence": "In which programming language is GIMP written?"
+    },
+    {
+        "sentence": "In which ancient empire could you pay with cocoa beans?"
+    },
+    {
+        "sentence": "Who is the editor of Forbes?"
+    },
+    {
+        "sentence": "How many people live in the capital of Australia?"
+    },
+    {
+        "sentence": "Which electronics companies were founded in Beijing?"
+    },
+    {
+        "sentence": "Give me all video games published by Mean Hamster Software."
+    },
+    {
+        "sentence": "How many Aldi stores are there?"
+    },
+    {
+        "sentence": "What is the capital of Cameroon?"
+    },
+    {
+        "sentence": "Give me all movies directed by Francis Ford Coppola."
+    },
+    {
+        "sentence": "Which of Tim Burton's films had the highest budget?"
+    },
+    {
+        "sentence": "Give me the grandchildren of Elvis Presley."
+    },
+    {
+        "sentence": "Which country does the creator of Miffy come from?"
+    },
+    {
+        "sentence": "What form of government does Russia have?"
+    },
+    {
+        "sentence": "Give me all Canadian Grunge record labels."
+    },
+    {
+        "sentence": "How many children did Benjamin Franklin have?"
+    },
+    {
+        "sentence": "List the children of Margaret Thatcher."
+    },
+    {
+        "sentence": "From which region is the Melon de Bourgogne?"
+    },
+    {
+        "sentence": "Who is the oldest child of Meryl Streep?"
+    },
+    {
+        "sentence": "List all games by GMT."
+    },
+    {
+        "sentence": "Which airports does Yeti Airlines serve?"
+    },
+    {
+        "sentence": "Which Indian company has the most employees?"
+    },
+    {
+        "sentence": "Which city has the most inhabitants?"
+    },
+    {
+        "sentence": "Who created Wikipedia?"
+    },
+    {
+        "sentence": "How many ethnic groups live in Slovenia?"
+    },
+    {
+        "sentence": "Who is the president of Eritrea?"
+    },
+    {
+        "sentence": "Which films did Stanley Kubrick direct?"
+    },
+    {
+        "sentence": "When was the Titanic completed?"
+    },
+    {
+        "sentence": "How many pages does War and Peace have?"
+    },
+    {
+        "sentence": "What is the highest mountain in Italy?"
+    },
+    {
+        "sentence": "How tall is Claudia Schiffer?"
+    },
+    {
+        "sentence": "Who was John F. Kennedy's vice president?"
+    },
+    {
+        "sentence": "Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?"
+    },
+    {
+        "sentence": "Who was the successor of John F. Kennedy?"
+    },
+    {
+        "sentence": "Who composed the soundtrack for Cameron's Titanic?"
+    },
+    {
+        "sentence": "Which movies did Kurosawa direct?"
+    },
+    {
+        "sentence": "In which time zone is Rome?"
+    },
+    {
+        "sentence": "Give me the currency of China."
+    },
+    {
+        "sentence": "Who are the developers of DBpedia?"
+    },
+    {
+        "sentence": "Who is the king of the Netherlands?"
+    },
+    {
+        "sentence": "In which city did Nikos Kazantzakis die?"
+    },
+    {
+        "sentence": "Give me a list of all critically endangered birds."
+    },
+    {
+        "sentence": "How many inhabitants does the largest city in Canada have?"
+    },
+    {
+        "sentence": "In which military conflicts did Lawrence of Arabia participate?"
+    },
+    {
+        "sentence": "Which book has the most pages?"
+    }
+]

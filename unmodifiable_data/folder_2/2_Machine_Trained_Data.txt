@@ -1,0 +1,990 @@
+[
+    {
+        "index": 1,
+        "sentence": "Who operates twin Cities 400 ?",
+        "疑问词": []
+    },
+    {
+        "index": 2,
+        "sentence": "What is the city of the Maine School of Science and Mathematics is also the resting place of Charles A. Boutelle ?",
+        "疑问词": [
+            [
+                "city",
+                0.9565217391304348
+            ],
+            [
+                "What",
+                0.8888888888888888
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "sentence": "Give me a count of royalties buried in Rome ?",
+        "疑问词": [
+            [
+                "count",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "sentence": "In how many places are Marjas found?",
+        "疑问词": [
+            [
+                "places",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "sentence": "List the soccer players whose current team has the ground Stoke-on-Trent.",
+        "疑问词": [
+            [
+                "players",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "sentence": "Which are the countires where Pioneer Corporation has flourished?",
+        "疑问词": [
+            [
+                "countires",
+                1.0
+            ],
+            [
+                "Which",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "sentence": "Who is the president of Carl Stokes nad Wyche Fowler ?",
+        "疑问词": []
+    },
+    {
+        "index": 8,
+        "sentence": "List few Swedish language movies ?",
+        "疑问词": [
+            [
+                "movies",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "sentence": "What is the currency of Kerguelen Islands ?",
+        "疑问词": [
+            [
+                "currency",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "sentence": "What are the musicals whose musicians worked under Sony Music Entertainment?",
+        "疑问词": [
+            [
+                "musicals",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "sentence": "Whose shrines are in a place governed by Justin Trudeau?",
+        "疑问词": []
+    },
+    {
+        "index": 12,
+        "sentence": "What are the academic interests of the past members of Senser?",
+        "疑问词": [
+            [
+                "interests",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "sentence": "Who is the leader of Hackweiser ?",
+        "疑问词": []
+    },
+    {
+        "index": 14,
+        "sentence": "In which city is the sister station of KTXY located ?",
+        "疑问词": [
+            [
+                "city",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "sentence": "Where was the successor of Hank Brown born?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "sentence": "Name the constituency of Jonas Gahr where Sverre Krogh was born ?",
+        "疑问词": [
+            [
+                "constituency",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "sentence": "What is the common battle fought by Stephen Urban and Ali Habib Mahmud ?",
+        "疑问词": [
+            [
+                "battle",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "sentence": "What is the relegious affiliations of Katyayana ?",
+        "疑问词": [
+            [
+                "affiliations",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "sentence": "Where was the engineer born who manufactured EP R.E.P. 1?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "sentence": "Who all have been a manager of english under twenty one football team?",
+        "疑问词": []
+    },
+    {
+        "index": 21,
+        "sentence": "What is the military conflict whose commanders are John McEwen and Phm Vn ng?",
+        "疑问词": [
+            [
+                "conflict",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "sentence": "Which party has come in power in Mumbai North?",
+        "疑问词": [
+            [
+                "party",
+                1.0
+            ],
+            [
+                "power",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "sentence": "Name the tv show with judges Randy Jackson and Jennifer Lopez?",
+        "疑问词": [
+            [
+                "show",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "sentence": "What is the largest city of the country which hosted the 1951 Asian Games?",
+        "疑问词": [
+            [
+                "city",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "sentence": "Which royalty was married to ptolemy XIII Theos Philopator and had mother named Cleopatra V ?",
+        "疑问词": [
+            [
+                "royalty",
+                1.0
+            ],
+            [
+                "mother",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "sentence": "Whose theme music was composed by a band which collaborated with Phish?",
+        "疑问词": []
+    },
+    {
+        "index": 27,
+        "sentence": "Which administrative headquarters of the Pulau Ubin is also the resting place of the Nicole Lai",
+        "疑问词": [
+            [
+                "headquarters",
+                1.0
+            ],
+            [
+                "resting",
+                0.8461538461538461
+            ],
+            [
+                "place",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "sentence": "Where did the beverages sold by Refriango originate?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ],
+            [
+                "beverages",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "sentence": "Who built the stadium which was rented by Costa Rica national football team?",
+        "疑问词": []
+    },
+    {
+        "index": 30,
+        "sentence": "In which country does the Auckland rugby union team play  ?",
+        "疑问词": [
+            [
+                "country",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "sentence": "What is the serving railway line of Warwick railway station, Perth ?",
+        "疑问词": [
+            [
+                "line",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "sentence": "What is the radio show created by Timoteo Jeffries, about?",
+        "疑问词": [
+            [
+                "show",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "sentence": "Where are all the protected areas near Bend, Oregon?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ],
+            [
+                "areas",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "sentence": "Which notable series of Russell T Davies is also the series of Short Trips: A day in the life ?",
+        "疑问词": [
+            [
+                "series",
+                1.0
+            ],
+            [
+                "day",
+                0.8461538461538461
+            ],
+            [
+                "life",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "sentence": "Which battles were fought under the president when Chung Won Shik was the prime minister?",
+        "疑问词": [
+            [
+                "battles",
+                1.0
+            ],
+            [
+                "president",
+                0.8461538461538461
+            ],
+            [
+                "minister",
+                0.8461538461538461
+            ],
+            [
+                "Chung",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "sentence": "Which office holder's resting place is in  Palo Alto, California and was succeeded by Adrian A. Basora ?",
+        "疑问词": [
+            [
+                "holder",
+                1.0
+            ],
+            [
+                "office",
+                0.8461538461538461
+            ],
+            [
+                "resting",
+                0.8461538461538461
+            ],
+            [
+                "place",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "sentence": "Which movies have been published by Cinema International Corporation?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "sentence": "What is the total number of other destinations of the airlines whose one of the destinations is Mediterranean Sea?",
+        "疑问词": [
+            [
+                "number",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "sentence": "Count the total number of academic discipline of the journals whose one of the academic discipline is Neuroimaging ?",
+        "疑问词": [
+            [
+                "number",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "sentence": "List the award which have been won by both Charles LeMaire and Nick Park ?",
+        "疑问词": [
+            [
+                "award",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "sentence": "What are some cities which have a Ferris wheel?",
+        "疑问词": [
+            [
+                "cities",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "sentence": "Name the movie who has screenplay by Akiva Goldsman and is edited by Mark Stevens ?",
+        "疑问词": [
+            [
+                "movie",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "sentence": "Count the movies in Swedish language?",
+        "疑问词": [
+            [
+                "movies",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "sentence": "Give me the total number of television shows whose theme music composer is Julian Gingell and created by  Simon Fuller?",
+        "疑问词": [
+            [
+                "number",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "sentence": "Which cloud platform of Google cloud connect also provides services to 21Vianet ?",
+        "疑问词": [
+            [
+                "platform",
+                1.0
+            ],
+            [
+                "cloud",
+                0.8461538461538461
+            ],
+            [
+                "connect",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "sentence": "Name the office holder whose constituency is Haight-Ashbury?",
+        "疑问词": [
+            [
+                "holder",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "sentence": "Name the loocation of Lekh Castle which is also the location of SamurAbsheron channel ?",
+        "疑问词": [
+            [
+                "loocation",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "sentence": "Count the number of families of the Animal kingdom.",
+        "疑问词": [
+            [
+                "number",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "sentence": "What is the political party of the person succeeded by A.K. Singh?",
+        "疑问词": [
+            [
+                "party",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "sentence": "Who is the head coach of the teams in Middlesbrough FC?",
+        "疑问词": []
+    },
+    {
+        "index": 51,
+        "sentence": "To which uni. did  sidney c patridge and cyril hume both once went?",
+        "疑问词": [
+            [
+                "uni",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "sentence": "People in the royal Thai army follow which religion?",
+        "疑问词": [
+            [
+                "army",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "sentence": "Who are the producers of the movies  which has music by Gary Chang ?",
+        "疑问词": []
+    },
+    {
+        "index": 54,
+        "sentence": "Where was Special 26 recorded ?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "sentence": "How many movies music composers are associated with Demis Roussos ?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ],
+            [
+                "composers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "sentence": "To which nation did David Animle Hanses owe his allegiance?",
+        "疑问词": [
+            [
+                "nation",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "sentence": "What is the alma mater of the actors of The God Who Wasn't There ?",
+        "疑问词": [
+            [
+                "mater",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "sentence": "List some musicians associated with famous guitar players?",
+        "疑问词": [
+            [
+                "musicians",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "sentence": "What are the airlines whose hub airport is operated by the Los Angeles World Airports?",
+        "疑问词": [
+            [
+                "airlines",
+                0.9565217391304348
+            ],
+            [
+                "What",
+                0.8888888888888888
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "sentence": "Which company's cars are assembled in Colombia?",
+        "疑问词": [
+            [
+                "company",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "sentence": "Who directed The Haunted House ?",
+        "疑问词": []
+    },
+    {
+        "index": 62,
+        "sentence": "Count all the different purposes followed by the different NGOs.",
+        "疑问词": [
+            [
+                "purposes",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "sentence": "The players born in Bellaire, Ohio have played for which team?",
+        "疑问词": [
+            [
+                "players",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "sentence": "What is the common ideology followed by Katyayana and Palang Dharma Party ?",
+        "疑问词": [
+            [
+                "ideology",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "sentence": "Count the tenants of MasterCard Centre?",
+        "疑问词": [
+            [
+                "tenants",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "sentence": "Who are starring in the movies written by Mark Sandrich ?",
+        "疑问词": []
+    },
+    {
+        "index": 67,
+        "sentence": "Count the number of religions followed by BJP members.",
+        "疑问词": [
+            [
+                "number",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "sentence": "What is the mascot of the rival school of Sullivan Central High?",
+        "疑问词": [
+            [
+                "mascot",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "sentence": "What award has been awarded to both Dion Beebe and Charles LeMaire?",
+        "疑问词": [
+            [
+                "award",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "sentence": "What is the birth name  of Putri Raemawasti ?",
+        "疑问词": [
+            [
+                "name",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "sentence": "What is the party of the politicians whose children is Sanjay Gandhi ?",
+        "疑问词": [
+            [
+                "party",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "sentence": "Name the tenants of MAsterCard center wich is also the draft team of Antoine Bibeau?",
+        "疑问词": [
+            [
+                "tenants",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "sentence": "What is the number of occupation of the people who died in tampa bay, florida?",
+        "疑问词": [
+            [
+                "number",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "sentence": "Who was the United States president who also served as a governor of Indiana Territory?",
+        "疑问词": []
+    },
+    {
+        "index": 75,
+        "sentence": "List the people who were born in Gelnhausen and graduated from Pepperdine University?",
+        "疑问词": [
+            [
+                "people",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "sentence": "Musical artists who are associated with Ren & Angela were born where ?",
+        "疑问词": []
+    },
+    {
+        "index": 77,
+        "sentence": "What religion do the Wickramabahu Centeral College and Neungin High School both follow?",
+        "疑问词": [
+            [
+                "religion",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "sentence": "Who designed the language integrated query?",
+        "疑问词": []
+    },
+    {
+        "index": 79,
+        "sentence": "Name the debut team of Dan Otero ?",
+        "疑问词": [
+            [
+                "team",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "sentence": "Who started at the pole position in both 1997 canadian grand prix and the 94 spanish one?",
+        "疑问词": []
+    },
+    {
+        "index": 81,
+        "sentence": "Who founded the Not on our Watch NGO?",
+        "疑问词": []
+    },
+    {
+        "index": 82,
+        "sentence": "What is the name of the artist which worked on the subsequent work of Ella Loves Cole ?",
+        "疑问词": [
+            [
+                "name",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "sentence": "Which company owns Sony bank ?",
+        "疑问词": [
+            [
+                "company",
+                1.0
+            ],
+            [
+                "bank",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "sentence": "What state was Cyrus Mann born in, and has the famous Downriver ?",
+        "疑问词": [
+            [
+                "state",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "sentence": "Who is a religious figure titled superior general?",
+        "疑问词": []
+    },
+    {
+        "index": 86,
+        "sentence": "List the employments of people who died in Tampa, Florida.",
+        "疑问词": [
+            [
+                "employments",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "sentence": "What are some famous veterinary physicians known for?",
+        "疑问词": [
+            [
+                "physicians",
+                0.9565217391304348
+            ],
+            [
+                "What",
+                0.8888888888888888
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "sentence": "List the movies edited by Julian Doyle in which music was composed by Geoffrey Brugon ?",
+        "疑问词": [
+            [
+                "movies",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "sentence": "Name the children of the person who is the star of The Weathered Underground ?",
+        "疑问词": [
+            [
+                "children",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "sentence": "Which owner of Chelsea F.C also owns Evraz ?",
+        "疑问词": [
+            [
+                "owner",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "sentence": "Name the office holder with associate as Marcus Calpurnius Bibulus and has a kid named Augustus?",
+        "疑问词": [
+            [
+                "holder",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "sentence": "What are the movies whose screenplay is done by Eric Roth?",
+        "疑问词": [
+            [
+                "movies",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "sentence": "What is the total number of writers whose singles are recorded in Miami?",
+        "疑问词": [
+            [
+                "number",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "sentence": "What religions are followed by members of the societies whose architectural influences can be seen on the Sanggar Agung ?",
+        "疑问词": [
+            [
+                "religions",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "sentence": "Who is the producer of album which has the song Money?",
+        "疑问词": []
+    },
+    {
+        "index": 96,
+        "sentence": "List the Sci-fi TV shows with theme music given by Ron Grainer?",
+        "疑问词": [
+            [
+                "shows",
+                0.95
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "sentence": "What is the company to which Fusajiro Yamauchi proprietor to ?",
+        "疑问词": [
+            [
+                "company",
+                0.9565217391304348
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "sentence": "Who is the writer of mark twain Tonight ?",
+        "疑问词": []
+    },
+    {
+        "index": 99,
+        "sentence": "How many members are there in the European Go Federation?",
+        "疑问词": [
+            [
+                "members",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "sentence": "Daniel L D Granger and Job Durfee have based their political career in which US state?",
+        "疑问词": []
+    }
+]

@@ -1,0 +1,1010 @@
+[
+    {
+        "index": 1,
+        "sentence": "Name the office holder with successor as Adrian A Basora and child as Lori Black ?",
+        "疑问词": [
+            [
+                "holder",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "sentence": "Who is the owner of the South end ?",
+        "疑问词": []
+    },
+    {
+        "index": 3,
+        "sentence": "What is the colour of Xocolatlite ?",
+        "疑问词": [
+            [
+                "colour",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "sentence": "For how many other teams have the members of Atlant Moscow Oblast played?",
+        "疑问词": []
+    },
+    {
+        "index": 5,
+        "sentence": "What is the state of origin of the president whose alma mater is Hellenic Naval Academy ?",
+        "疑问词": [
+            [
+                "state",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "sentence": "What is the common ethnicity of the Maike Evers and Francisco Lachowski ?",
+        "疑问词": [
+            [
+                "ethnicity",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "sentence": "In which places do companies founded in Newcastle operate?",
+        "疑问词": [
+            [
+                "places",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "sentence": "Which senator served in military units VMF-155 and VMF-218?",
+        "疑问词": [
+            [
+                "senator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "sentence": "What kind of games are made by Interplay Entertainment?",
+        "疑问词": [
+            [
+                "kind",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "sentence": "Which producer of Purvis Eureka engine is also the owner of Ford Theatre ?",
+        "疑问词": [
+            [
+                "producer",
+                1.0
+            ],
+            [
+                "engine",
+                0.8461538461538461
+            ],
+            [
+                "owner",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "sentence": "What developed EMMS?",
+        "疑问词": [
+            [
+                "What",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "sentence": "Which music band made Take Me There, and to which Tedd Riley was associated?",
+        "疑问词": [
+            [
+                "band",
+                1.0
+            ],
+            [
+                "music",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "sentence": "In which time zone is Pong Pha?",
+        "疑问词": [
+            [
+                "zone",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "sentence": "How many fictional characters are there in a series in which Craig Robinson acted?",
+        "疑问词": [
+            [
+                "characters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "sentence": "Which political party of Chandra Shekhar is also the political party of Datl Satyanarayana Raju ?",
+        "疑问词": [
+            [
+                "party",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "sentence": "Who owns the airport in Paphos?",
+        "疑问词": []
+    },
+    {
+        "index": 17,
+        "sentence": "What is the baseball team whose club manager is Chip Hale?",
+        "疑问词": [
+            [
+                "team",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "sentence": "Which bacteria's taxonomic class is Bacilli?",
+        "疑问词": [
+            [
+                "bacteria",
+                1.0
+            ],
+            [
+                "class",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "sentence": "What honours did Reigh Count receive?",
+        "疑问词": [
+            [
+                "honours",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "sentence": "What are some products of the the company whose subsidiary is Sony Corp shareholders and subsidies?",
+        "疑问词": [
+            [
+                "products",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "sentence": "Who built the stadiums where 2014 FIFA under 17 woman's world cup took place?",
+        "疑问词": []
+    },
+    {
+        "index": 22,
+        "sentence": "Which area operataed by the South Side Elevated Railroad is also the palce of death of the Sakari Suzuki ?",
+        "疑问词": [
+            [
+                "area",
+                1.0
+            ],
+            [
+                "palce",
+                0.8461538461538461
+            ],
+            [
+                "death",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "sentence": "What is the television show whose related with  Doctor Who Confidential?",
+        "疑问词": [
+            [
+                "show",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "sentence": "In which city wasThe Triple Door (The Courage album)  performed live?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "sentence": "Which nearest city of Jurgens Site is the death plce of Jimmie Heuga ?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ],
+            [
+                "death",
+                0.8461538461538461
+            ],
+            [
+                "plce",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "sentence": "List the battles fought by  Ali Habib Mahmud ?",
+        "疑问词": [
+            [
+                "battles",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "sentence": "How many companies were started in the states?",
+        "疑问词": [
+            [
+                "companies",
+                1.0
+            ],
+            [
+                "states",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "sentence": "How many movies are distributed by Cinema International Corporation?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "sentence": "Name the local authority of Trinity School, Brentwood ?",
+        "疑问词": [
+            [
+                "authority",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "sentence": "Name the president of Wyche Fowler ?",
+        "疑问词": [
+            [
+                "president",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "sentence": "In which fields have people born in Lausanne worked?",
+        "疑问词": [
+            [
+                "fields",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "sentence": "Which Texas based company  was founded by Jim Harris ?",
+        "疑问词": [
+            [
+                "company",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "sentence": "Name a show hosted by Brian Dunkleman and judged by Harry Connick, Jr.?",
+        "疑问词": []
+    },
+    {
+        "index": 34,
+        "sentence": "To which educational institute does Cornell University Press belong to?",
+        "疑问词": [
+            [
+                "institute",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "sentence": "In which country's cuisine, ham is an important part?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ],
+            [
+                "cuisine",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "sentence": "List the softwares which runs on Microsoft Windows and has license as Software as a service?",
+        "疑问词": [
+            [
+                "softwares",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "sentence": "Which ppolitical party of Yashpal Kapur is also the owner of National Herald ?",
+        "疑问词": [
+            [
+                "party",
+                1.0
+            ],
+            [
+                "owner",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "sentence": "Who all have been presenters on shows by the NBC?",
+        "疑问词": []
+    },
+    {
+        "index": 39,
+        "sentence": "Give me the list of cars which are the predecessor of Full Sized Cars?",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "sentence": "List the people with final resting place as Plymouth, Vermont and has Samuel W. McCall as predecessor?",
+        "疑问词": [
+            [
+                "people",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "sentence": "What disease led to the demise of Letitia MacTavish Hargrave and Martino Martini ?",
+        "疑问词": [
+            [
+                "disease",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "sentence": "What are some software which are written in languages that are run on Unix like OS?",
+        "疑问词": [
+            [
+                "software",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "sentence": "List all the movies whose directors were born in Kenosha, Wisconsin?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "sentence": "What stadium's operator is Stan Kroenke",
+        "疑问词": [
+            [
+                "stadium",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "sentence": "Whose commanders are John Mc Ewen and Park Chunghee?",
+        "疑问词": []
+    },
+    {
+        "index": 46,
+        "sentence": "Who gave guest appearances on the show which is the next episode after the Bombshell one?",
+        "疑问词": []
+    },
+    {
+        "index": 47,
+        "sentence": "What is manufactured by a company headed by Kazuo Hirai?",
+        "疑问词": [
+            [
+                "company",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "sentence": "Under which presidents have politicians from the Continental army served?",
+        "疑问词": [
+            [
+                "army",
+                1.0
+            ],
+            [
+                "which",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "sentence": "Philadelphia City Council is the governing body of which city?",
+        "疑问词": [
+            [
+                "body",
+                1.0
+            ],
+            [
+                "city",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "sentence": "What are the binomial authority of Menetries's warbler?",
+        "疑问词": [
+            [
+                "authority",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "sentence": "Name the movie which has music composed by Elliot Goldenthal and screenplay by Akiva Goldsman ?",
+        "疑问词": [
+            [
+                "movie",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "sentence": "Name the fictional character whose relative are Duck family and Clan McDuck?",
+        "疑问词": [
+            [
+                "character",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "sentence": "Which university with athletics department in NCAA Division I Football Bowl Subdivision has nickname Tulane Green Wave ?",
+        "疑问词": [
+            [
+                "university",
+                1.0
+            ],
+            [
+                "department",
+                0.8461538461538461
+            ],
+            [
+                "nickname",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "sentence": "Which state does Jerome B. Chaffee belong ?",
+        "疑问词": [
+            [
+                "state",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "sentence": "In which of the parties that have governed over Rishikesh, does Govinda belong too?",
+        "疑问词": [
+            [
+                "parties",
+                1.0
+            ],
+            [
+                "which",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "sentence": "What awards are won by the screenwriter of Lucky You?",
+        "疑问词": [
+            [
+                "awards",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "sentence": "Name  the Pole driver of 1994 Spanish Grand Prix ?",
+        "疑问词": [
+            [
+                "driver",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "sentence": "Where did Georges Wolinski and Judson Huss die/",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "sentence": "What is the parent company of the airline whose hub is in Detroit?",
+        "疑问词": [
+            [
+                "company",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "sentence": "What is the appliance which uses the central processing unit manufactured by Marvell Technology Group?",
+        "疑问词": [
+            [
+                "appliance",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "sentence": "Give me all magazines whose founder died in Berkeley, California?",
+        "疑问词": [
+            [
+                "magazines",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "sentence": "Which technological products were manufactured by Foxconn?",
+        "疑问词": [
+            [
+                "products",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "sentence": "Whose predecessor had Jenny Macklin as a deputy ?",
+        "疑问词": []
+    },
+    {
+        "index": 64,
+        "sentence": "How many cars are similar to the ones assembled in the Jefferson North Assembly?",
+        "疑问词": [
+            [
+                "cars",
+                1.0
+            ],
+            [
+                "ones",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "sentence": "Count the number of region of AN/FSQ-7 Combat Direction Central?",
+        "疑问词": [
+            [
+                "number",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "sentence": "What are the common houses of US Congress and the Kansas Legislature?",
+        "疑问词": [
+            [
+                "houses",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "sentence": "From how many different places have people gone to the Harward Medical School?",
+        "疑问词": []
+    },
+    {
+        "index": 68,
+        "sentence": "Name the television show where Mona Marshall has given voice and is distributed by Comedy Central?",
+        "疑问词": [
+            [
+                "show",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "sentence": "What are Jerry Bock's musicals based upon?",
+        "疑问词": [
+            [
+                "musicals",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "sentence": "Give me list of people who were the first to climb a peak in the Yosemite park?",
+        "疑问词": [
+            [
+                "first",
+                1.0
+            ],
+            [
+                "list",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "sentence": "What is Naval Support Activity Naples a part of?",
+        "疑问词": [
+            [
+                "part",
+                0.8095238095238095
+            ],
+            [
+                "Naples",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "sentence": "Who has allegiance is Colony of Virginia and buried in Montpelier?",
+        "疑问词": []
+    },
+    {
+        "index": 73,
+        "sentence": "What is the successor of PlayStation 4",
+        "疑问词": [
+            [
+                "successor",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "sentence": "What is the sovereign state of the Dafydd Benfras where Jasmine Lowson is also citizen of ?",
+        "疑问词": [
+            [
+                "state",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "sentence": "Who did their highschool from a school whose mascot was a fighting tiger?",
+        "疑问词": []
+    },
+    {
+        "index": 76,
+        "sentence": "Which destination of Emerald Air is also the city served by houston Fort Bend Airport ?",
+        "疑问词": [
+            [
+                "destination",
+                1.0
+            ],
+            [
+                "city",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "sentence": "Name the region served by Jerusalem Institue of Justice which was also the conflict region in GazaIsrael ?",
+        "疑问词": [
+            [
+                "region",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "sentence": "Name the company whose key person is Raymond Conner and produces Boeing CH-47 Chinook?",
+        "疑问词": [
+            [
+                "company",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "sentence": "What is the total number of professions in which someone who has suicided worked?",
+        "疑问词": [
+            [
+                "number",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "sentence": "How many golf players are there in Arizona State Sun Devils ?",
+        "疑问词": [
+            [
+                "players",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "sentence": "Count the number of characters in Batman Live?",
+        "疑问词": [
+            [
+                "number",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "sentence": "List the services provided by the company which provides Microsoft azure as one of the service ?",
+        "疑问词": [
+            [
+                "services",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "sentence": "What are some team members of the team based in Camp Nou?",
+        "疑问词": [
+            [
+                "members",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "sentence": "Which universities are also known as the Tulane Green wave?",
+        "疑问词": [
+            [
+                "universities",
+                1.0
+            ],
+            [
+                "wave",
+                0.8461538461538461
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "sentence": "What is the branch of the politicians whose governor is Bill Clements?",
+        "疑问词": [
+            [
+                "branch",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "sentence": "Who composed the episode after which came Butter's Very own Episode?",
+        "疑问词": []
+    },
+    {
+        "index": 87,
+        "sentence": "What is the location country of Teperberg 1870 ?",
+        "疑问词": [
+            [
+                "country",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "sentence": "List the software developed by Shawn Fanning ?",
+        "疑问词": [
+            [
+                "software",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "sentence": "What is the stylistic origin of the music genres where the Bass guitar is important?",
+        "疑问词": [
+            [
+                "origin",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "sentence": "What are the other notable work of the executive producer of The Runaway Bride episode of Doctor Who?",
+        "疑问词": [
+            [
+                "work",
+                0.8095238095238095
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "sentence": "Who was the voice actor of allen walker also gave voice to kimihiro watanuki?",
+        "疑问词": []
+    },
+    {
+        "index": 92,
+        "sentence": "Name the office holder whose final resting place is North Bend and was part of Siege of fort recovery conflict ?",
+        "疑问词": [
+            [
+                "holder",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "sentence": "What type of engines are utilised by Purvis Eureka?",
+        "疑问词": [
+            [
+                "type",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "sentence": "Who edited Easy street ?",
+        "疑问词": []
+    },
+    {
+        "index": 95,
+        "sentence": "Who were involved in the wars where Jonathan Haskell battled?",
+        "疑问词": []
+    },
+    {
+        "index": 96,
+        "sentence": "In which city was the film star of Singhasan Battisi born ?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "sentence": "What are the reason served by Toll Global Express which is also the country of LPGA ?",
+        "疑问词": [
+            [
+                "reason",
+                0.8095238095238095
+            ],
+            [
+                "What",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "sentence": "List the territory of Tonkin Campaign ?",
+        "疑问词": [
+            [
+                "territory",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "sentence": "For which teams did Ryan Powell play for?",
+        "疑问词": [
+            [
+                "teams",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "sentence": "What are the awards won by the person who wrote the screen play for Lost in Rio ?",
+        "疑问词": [
+            [
+                "awards",
+                0.8095238095238095
+            ]
+        ]
+    }
+]

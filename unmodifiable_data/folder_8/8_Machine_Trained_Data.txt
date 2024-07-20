@@ -1,0 +1,954 @@
+[
+    {
+        "index": 1,
+        "sentence": "Give me all films produced by Hal Roach.",
+        "疑问词": [
+            [
+                "films",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "sentence": "Give me all actors starring in Batman Begins.",
+        "疑问词": [
+            [
+                "actors",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "sentence": "Give me all movies with Tom Cruise!",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "sentence": "List all episodes of the first season of the HBO television series The Sopranos!",
+        "疑问词": [
+            [
+                "episodes",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "sentence": "Which books were written by Danielle Steel?",
+        "疑问词": [
+            [
+                "books",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "sentence": "Who wrote the book The pillars of the Earth?",
+        "疑问词": []
+    },
+    {
+        "index": 7,
+        "sentence": "Which mountains are higher than the Nanga Parbat?",
+        "疑问词": [
+            [
+                "mountains",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "sentence": "When was Capcom founded?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "sentence": "Which software has been published by Mean Hamster Software?",
+        "疑问词": [
+            [
+                "software",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "sentence": "Which software has been developed by organizations founded in California?",
+        "疑问词": [
+            [
+                "software",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "sentence": "Which country has the most official languages?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "sentence": "Give me all European Capitals!",
+        "疑问词": [
+            [
+                "Capitals",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "sentence": "Who produced films starring Natalie Portman?",
+        "疑问词": []
+    },
+    {
+        "index": 14,
+        "sentence": "In which films did Julia Roberts as well as Richard Gere play?",
+        "疑问词": [
+            [
+                "play",
+                1.0
+            ],
+            [
+                "films",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "sentence": "Give me the websites of companies with more than 500000 employees.",
+        "疑问词": [
+            [
+                "websites",
+                1.0
+            ],
+            [
+                "companies",
+                0.8333333333333334
+            ],
+            [
+                "employees",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "sentence": "Give me all female Russian astronauts.",
+        "疑问词": [
+            [
+                "astronauts",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "sentence": "Give me the birthdays of all actors of the television show Charmed.",
+        "疑问词": [
+            [
+                "birthdays",
+                1.0
+            ],
+            [
+                "actors",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "sentence": "Which countries have places with more than two caves?",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "sentence": "Give me the capitals of all countries in Africa.",
+        "疑问词": [
+            [
+                "capitals",
+                1.0
+            ],
+            [
+                "countries",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "sentence": "How many employees does IBM have?",
+        "疑问词": [
+            [
+                "employees",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "sentence": "Which states border Illinois?",
+        "疑问词": [
+            [
+                "border",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "sentence": "Which European countries have a constitutional monarchy?",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "sentence": "Which awards did WikiLeaks win?",
+        "疑问词": [
+            [
+                "awards",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "sentence": "Which state of the USA has the highest population density?",
+        "疑问词": [
+            [
+                "state",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "sentence": "When did Finland join the EU?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "sentence": "What is the highest mountain in Australia?",
+        "疑问词": [
+            [
+                "mountain",
+                0.9166666666666666
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "sentence": "Give me all companies in the advertising industry.",
+        "疑问词": [
+            [
+                "companies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "sentence": "Give me all presidents of the United States.",
+        "疑问词": [
+            [
+                "presidents",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "sentence": "Who was the wife of U.S. president Lincoln?",
+        "疑问词": []
+    },
+    {
+        "index": 30,
+        "sentence": "What is the official website of Tom Cruise?",
+        "疑问词": [
+            [
+                "website",
+                0.9166666666666666
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "sentence": "Give me all people with first name Jimmy.",
+        "疑问词": [
+            [
+                "people",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "sentence": "Who created Wikipedia?",
+        "疑问词": []
+    },
+    {
+        "index": 33,
+        "sentence": "Give me all video games published by Mean Hamster Software.",
+        "疑问词": [
+            [
+                "games",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "sentence": "Which languages are spoken in Estonia?",
+        "疑问词": [
+            [
+                "languages",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "sentence": "How many films did Hal Roach produce?",
+        "疑问词": [
+            [
+                "films",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "sentence": "Give me all books written by Danielle Steel.",
+        "疑问词": [
+            [
+                "books",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "sentence": "Which airports are located in California, USA?",
+        "疑问词": [
+            [
+                "airports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "sentence": "Give me all Canadian Grunge record labels.",
+        "疑问词": [
+            [
+                "labels",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "sentence": "Give me all movies with Tom Cruise.",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "sentence": "Give me all female German chancellors.",
+        "疑问词": [
+            [
+                "chancellors",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "sentence": "Which budget did the first movie of Zdenek Sverak have?",
+        "疑问词": [
+            [
+                "budget",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "sentence": "How many big fires struck Paris during the Middle Ages?",
+        "疑问词": [
+            [
+                "fires",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "sentence": "How often was Michael Jordan divorced?",
+        "疑问词": []
+    },
+    {
+        "index": 44,
+        "sentence": "What is the most beautiful painting?",
+        "疑问词": [
+            [
+                "painting",
+                0.9166666666666666
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "sentence": "Give me all animal species that live in the Teutoburg Forest.",
+        "疑问词": [
+            [
+                "species",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "sentence": "When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "sentence": "Who is the daughter of Ingrid Bergman married to?",
+        "疑问词": []
+    },
+    {
+        "index": 48,
+        "sentence": "In which city did John F. Kennedy die?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "sentence": "Which classis do tree frogs belong to?",
+        "疑问词": [
+            [
+                "classis",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "sentence": "When did Latvia join the EU?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "sentence": "Give me all actors starring in Last Action Hero.",
+        "疑问词": [
+            [
+                "actors",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "sentence": "Who wrote the book Les Piliers de la terre?",
+        "疑问词": []
+    },
+    {
+        "index": 53,
+        "sentence": "Give me all cosmonauts.",
+        "疑问词": [
+            [
+                "cosmonauts",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "sentence": "How many countries are there in Europe?",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "sentence": "In which U.S. state is Mount McKinley located?",
+        "疑问词": [
+            [
+                "state",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "sentence": "Which countries have more than ten caves?",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "sentence": "Give me all communist countries.",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "sentence": "Which U.S. state has the highest population density?",
+        "疑问词": [
+            [
+                "state",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "sentence": "Which countries adopted the Euro?",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "sentence": "Which monarchs were married to a German?",
+        "疑问词": [
+            [
+                "monarchs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "sentence": "What is the official language of Suriname?",
+        "疑问词": [
+            [
+                "language",
+                0.9166666666666666
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "sentence": "Who is the mayor of Tel Aviv?",
+        "疑问词": []
+    },
+    {
+        "index": 63,
+        "sentence": "What is the highest place of the Urals?",
+        "疑问词": [
+            [
+                "place",
+                0.9166666666666666
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "sentence": "Who is the editor of Forbes?",
+        "疑问词": []
+    },
+    {
+        "index": 65,
+        "sentence": "Give me all libraries established earlier than 1400.",
+        "疑问词": [
+            [
+                "libraries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "sentence": "Give me all federal chancellors of Germany.",
+        "疑问词": [
+            [
+                "chancellors",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "sentence": "List all episodes of the first season of the HBO television series The Sopranos.",
+        "疑问词": [
+            [
+                "episodes",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "sentence": "Which companies work in the aerospace industry as well as in medicine?",
+        "疑问词": [
+            [
+                "companies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "sentence": "How many Aldi stores are there?",
+        "疑问词": [
+            [
+                "stores",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "sentence": "Who was the first president of the United States?",
+        "疑问词": []
+    },
+    {
+        "index": 71,
+        "sentence": "Give me all female given names.",
+        "疑问词": [
+            [
+                "names",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "sentence": "Who wrote the book The Pillars of the Earth?",
+        "疑问词": []
+    },
+    {
+        "index": 73,
+        "sentence": "Which organizations were founded in 1930?",
+        "疑问词": [
+            [
+                "organizations",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "sentence": "Who was John F. Kennedy's vice president?",
+        "疑问词": []
+    },
+    {
+        "index": 75,
+        "sentence": "Give me a list of all bandleaders that play trumpet.",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ],
+            [
+                "bandleaders",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "sentence": "Give me all world heritage sites designated within the past two years.",
+        "疑问词": [
+            [
+                "sites",
+                1.0
+            ],
+            [
+                "years",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "sentence": "What were the main discoveries of the Mars rover Curiosity?",
+        "疑问词": [
+            [
+                "discoveries",
+                0.9166666666666666
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "sentence": "How many languages are spoken in Turkmenistan?",
+        "疑问词": [
+            [
+                "languages",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "sentence": "Give me all actors starring in movies directed by William Shatner.",
+        "疑问词": [
+            [
+                "actors",
+                1.0
+            ],
+            [
+                "movies",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "sentence": "Give me all Methodist politicians.",
+        "疑问词": [
+            [
+                "politicians",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "sentence": "Give me all islands that belong to Japan.",
+        "疑问词": [
+            [
+                "islands",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "sentence": "Give me all Apollo 14 astronauts.",
+        "疑问词": [
+            [
+                "astronauts",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "sentence": "Which U.S. states are in the same time zone as Utah?",
+        "疑问词": [
+            [
+                "states",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "sentence": "Give me all Danish films.",
+        "疑问词": [
+            [
+                "films",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "sentence": "Which instruments does Cat Stevens play?",
+        "疑问词": [
+            [
+                "instruments",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "sentence": "Which Chess players died in the same place they were born in?",
+        "疑问词": [
+            [
+                "players",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "sentence": "Who is the daughter of Robert Kennedy married to?",
+        "疑问词": []
+    },
+    {
+        "index": 88,
+        "sentence": "In which country does the Ganges start?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "sentence": "Which television shows were created by John Cleese?",
+        "疑问词": [
+            [
+                "shows",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "sentence": "Which awards did Douglas Hofstadter win?",
+        "疑问词": [
+            [
+                "awards",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "sentence": "Who is the owner of Rolls-Royce?",
+        "疑问词": []
+    },
+    {
+        "index": 92,
+        "sentence": "Who was the 16th president of the United States?",
+        "疑问词": []
+    },
+    {
+        "index": 93,
+        "sentence": "Give me all animal species that live in the Amazon rainforest.",
+        "疑问词": [
+            [
+                "species",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "sentence": "How many missions does the Soyuz programme have?",
+        "疑问词": [
+            [
+                "missions",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "sentence": "Give me all Danish movies.",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "sentence": "Who was called Frank The Tank?",
+        "疑问词": []
+    },
+    {
+        "index": 97,
+        "sentence": "Which movies did Kurosawa direct?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "sentence": "What is the most frequent cause of death?",
+        "疑问词": [
+            [
+                "cause",
+                0.9166666666666666
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "sentence": "Which rockets were launched from Baikonur?",
+        "疑问词": [
+            [
+                "rockets",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "sentence": "What does IYCM stand for?",
+        "疑问词": [
+            [
+                "IYCM",
+                0.8888888888888888
+            ]
+        ]
+    }
+]

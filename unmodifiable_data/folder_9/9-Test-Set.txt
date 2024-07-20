@@ -1,0 +1,200 @@
+Which movies starring Mickey Rourke were directed by Guy Ritchie?
+movies
+Which subsidiary of TUI Travel serves both Glasgow and Dublin?
+subsidiary
+Desserts from which country contain fish?
+country
+How high is the lighthouse in Colombo?
+high
+List all the musicals with music by Elton John.
+musicals
+Who was the wife of U.S. president Lincoln?
+wife
+Who is the host of the BBC Wildlife Specials?
+host
+How much did Pulp Fiction cost?
+cost
+In what city is the Heineken brewery?
+city
+When did Operation Overlord commence?
+When
+In which city does the Chile Route 68 end?
+city
+Who developed Slack?
+Who
+Who was married to president Chirac?
+Who
+What did Bruce Carver die from?
+What
+Which cities does the Weser flow through?
+cities
+Which books by Kerouac were published by Viking Press?
+books
+How tall is Amazon Eve?
+tall
+Which museum exhibits The Scream by Munch?
+exhibits
+Who wrote the book Les Piliers de la terre?
+Who
+Who discovered Ceres?
+Who
+Which river does the Brooklyn Bridge cross?
+river
+What is the largest country in the world?
+country
+Who is the mayor of Paris?
+mayor
+Who is the coach of Ankara's ice hockey team?
+coach
+Who is the mayor of the capital of French Polynesia?
+mayor
+Which awards did Douglas Hofstadter win?
+awards
+How much did the Lego Movie cost?
+cost
+How many languages are spoken in Turkmenistan?
+languages
+In which films did Julia Roberts as well as Richard Gere play?
+films
+In which country does the Ganges start?
+country
+In which year was Rachel Stevens born?
+year
+Where was Bach born?
+Where
+How often did Jane Fonda marry?
+often
+Who was the first to climb Mount Everest?
+first
+How many people live in Poland?
+people
+What is the location of the Houses of Parliament?
+location
+In which country is the Limerick Lake?
+country
+What was the last movie with Alec Guinness?
+movie
+What is the highest mountain in Australia?
+mountain
+Who created Family Guy?
+Who
+What is the official language of Suriname?
+language
+Who wrote the song Hotel California?
+Who
+Give me all actors starring in movies directed by William Shatner.
+actors
+What is in a chocolate chip cookie?
+What
+Which ingredients do I need for carrot cake?
+ingredients
+In which UK city are the headquarters of the MI6?
+city
+What does IYCM stand for?
+What
+When did the Ming dynasty dissolve?
+When
+What is the total population of Melbourne, Florida?
+population
+What country is Mount Everest in?
+country
+What is the largest city in Australia?
+city
+Give me all launch pads operated by NASA.
+pads
+Who is the mayor of Tel Aviv?
+mayor
+List all episodes of the first season of the HBO television series The Sopranos.
+episodes
+Who created Batman?
+Who
+Who played Gus Fring in Breaking Bad?
+Who
+In which programming language is GIMP written?
+programming
+In which ancient empire could you pay with cocoa beans?
+empire
+Who is the editor of Forbes?
+editor
+How many people live in the capital of Australia?
+people
+Which electronics companies were founded in Beijing?
+electronics
+Give me all video games published by Mean Hamster Software.
+games
+How many Aldi stores are there?
+stores
+What is the capital of Cameroon?
+capital
+Give me all movies directed by Francis Ford Coppola.
+movies
+Which of Tim Burton's films had the highest budget?
+films
+Give me the grandchildren of Elvis Presley.
+grandchildren
+Which country does the creator of Miffy come from?
+country
+What form of government does Russia have?
+form
+Give me all Canadian Grunge record labels.
+labels
+How many children did Benjamin Franklin have?
+children
+List the children of Margaret Thatcher.
+children
+From which region is the Melon de Bourgogne?
+region
+Who is the oldest child of Meryl Streep?
+child
+List all games by GMT.
+games
+Which airports does Yeti Airlines serve?
+airports
+Which Indian company has the most employees?
+company
+Which city has the most inhabitants?
+city
+Who created Wikipedia?
+Who
+How many ethnic groups live in Slovenia?
+groups
+Who is the president of Eritrea?
+president
+Which films did Stanley Kubrick direct?
+films
+When was the Titanic completed?
+When
+How many pages does War and Peace have?
+pages
+What is the highest mountain in Italy?
+mountain
+How tall is Claudia Schiffer?
+tall
+Who was John F. Kennedy's vice president?
+president
+Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?
+subsidiary
+Who was the successor of John F. Kennedy?
+successor
+Who composed the soundtrack for Cameron's Titanic?
+Who
+Which movies did Kurosawa direct?
+movies
+In which time zone is Rome?
+zone
+Give me the currency of China.
+currency
+Who are the developers of DBpedia?
+developers
+Who is the king of the Netherlands?
+king
+In which city did Nikos Kazantzakis die?
+city
+Give me a list of all critically endangered birds.
+list
+How many inhabitants does the largest city in Canada have?
+inhabitants
+In which military conflicts did Lawrence of Arabia participate?
+military
+Which book has the most pages?
+book

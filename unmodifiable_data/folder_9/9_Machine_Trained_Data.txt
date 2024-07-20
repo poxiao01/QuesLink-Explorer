@@ -1,0 +1,912 @@
+[
+    {
+        "index": 1,
+        "sentence": "Which movies starring Mickey Rourke were directed by Guy Ritchie?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "sentence": "Which subsidiary of TUI Travel serves both Glasgow and Dublin?",
+        "疑问词": [
+            [
+                "subsidiary",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "sentence": "Desserts from which country contain fish?",
+        "疑问词": [
+            [
+                "country",
+                0.875
+            ],
+            [
+                "fish",
+                0.875
+            ],
+            [
+                "which",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "sentence": "How high is the lighthouse in Colombo?",
+        "疑问词": []
+    },
+    {
+        "index": 5,
+        "sentence": "List all the musicals with music by Elton John.",
+        "疑问词": [
+            [
+                "musicals",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "sentence": "Who was the wife of U.S. president Lincoln?",
+        "疑问词": []
+    },
+    {
+        "index": 7,
+        "sentence": "Who is the host of the BBC Wildlife Specials?",
+        "疑问词": []
+    },
+    {
+        "index": 8,
+        "sentence": "How much did Pulp Fiction cost?",
+        "疑问词": []
+    },
+    {
+        "index": 9,
+        "sentence": "In what city is the Heineken brewery?",
+        "疑问词": [
+            [
+                "city",
+                0.9523809523809523
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "sentence": "When did Operation Overlord commence?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "sentence": "In which city does the Chile Route 68 end?",
+        "疑问词": [
+            [
+                "city",
+                0.9523809523809523
+            ],
+            [
+                "end",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "sentence": "Who developed Slack?",
+        "疑问词": []
+    },
+    {
+        "index": 13,
+        "sentence": "Who was married to president Chirac?",
+        "疑问词": []
+    },
+    {
+        "index": 14,
+        "sentence": "What did Bruce Carver die from?",
+        "疑问词": [
+            [
+                "Bruce",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "sentence": "Which cities does the Weser flow through?",
+        "疑问词": [
+            [
+                "cities",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "sentence": "Which books by Kerouac were published by Viking Press?",
+        "疑问词": [
+            [
+                "books",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "sentence": "How tall is Amazon Eve?",
+        "疑问词": []
+    },
+    {
+        "index": 18,
+        "sentence": "Which museum exhibits The Scream by Munch?",
+        "疑问词": [
+            [
+                "museum",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "sentence": "Who wrote the book Les Piliers de la terre?",
+        "疑问词": []
+    },
+    {
+        "index": 20,
+        "sentence": "Who discovered Ceres?",
+        "疑问词": []
+    },
+    {
+        "index": 21,
+        "sentence": "Which river does the Brooklyn Bridge cross?",
+        "疑问词": [
+            [
+                "river",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "sentence": "What is the largest country in the world?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ],
+            [
+                "world",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "sentence": "Who is the mayor of Paris?",
+        "疑问词": []
+    },
+    {
+        "index": 24,
+        "sentence": "Who is the coach of Ankara's ice hockey team?",
+        "疑问词": []
+    },
+    {
+        "index": 25,
+        "sentence": "Who is the mayor of the capital of French Polynesia?",
+        "疑问词": []
+    },
+    {
+        "index": 26,
+        "sentence": "Which awards did Douglas Hofstadter win?",
+        "疑问词": [
+            [
+                "awards",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "sentence": "How much did the Lego Movie cost?",
+        "疑问词": []
+    },
+    {
+        "index": 28,
+        "sentence": "How many languages are spoken in Turkmenistan?",
+        "疑问词": [
+            [
+                "languages",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "sentence": "In which films did Julia Roberts as well as Richard Gere play?",
+        "疑问词": [
+            [
+                "films",
+                0.9523809523809523
+            ],
+            [
+                "play",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "sentence": "In which country does the Ganges start?",
+        "疑问词": [
+            [
+                "country",
+                0.9523809523809523
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "sentence": "In which year was Rachel Stevens born?",
+        "疑问词": [
+            [
+                "year",
+                0.9523809523809523
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "sentence": "Where was Bach born?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "sentence": "How often did Jane Fonda marry?",
+        "疑问词": []
+    },
+    {
+        "index": 34,
+        "sentence": "Who was the first to climb Mount Everest?",
+        "疑问词": []
+    },
+    {
+        "index": 35,
+        "sentence": "How many people live in Poland?",
+        "疑问词": [
+            [
+                "people",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "sentence": "What is the location of the Houses of Parliament?",
+        "疑问词": [
+            [
+                "location",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "sentence": "In which country is the Limerick Lake?",
+        "疑问词": [
+            [
+                "country",
+                0.9523809523809523
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "sentence": "What was the last movie with Alec Guinness?",
+        "疑问词": [
+            [
+                "movie",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "sentence": "What is the highest mountain in Australia?",
+        "疑问词": [
+            [
+                "mountain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "sentence": "Who created Family Guy?",
+        "疑问词": []
+    },
+    {
+        "index": 41,
+        "sentence": "What is the official language of Suriname?",
+        "疑问词": [
+            [
+                "language",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "sentence": "Who wrote the song Hotel California?",
+        "疑问词": []
+    },
+    {
+        "index": 43,
+        "sentence": "Give me all actors starring in movies directed by William Shatner.",
+        "疑问词": [
+            [
+                "actors",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "sentence": "What is in a chocolate chip cookie?",
+        "疑问词": [
+            [
+                "cookie",
+                1.0
+            ],
+            [
+                "What",
+                1.0
+            ],
+            [
+                "chocolate",
+                0.8823529411764706
+            ],
+            [
+                "chip",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "sentence": "Which ingredients do I need for carrot cake?",
+        "疑问词": [
+            [
+                "ingredients",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "sentence": "In which UK city are the headquarters of the MI6?",
+        "疑问词": [
+            [
+                "headquarters",
+                0.9523809523809523
+            ],
+            [
+                "city",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "sentence": "What does IYCM stand for?",
+        "疑问词": [
+            [
+                "IYCM",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "sentence": "When did the Ming dynasty dissolve?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "sentence": "What is the total population of Melbourne, Florida?",
+        "疑问词": [
+            [
+                "population",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "sentence": "What country is Mount Everest in?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ],
+            [
+                "Mount",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "sentence": "What is the largest city in Australia?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "sentence": "Give me all launch pads operated by NASA.",
+        "疑问词": [
+            [
+                "pads",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "sentence": "Who is the mayor of Tel Aviv?",
+        "疑问词": []
+    },
+    {
+        "index": 54,
+        "sentence": "List all episodes of the first season of the HBO television series The Sopranos.",
+        "疑问词": [
+            [
+                "episodes",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "sentence": "Who created Batman?",
+        "疑问词": []
+    },
+    {
+        "index": 56,
+        "sentence": "Who played Gus Fring in Breaking Bad?",
+        "疑问词": []
+    },
+    {
+        "index": 57,
+        "sentence": "In which programming language is GIMP written?",
+        "疑问词": [
+            [
+                "language",
+                0.9523809523809523
+            ],
+            [
+                "programming",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "sentence": "In which ancient empire could you pay with cocoa beans?",
+        "疑问词": [
+            [
+                "empire",
+                0.9523809523809523
+            ],
+            [
+                "cocoa",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "sentence": "Who is the editor of Forbes?",
+        "疑问词": []
+    },
+    {
+        "index": 60,
+        "sentence": "How many people live in the capital of Australia?",
+        "疑问词": [
+            [
+                "people",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "sentence": "Which electronics companies were founded in Beijing?",
+        "疑问词": [
+            [
+                "companies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "sentence": "Give me all video games published by Mean Hamster Software.",
+        "疑问词": [
+            [
+                "games",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "sentence": "How many Aldi stores are there?",
+        "疑问词": [
+            [
+                "stores",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "sentence": "What is the capital of Cameroon?",
+        "疑问词": [
+            [
+                "capital",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "sentence": "Give me all movies directed by Francis Ford Coppola.",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "sentence": "Which of Tim Burton's films had the highest budget?",
+        "疑问词": [
+            [
+                "budget",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "sentence": "Give me the grandchildren of Elvis Presley.",
+        "疑问词": [
+            [
+                "grandchildren",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "sentence": "Which country does the creator of Miffy come from?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "sentence": "What form of government does Russia have?",
+        "疑问词": [
+            [
+                "form",
+                1.0
+            ],
+            [
+                "government",
+                1.0
+            ],
+            [
+                "Russia",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "sentence": "Give me all Canadian Grunge record labels.",
+        "疑问词": [
+            [
+                "labels",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "sentence": "How many children did Benjamin Franklin have?",
+        "疑问词": [
+            [
+                "children",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "sentence": "List the children of Margaret Thatcher.",
+        "疑问词": [
+            [
+                "children",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "sentence": "From which region is the Melon de Bourgogne?",
+        "疑问词": [
+            [
+                "region",
+                0.9523809523809523
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "sentence": "Who is the oldest child of Meryl Streep?",
+        "疑问词": []
+    },
+    {
+        "index": 75,
+        "sentence": "List all games by GMT.",
+        "疑问词": [
+            [
+                "games",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "sentence": "Which airports does Yeti Airlines serve?",
+        "疑问词": [
+            [
+                "airports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "sentence": "Which Indian company has the most employees?",
+        "疑问词": [
+            [
+                "company",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "sentence": "Which city has the most inhabitants?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "sentence": "Who created Wikipedia?",
+        "疑问词": []
+    },
+    {
+        "index": 80,
+        "sentence": "How many ethnic groups live in Slovenia?",
+        "疑问词": [
+            [
+                "groups",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "sentence": "Who is the president of Eritrea?",
+        "疑问词": []
+    },
+    {
+        "index": 82,
+        "sentence": "Which films did Stanley Kubrick direct?",
+        "疑问词": [
+            [
+                "films",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "sentence": "When was the Titanic completed?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "sentence": "How many pages does War and Peace have?",
+        "疑问词": [
+            [
+                "pages",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "sentence": "What is the highest mountain in Italy?",
+        "疑问词": [
+            [
+                "mountain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "sentence": "How tall is Claudia Schiffer?",
+        "疑问词": []
+    },
+    {
+        "index": 87,
+        "sentence": "Who was John F. Kennedy's vice president?",
+        "疑问词": []
+    },
+    {
+        "index": 88,
+        "sentence": "Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?",
+        "疑问词": [
+            [
+                "subsidiary",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "sentence": "Who was the successor of John F. Kennedy?",
+        "疑问词": []
+    },
+    {
+        "index": 90,
+        "sentence": "Who composed the soundtrack for Cameron's Titanic?",
+        "疑问词": []
+    },
+    {
+        "index": 91,
+        "sentence": "Which movies did Kurosawa direct?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "sentence": "In which time zone is Rome?",
+        "疑问词": [
+            [
+                "zone",
+                0.9523809523809523
+            ],
+            [
+                "time",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "sentence": "Give me the currency of China.",
+        "疑问词": [
+            [
+                "currency",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "sentence": "Who are the developers of DBpedia?",
+        "疑问词": []
+    },
+    {
+        "index": 95,
+        "sentence": "Who is the king of the Netherlands?",
+        "疑问词": []
+    },
+    {
+        "index": 96,
+        "sentence": "In which city did Nikos Kazantzakis die?",
+        "疑问词": [
+            [
+                "city",
+                0.9523809523809523
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "sentence": "Give me a list of all critically endangered birds.",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "sentence": "How many inhabitants does the largest city in Canada have?",
+        "疑问词": [
+            [
+                "inhabitants",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "sentence": "In which military conflicts did Lawrence of Arabia participate?",
+        "疑问词": [
+            [
+                "which",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "sentence": "Which book has the most pages?",
+        "疑问词": [
+            [
+                "book",
+                1.0
+            ]
+        ]
+    }
+]

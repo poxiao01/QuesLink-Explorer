@@ -1,0 +1,980 @@
+[
+    {
+        "index": 1,
+        "sentence": "What is the capital of Cameroon?",
+        "疑问词": [
+            [
+                "capital",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "sentence": "When did the Boston Tea Party take place?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "sentence": "Who played Gus Fring in Breaking Bad?",
+        "疑问词": []
+    },
+    {
+        "index": 4,
+        "sentence": "Who wrote Harry Potter?",
+        "疑问词": []
+    },
+    {
+        "index": 5,
+        "sentence": "Which actors play in Big Bang Theory?",
+        "疑问词": [
+            [
+                "actors",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "sentence": "What is the largest country in the world?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ],
+            [
+                "world",
+                0.9
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "sentence": "Who is the most powerful Jedi?",
+        "疑问词": []
+    },
+    {
+        "index": 8,
+        "sentence": "How many goals did Pel   score?",
+        "疑问词": [
+            [
+                "goals",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "sentence": "Who is the president of Eritrea?",
+        "疑问词": []
+    },
+    {
+        "index": 10,
+        "sentence": "Which computer scientist won an oscar?",
+        "疑问词": [
+            [
+                "scientist",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "sentence": "Who created Family Guy?",
+        "疑问词": []
+    },
+    {
+        "index": 12,
+        "sentence": "How many people live in Poland?",
+        "疑问词": [
+            [
+                "people",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "sentence": "To which party does the mayor of Paris belong?",
+        "疑问词": [
+            [
+                "party",
+                1.0
+            ],
+            [
+                "mayor",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "sentence": "Who does the voice of Bart Simpson?",
+        "疑问词": []
+    },
+    {
+        "index": 15,
+        "sentence": "Who composed the soundtrack for Cameron's Titanic?",
+        "疑问词": []
+    },
+    {
+        "index": 16,
+        "sentence": "When did Boris Becker end his active career?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "sentence": "Show me all basketball players that are higher than 2 meters.",
+        "疑问词": [
+            [
+                "players",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "sentence": "What country is Sitecore from?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ],
+            [
+                "Sitecore",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "sentence": "Which country was Bill Gates born in?",
+        "疑问词": [
+            [
+                "country",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "sentence": "Who developed Slack?",
+        "疑问词": []
+    },
+    {
+        "index": 21,
+        "sentence": "In which city did Nikos Kazantzakis die?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "sentence": "How many grand-children did Jacques Cousteau have?",
+        "疑问词": [
+            [
+                "children",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "sentence": "Which films did Stanley Kubrick direct?",
+        "疑问词": [
+            [
+                "films",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "sentence": "How many seats does the home stadium of FC Porto have?",
+        "疑问词": [
+            [
+                "seats",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "sentence": "Show me all books in Asimov's Foundation series.",
+        "疑问词": [
+            [
+                "books",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "sentence": "Which movies star both Liz Taylor and Richard Burton?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "sentence": "In which city are the headquarters of the United Nations?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "sentence": "In which city was the president of Montenegro born?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ],
+            [
+                "president",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "sentence": "Which writers studied in Istanbul?",
+        "疑问词": [
+            [
+                "writers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "sentence": "Who is the mayor of Paris?",
+        "疑问词": []
+    },
+    {
+        "index": 31,
+        "sentence": "What is the full name of Prince Charles?",
+        "疑问词": [
+            [
+                "name",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "sentence": "What is the longest river in China?",
+        "疑问词": [
+            [
+                "river",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "sentence": "Who discovered Ceres?",
+        "疑问词": []
+    },
+    {
+        "index": 34,
+        "sentence": "When did princess Diana die?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "sentence": "What do ants eat?",
+        "疑问词": [
+            [
+                "ants",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "sentence": "Who is the host of the BBC Wildlife Specials?",
+        "疑问词": []
+    },
+    {
+        "index": 37,
+        "sentence": "How many moons does Mars have?",
+        "疑问词": [
+            [
+                "moons",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "sentence": "What was the first Queen album?",
+        "疑问词": [
+            [
+                "album",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "sentence": "Give me a list of all Canadians that reside in the U.S.",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "sentence": "Where is Syngman Rhee buried?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "sentence": "In which countries do people speak Japanese?",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "sentence": "Who is the king of the Netherlands?",
+        "疑问词": []
+    },
+    {
+        "index": 43,
+        "sentence": "When did the Dodo become extinct?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "sentence": "Show me all Czech movies.",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "sentence": "Which rivers flow into the North Sea?",
+        "疑问词": [
+            [
+                "rivers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "sentence": "When did Operation Overlord commence?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "sentence": "Where do the Red Sox play?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "sentence": "In which time zone is Rome?",
+        "疑问词": [
+            [
+                "zone",
+                1.0
+            ],
+            [
+                "time",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "sentence": "Give me a list of all critically endangered birds.",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "sentence": "How much did the Lego Movie cost?",
+        "疑问词": [
+            [
+                "much",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "sentence": "What was the original occupation of the inventor of Lego?",
+        "疑问词": [
+            [
+                "occupation",
+                1.0
+            ],
+            [
+                "inventor",
+                0.9
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "sentence": "Which countries have more than ten volcanoes?",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ],
+            [
+                "volcanoes",
+                0.84
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "sentence": "Show me all U.S. states.",
+        "疑问词": [
+            [
+                "states",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "sentence": "Who wrote the Game of Thrones theme?",
+        "疑问词": []
+    },
+    {
+        "index": 55,
+        "sentence": "How many calories does a baguette have?",
+        "疑问词": [
+            [
+                "calories",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "sentence": "Which companies produce hovercrafts?",
+        "疑问词": [
+            [
+                "companies",
+                1.0
+            ],
+            [
+                "hovercrafts",
+                0.84
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "sentence": "How many emperors did China have?",
+        "疑问词": [
+            [
+                "emperors",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "sentence": "Show me hiking trails in the Grand Canyon where there's no danger of flash floods.",
+        "疑问词": [
+            [
+                "trails",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "sentence": "In which ancient empire could you pay with cocoa beans?",
+        "疑问词": [
+            [
+                "empire",
+                1.0
+            ],
+            [
+                "cocoa",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "sentence": "How did Michael Jackson die?",
+        "疑问词": [
+            [
+                "die",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "sentence": "Which space probes were sent into orbit around the sun?",
+        "疑问词": [
+            [
+                "probes",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "sentence": "When was Coca Cola invented?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "sentence": "What is the biggest stadium in Spain?",
+        "疑问词": [
+            [
+                "stadium",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "sentence": "On which day is Columbus Day?",
+        "疑问词": [
+            [
+                "day",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "sentence": "How short is the shortest active NBA player?",
+        "疑问词": [
+            [
+                "short",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "sentence": "Whom did Lance Bass marry?",
+        "疑问词": []
+    },
+    {
+        "index": 67,
+        "sentence": "What form of government does Russia have?",
+        "疑问词": [
+            [
+                "form",
+                1.0
+            ],
+            [
+                "Russia",
+                1.0
+            ],
+            [
+                "government",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "sentence": "What movies does Jesse Eisenberg play in?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ],
+            [
+                "Jesse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "sentence": "What color expresses loyalty?",
+        "疑问词": [
+            [
+                "color",
+                1.0
+            ],
+            [
+                "loyalty",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "sentence": "Show me all museums in London.",
+        "疑问词": [
+            [
+                "museums",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "sentence": "Give me all South American countries.",
+        "疑问词": [
+            [
+                "countries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "sentence": "Who is the coach of Ankara's ice hockey team?",
+        "疑问词": []
+    },
+    {
+        "index": 73,
+        "sentence": "Who is the son of Sonny and Cher?",
+        "疑问词": []
+    },
+    {
+        "index": 74,
+        "sentence": "What are the five boroughs of New York?",
+        "疑问词": [
+            [
+                "boroughs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "sentence": "Show me Hemingway's autobiography.",
+        "疑问词": [
+            [
+                "autobiography",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "sentence": "What kind of music did Lou Reed play?",
+        "疑问词": [
+            [
+                "kind",
+                1.0
+            ],
+            [
+                "Lou",
+                1.0
+            ],
+            [
+                "music",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "sentence": "In which city does Sylvester Stallone live?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ],
+            [
+                "live",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "sentence": "Who was Vincent van Gogh inspired by?",
+        "疑问词": []
+    },
+    {
+        "index": 79,
+        "sentence": "What are the names of the Teenage Mutant Ninja Turtles?",
+        "疑问词": [
+            [
+                "names",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "sentence": "What are the zodiac signs?",
+        "疑问词": [
+            [
+                "signs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "sentence": "What languages do they speak in Pakistan?",
+        "疑问词": [
+            [
+                "languages",
+                1.0
+            ],
+            [
+                "they",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "sentence": "Who became president after JFK died?",
+        "疑问词": []
+    },
+    {
+        "index": 83,
+        "sentence": "In what city is the Heineken brewery?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "sentence": "What is Elon Musk famous for?",
+        "疑问词": [
+            [
+                "Musk",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "sentence": "What is Batman's real name?",
+        "疑问词": [
+            [
+                "name",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "sentence": "From which region is the Refosco dal Peduncolo Rosso?",
+        "疑问词": [
+            [
+                "region",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "sentence": "Give me all Avant-garde jazz record labels.",
+        "疑问词": [
+            [
+                "labels",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "sentence": "Give me all books written by David Foster Wallace.",
+        "疑问词": [
+            [
+                "books",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "sentence": "Give me all cars that are produced in Netherlands.",
+        "疑问词": [
+            [
+                "cars",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "sentence": "Give me all companies in Jena.",
+        "疑问词": [
+            [
+                "companies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "sentence": "Give me all inflows of the Lake Houston.",
+        "疑问词": [
+            [
+                "inflows",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "sentence": "Give me all members of The Who.",
+        "疑问词": [
+            [
+                "members",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "sentence": "Give me all soccer clubs in Qatar.",
+        "疑问词": [
+            [
+                "clubs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "sentence": "Give me all video games published by Black Isle Studios.",
+        "疑问词": [
+            [
+                "games",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "sentence": "Give me the children of David Foster.",
+        "疑问词": [
+            [
+                "children",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "sentence": "Give me the homepage of Metropolitan Home.",
+        "疑问词": [
+            [
+                "homepage",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "sentence": "How big is the Mammoth Pool Reservoir?",
+        "疑问词": [
+            [
+                "big",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "sentence": "How deep is Steinsee?",
+        "疑问词": [
+            [
+                "deep",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "sentence": "How high is the Doe Hill Mountain?",
+        "疑问词": [
+            [
+                "high",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "sentence": "How high is the Volcano Mountain?",
+        "疑问词": [
+            [
+                "high",
+                0.8
+            ]
+        ]
+    }
+]

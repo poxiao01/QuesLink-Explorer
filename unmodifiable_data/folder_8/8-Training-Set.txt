@@ -1,0 +1,200 @@
+Which companies have more than 1 million employees?
+companies
+Give all swimmers that were born in Moscow.
+swimmers
+Who was called Rodzilla?
+Who
+Show me the book that Muhammad Ali wrote.
+book
+How many museums does Paris have?
+museums
+Which city has the most inhabitants?
+city
+Which city has the least inhabitants?
+city
+Give me all the TV shows with Neil Patrick Harris.
+shows
+Who wrote The Hunger Games?
+Who
+Show a list of soccer clubs that play in the Bundesliga.
+list
+What country is Mount Everest in?
+country
+Who is the founder of Penguin Books?
+founder
+Which programming languages influenced Javascript?
+languages
+List all the musicals with music by Elton John.
+musicals
+When was the Titanic completed?
+When
+How much did Pulp Fiction cost?
+cost
+How many airlines are there?
+airlines
+Who played Agent Smith in Matrix?
+Who
+How much carbs does peanut butter have?
+carbs
+Which book has the most pages?
+book
+Which bridges cross the Seine?
+bridges
+Who is the mayor of the capital of French Polynesia?
+mayor
+When did Dracula's creator die?
+When
+What is the location of the Houses of Parliament?
+location
+Who was the pope that founded the Vatican Television?
+pope
+What airlines are part of the SkyTeam alliance?
+airlines
+What is the total population of Melbourne, Florida?
+population
+Which airports does Air China serve?
+airports
+In which year was Rachel Stevens born?
+year
+Where was JFK assassinated?
+Where
+How many politicians graduated from Columbia University?
+politicians
+Which scientist is known for the Manhattan Project and the Nobel Peace Prize?
+scientist
+What is the highest volcano in Africa?
+volcano
+Which beer originated in Ireland?
+beer
+What are the specialities of the UNC Health Care?
+specialities
+Who is the owner of Facebook?
+owner
+From which region is the Melon de Bourgogne?
+region
+Who was influenced by Socrates?
+Who
+Who was president of Pakistan in 1978?
+president
+Give me English actors starring in Lovesick.
+actors
+Give me all types of eating disorders.
+types
+Who was married to president Chirac?
+Who
+What is the largest metropolitan area in Washington state?
+area
+Where in France is sparkling wine produced?
+Where
+Where did Hillel Slovak die?
+Where
+What is the timezone in San Pedro de Atacama?
+timezone
+In which city does the Chile Route 68 end?
+city
+Who was vice president under the president who authorized atomic weapons against Japan during World War II?
+president
+In which town was the assassin of Martin Luther King born?
+town
+Which anti-apartheid activist was born in Mvezo?
+activist
+How many Golden Globe awards did the daughter of Henry Fonda win?
+awards
+Which recipients of the Victoria Cross died in the Battle of Arnhem?
+recipients
+Where did the first man in space die?
+Where
+How old was Steve Jobs' sister when she first met him?
+old
+Which members of the Wu-Tang Clan took their stage name from a movie?
+members
+Which writers had influenced the philosopher that refused a Nobel Prize?
+writers
+Under which king did the British prime minister that signed the Munich agreement serve?
+king
+Who composed the music for the film that depicts the early life of Jane Austin?
+Who
+Who succeeded the pope that reigned only 33 days?
+Who
+On which island did the national poet of Greece die?
+island
+Which horses did The Long Fellow ride?
+horses
+Of the people that died of radiation in Los Alamos, whose death was an accident?
+people
+Which building owned by the Bank of America was featured in the TV series MegaStructures?
+building
+Which buildings in art deco style did Shreve, Lamb and Harmon design?
+buildings
+Which birds are protected under the National Parks and Wildlife Act?
+birds
+Which country did the first known photographer of snowflakes come from?
+country
+List all the battles commanded by the lover of Cleopatra.
+battles
+Which actress starring in the TV series Friends owns the production company Coquette Productions?
+actress
+Gaborone is the capital of which country member of the African Union?
+capital
+When was the composer of the opera Madame Butterfly born?
+When
+Which street basketball player was diagnosed with Sarcoidosis?
+player
+For which movie did the daughter of Francis Ford Coppola receive an Oscar?
+movie
+Which city does the first person to climb all 14 eight-thousanders come from?
+city
+At which college did the only American actor that received the C  sar Award study?
+college
+How old is James Bond in the latest Bond book by William Boyd?
+old
+What eating disorder is characterized by an appetite for substances such as clay and sand?
+disorder
+What is the native city of Hollywood's highest-paid actress?
+city
+In which city does the former main presenter of the Xpos   girls live?
+city
+Who plays Phileas Fogg in the adaptation of Around the World in 80 Days directed by Buzz Kulik?
+Who
+Who is the front man of the band that wrote Coffee & TV?
+man
+Which Chinese-speaking country is a former Portguese colony?
+country
+What is the largest city in the county in which Faulkner spent most of his life?
+city
+In which year did the Hungarian-American actor called "The King of Horror" make his first film?
+year
+Under which pseudonym did Charles Dickens publish some of his books?
+pseudonym
+A landmark of which city is the home of the Mona Lisa?
+city
+How tall is Amazon Eve?
+tall
+Which politicians were married to a German?
+politicians
+When was Jack Wolfskin founded?
+When
+Butch Otter is the governor of which U.S. state?
+state
+Which weapons did Heckler & Koch develop?
+weapons
+Where is Fort Knox located?
+Where
+Who created Batman?
+Who
+When was Olof Palme shot?
+When
+Give me the grandchildren of Elvis Presley.
+grandchildren
+How deep is Lake Chiemsee?
+deep
+What does ICRO stand for?
+What
+List all the musicals with music by Leonard Bernstein.
+musicals
+Show me all the breweries in Australia.
+breweries
+Show me all English Gothic buildings in Kent.
+buildings
+Which airports does Yeti Airlines serve?
+airports

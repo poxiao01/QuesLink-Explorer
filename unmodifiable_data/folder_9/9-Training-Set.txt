@@ -1,0 +1,174 @@
+In which country does the Nile start?
+country
+Who is the Formula 1 race driver with the most races?
+Who
+Which companies produce hovercrafts?
+companies
+In which countries do people speak Japanese?
+countries
+Show me the book that Muhammad Ali wrote.
+book
+What is the area code of Berlin?
+code
+Give me all actors starring in Last Action Hero.
+actors
+What was the first Queen album?
+album
+Which television shows were created by Walt Disney?
+shows
+What is the bridge with the longest span?
+bridge
+What country is Sitecore from?
+country
+What is the capital of Canada?
+capital
+Who was Vincent van Gogh inspired by?
+Who
+In which city did John F. Kennedy die?
+city
+Who wrote the Game of Thrones theme?
+Who
+Who designed the Brooklyn Bridge?
+Who
+When did Boris Becker end his active career?
+When
+Which types of grapes grow in Oregon?
+types
+How tall is Michael Jordan?
+tall
+To which party does the mayor of Paris belong?
+party
+Who wrote the book The Pillars of the Earth?
+Who
+Who was the doctoral supervisor of Albert Einstein?
+supervisor
+In which city does Sylvester Stallone live?
+city
+What is the currency of the Czech Republic?
+currency
+Who is the son of Sonny and Cher?
+son
+In which city are the headquarters of the United Nations?
+city
+Who is the founder of Penguin Books?
+founder
+When was Jack Wolfskin founded?
+When
+Who is the mayor of Rotterdam?
+mayor
+Give me all Swedish oceanographers.
+oceanographers
+Show me Hemingway's autobiography.
+autobiography
+Who are the parents of the wife of Juan Carlos I?
+parents
+Who is the tallest basketball player?
+player
+Which city has the least inhabitants?
+city
+Who were the parents of Queen Victoria?
+parents
+Give me all books by William Goldman with more than 300 pages.
+books
+Where is Syngman Rhee buried?
+Where
+What is the timezone in San Pedro de Atacama?
+timezone
+To which artistic movement did the painter of The Three Dancers belong?
+movement
+Which scientist is known for the Manhattan Project and the Nobel Peace Prize?
+scientist
+Show me all books in Asimov's Foundation series.
+books
+Which museum in New York has the most visitors?
+museum
+How high is the Yokohama Marine Tower?
+high
+Who is the youngest Darts player?
+player
+Who developed the video game World of Warcraft?
+Who
+Who was the pope that founded the Vatican Television?
+pope
+Who composed the music for Harold and Maude?
+Who
+Give me all members of Prodigy.
+members
+Who is starring in Spanish movies produced by Benicio del Toro?
+Who
+In which country is Mecca located?
+country
+How many languages are spoken in Colombia?
+languages
+What is the biggest stadium in Spain?
+stadium
+What are the five boroughs of New York?
+boroughs
+Where in France is sparkling wine produced?
+Where
+How many years was the Ford Model T manufactured?
+years
+Give me all gangsters from the prohibition era.
+gangsters
+Give me all Seven Wonders of the Ancient World.
+Wonders
+Give me all chemical elements.
+elements
+How many rivers and lakes are in South Carolina?
+rivers
+How many states are in Mexico?
+states
+How many theories did Albert Einstein come up with?
+theories
+What form of government is found in South Africa?
+form
+What is the largest state in the United States?
+state
+What is the longest river in the world?
+river
+Which building after the Burj Khalifa has the most floors?
+building
+What is the wavelength of indigo?
+wavelength
+What was the name of the famous battle in 1836 in San Antonio?
+name
+What were the names of the three ships used by Columbus?
+names
+When did Muhammad die?
+When
+When was the De Beers company founded?
+When
+When was John Adams born?
+When
+Which American presidents were in office during the Vietnam War?
+presidents
+Which city has the oldest running metro?
+city
+Which holidays are celebrated around the world?
+holidays
+Who assassinated President McKinley?
+Who
+Who discovered Pluto?
+Who
+Who killed Caesar?
+Who
+Who was buried in the Great Pyramid of Giza?
+Who
+Who was the first King of England?
+King
+What was the final result of the War of the Roses?
+result
+Who writes the Farmers' Almanac?
+Who
+How big is the earth's diameter?
+diameter
+How many people live in Eurasia?
+people
+Give me the runtime of Toy Story.
+runtime
+What was the first name of the band Queens of the Stone Age?
+name
+Give me the birth place of Frank Sinatra.
+place
+Which university did Angela Merkel attend?
+university

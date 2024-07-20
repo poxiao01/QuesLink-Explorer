@@ -1,0 +1,2265 @@
+1. Name the office holder with successor as Adrian A Basora and child as Lori Black ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [holder, the]
+compound_0: [holder, office]
+obj_0: [Name, holder]
+case_0: [successor, with]
+obl_0: [Name, successor]
+case_1: [Adrian, as]
+nmod_0: [successor, Adrian]
+flat_0: [Adrian, A]
+flat_1: [Adrian, Basora]
+cc_0: [child, and]
+conj_0: [Adrian, child]
+case_2: [Lori, as]
+obl_1: [Name, Lori]
+flat_2: [Lori, Black]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1), ('SENTENCE_SENTENCE_OBL_0', 1), ('SENTENCE_SENTENCE_OBL_1', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('office', 'NN', 'NOUN'), ('holder', 'NN', 'NOUN'), ('with', 'IN', 'ADP'), ('successor', 'NN', 'NOUN'), ('as', 'IN', 'ADP'), ('Adrian', 'NNP', 'PROPN'), ('A', 'NNP', 'PROPN'), ('Basora', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('child', 'NN', 'NOUN'), ('as', 'IN', 'ADP'), ('Lori', 'NNP', 'PROPN'), ('Black', 'NNP', 'PROPN')]
+可能的疑问词：
+[('holder', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+2. Who is the owner of the South end ?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [owner, Who]
+cop_0: [owner, is]
+det_0: [owner, the]
+root_0: [owner, owner]
+case_0: [end, of]
+det_1: [end, the]
+compound_0: [end, South]
+nmod_0: [owner, end]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('owner', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('South', 'NNP', 'PROPN'), ('end', 'NN', 'NOUN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+3. What is the colour of Xocolatlite ?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [colour, the]
+nsubj_0: [What, colour]
+case_0: [Xocolatlite, of]
+nmod_0: [colour, Xocolatlite]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('colour', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Xocolatlite', 'NNP', 'PROPN')]
+可能的疑问词：
+[('colour', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+4. For how many other teams have the members of Atlant Moscow Oblast played?
+句型词：how, 词性：WRB
+依赖结构：
+mark_0: [have, For]
+advmod_0: [many, how]
+amod_0: [teams, many]
+amod_1: [teams, other]
+nsubj_0: [have, teams]
+root_0: [have, have]
+det_0: [members, the]
+obj_0: [have, members]
+case_0: [Oblast, of]
+compound_0: [Oblast, Atlant]
+compound_1: [Oblast, Moscow]
+nmod_0: [members, Oblast]
+acl_0: [members, played]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'how'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('For', 'IN', 'ADP'), ('how', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('other', 'JJ', 'ADJ'), ('teams', 'NNS', 'NOUN'), ('have', 'VBP', 'VERB'), ('the', 'DT', 'DET'), ('members', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('Atlant', 'NNP', 'PROPN'), ('Moscow', 'NNP', 'PROPN'), ('Oblast', 'NNP', 'PROPN'), ('played', 'VBN', 'VERB')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+5. What is the state of origin of the president whose alma mater is Hellenic Naval Academy ?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [state, the]
+nsubj_0: [What, state]
+case_0: [origin, of]
+nmod_0: [state, origin]
+case_1: [president, of]
+det_1: [president, the]
+nmod_1: [origin, president]
+nmod:poss_0: [mater, whose]
+compound_0: [mater, alma]
+nsubj_1: [Academy, mater]
+cop_1: [Academy, is]
+amod_0: [Academy, Hellenic]
+amod_1: [Academy, Naval]
+acl:relcl_0: [president, Academy]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('state', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('origin', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('president', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('alma', 'NN', 'NOUN'), ('mater', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Hellenic', 'NNP', 'ADJ'), ('Naval', 'NNP', 'ADJ'), ('Academy', 'NNP', 'PROPN')]
+可能的疑问词：
+[('state', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+6. What is the common ethnicity of the Maike Evers and Francisco Lachowski ?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [ethnicity, the]
+amod_0: [ethnicity, common]
+nsubj_0: [What, ethnicity]
+case_0: [Maike, of]
+det_1: [Maike, the]
+nmod_0: [ethnicity, Maike]
+flat_0: [Maike, Evers]
+cc_0: [Francisco, and]
+conj_0: [Maike, Francisco]
+flat_1: [Francisco, Lachowski]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('common', 'JJ', 'ADJ'), ('ethnicity', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Maike', 'NNP', 'PROPN'), ('Evers', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('Francisco', 'NNP', 'PROPN'), ('Lachowski', 'NNP', 'PROPN')]
+可能的疑问词：
+[('ethnicity', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+7. In which places do companies founded in Newcastle operate?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [places, In]
+det_0: [places, which]
+obl_0: [operate, places]
+aux_0: [operate, do]
+nsubj_0: [operate, companies]
+acl_0: [companies, founded]
+case_1: [Newcastle, in]
+obl_1: [founded, Newcastle]
+root_0: [operate, operate]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('places', 'NNS', 'NOUN'), ('do', 'VBP', 'AUX'), ('companies', 'NNS', 'NOUN'), ('founded', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('Newcastle', 'NNP', 'PROPN'), ('operate', 'VBP', 'VERB')]
+可能的疑问词：
+[('places', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+8. Which senator served in military units VMF-155 and VMF-218?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [senator, Which]
+nsubj_0: [served, senator]
+root_0: [served, served]
+case_0: [units, in]
+amod_0: [units, military]
+obl_0: [served, units]
+appos_0: [units, VMF]
+punct_0: [155, -]
+nummod_0: [VMF, 155]
+cc_0: [VMF, and]
+conj_0: [VMF, VMF]
+punct_1: [218, -]
+nummod_1: [VMF, 218]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('senator', 'NN', 'NOUN'), ('served', 'VBD', 'VERB'), ('in', 'IN', 'ADP'), ('military', 'JJ', 'ADJ'), ('units', 'NNS', 'NOUN'), ('VMF', 'NNP', 'PROPN'), ('-', 'HYPH', 'PUNCT'), ('155', 'CD', 'NUM'), ('and', 'CC', 'CCONJ'), ('VMF', 'NNP', 'PROPN'), ('-', 'SYM', 'SYM'), ('218', 'CD', 'NUM')]
+可能的疑问词：
+[('senator', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+9. What kind of games are made by Interplay Entertainment?
+句型词：What, 词性：WDT
+依赖结构：
+det_0: [kind, What]
+nsubj:pass_0: [made, kind]
+case_0: [games, of]
+nmod_0: [kind, games]
+aux:pass_0: [made, are]
+root_0: [made, made]
+case_1: [Entertainment, by]
+compound_0: [Entertainment, Interplay]
+obl:agent_0: [made, Entertainment]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('What', 'WDT', 'DET'), ('kind', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('games', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('made', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Interplay', 'NNP', 'PROPN'), ('Entertainment', 'NNP', 'PROPN')]
+可能的疑问词：
+[('kind', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (101, 0, 1.0), (102, 0, 1.0), (103, 0, 1.0), (992, 0, 1.0), (993, 0, 1.0), (994, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095)]
+10. Which producer of Purvis Eureka engine is also the owner of Ford Theatre ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [producer, Which]
+nsubj_0: [owner, producer]
+case_0: [engine, of]
+compound_0: [engine, Purvis]
+compound_1: [engine, Eureka]
+nmod_0: [producer, engine]
+cop_0: [owner, is]
+advmod_0: [owner, also]
+det_1: [owner, the]
+root_0: [owner, owner]
+case_1: [Theatre, of]
+compound_2: [Theatre, Ford]
+nmod_1: [owner, Theatre]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('producer', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Purvis', 'NNP', 'PROPN'), ('Eureka', 'NNP', 'PROPN'), ('engine', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('also', 'RB', 'ADV'), ('the', 'DT', 'DET'), ('owner', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Ford', 'NNP', 'PROPN'), ('Theatre', 'NNP', 'PROPN')]
+可能的疑问词：
+[('producer', 1.0), ('engine', 0.8461538461538461), ('owner', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+11. What developed EMMS?
+句型词：What, 词性：WP
+依赖结构：
+nsubj_0: [developed, What]
+root_0: [developed, developed]
+obj_0: [developed, EMMS]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('developed', 'VBD', 'VERB'), ('EMMS', 'NNP', 'PROPN')]
+可能的疑问词：
+[('What', 0.8)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+12. Which music band made Take Me There, and to which Tedd Riley was associated?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [band, Which]
+compound_0: [band, music]
+nsubj_0: [made, band]
+root_0: [made, made]
+xcomp_0: [made, Take]
+obj_0: [Take, Me]
+advmod_0: [Take, There]
+punct_0: [associated, ,]
+cc_0: [associated, and]
+case_0: [which, to]
+obl_0: [associated, which]
+nsubj:pass_0: [associated, Tedd]
+flat_0: [Tedd, Riley]
+aux:pass_0: [associated, was]
+conj_0: [made, associated]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('music', 'NN', 'NOUN'), ('band', 'NN', 'NOUN'), ('made', 'VBD', 'VERB'), ('Take', 'VB', 'VERB'), ('Me', 'PRP', 'PRON'), ('There', 'RB', 'ADV'), (',', ',', 'PUNCT'), ('and', 'CC', 'CCONJ'), ('to', 'IN', 'ADP'), ('which', 'WDT', 'PRON'), ('Tedd', 'NNP', 'PROPN'), ('Riley', 'NNP', 'PROPN'), ('was', 'VBD', 'AUX'), ('associated', 'VBN', 'VERB')]
+可能的疑问词：
+[('band', 1.0), ('music', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+13. In which time zone is Pong Pha?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [zone, In]
+det_0: [zone, which]
+compound_0: [zone, time]
+root_0: [zone, zone]
+cop_0: [Pha, is]
+compound_1: [Pha, Pong]
+nsubj_0: [zone, Pha]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('time', 'NN', 'NOUN'), ('zone', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Pong', 'NNP', 'PROPN'), ('Pha', 'NNP', 'PROPN')]
+可能的疑问词：
+[('zone', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+14. How many fictional characters are there in a series in which Craig Robinson acted?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [characters, many]
+amod_1: [characters, fictional]
+nsubj_0: [there, characters]
+cop_0: [there, are]
+root_0: [there, there]
+case_0: [series, in]
+det_0: [series, a]
+obl_0: [there, series]
+case_1: [which, in]
+obl_1: [acted, which]
+nsubj_1: [acted, Craig]
+flat_0: [Craig, Robinson]
+acl:relcl_0: [series, acted]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('fictional', 'JJ', 'ADJ'), ('characters', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('there', 'RB', 'ADV'), ('in', 'IN', 'ADP'), ('a', 'DT', 'DET'), ('series', 'NN', 'NOUN'), ('in', 'IN', 'ADP'), ('which', 'WDT', 'PRON'), ('Craig', 'NNP', 'PROPN'), ('Robinson', 'NNP', 'PROPN'), ('acted', 'VBD', 'VERB')]
+可能的疑问词：
+[('characters', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(34, 0, 1.0), (35, 0, 1.0), (36, 0, 1.0), (788, 0, 1.0), (789, 0, 1.0), (790, 0, 1.0), (925, 0, 1.0), (926, 0, 1.0), (927, 0, 1.0), (1656, 0, 1.0), (1657, 0, 1.0), (1658, 0, 1.0), (26, 0, 0.8), (27, 0, 0.8), (28, 0, 0.8), (29, 0, 0.8), (30, 0, 0.8), (31, 0, 0.8), (32, 0, 0.8), (33, 0, 0.8), (780, 0, 0.8), (781, 0, 0.8), (782, 0, 0.8), (783, 0, 0.8), (784, 0, 0.8), (785, 0, 0.8), (786, 0, 0.8), (787, 0, 0.8), (917, 0, 0.8), (918, 0, 0.8), (919, 0, 0.8), (920, 0, 0.8), (921, 0, 0.8), (922, 0, 0.8), (923, 0, 0.8), (924, 0, 0.8), (1648, 0, 0.8), (1649, 0, 0.8), (1650, 0, 0.8), (1651, 0, 0.8), (1652, 0, 0.8), (1653, 0, 0.8), (1654, 0, 0.8), (1655, 0, 0.8)]
+15. Which political party of Chandra Shekhar is also the political party of Datl Satyanarayana Raju ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [party, Which]
+amod_0: [party, political]
+nsubj_0: [party, party]
+case_0: [Chandra, of]
+nmod_0: [party, Chandra]
+flat_0: [Chandra, Shekhar]
+cop_0: [party, is]
+advmod_0: [party, also]
+det_1: [party, the]
+amod_1: [party, political]
+root_0: [party, party]
+case_1: [Datl, of]
+nmod_1: [party, Datl]
+flat_1: [Datl, Satyanarayana]
+flat_2: [Datl, Raju]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('political', 'JJ', 'ADJ'), ('party', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Chandra', 'NNP', 'PROPN'), ('Shekhar', 'NNP', 'PROPN'), ('is', 'VBZ', 'AUX'), ('also', 'RB', 'ADV'), ('the', 'DT', 'DET'), ('political', 'JJ', 'ADJ'), ('party', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Datl', 'NNP', 'PROPN'), ('Satyanarayana', 'NNP', 'PROPN'), ('Raju', 'NNP', 'PROPN')]
+可能的疑问词：
+[('party', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+16. Who owns the airport in Paphos?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [owns, Who]
+root_0: [owns, owns]
+det_0: [airport, the]
+obj_0: [owns, airport]
+case_0: [Paphos, in]
+nmod_0: [airport, Paphos]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('owns', 'VBZ', 'VERB'), ('the', 'DT', 'DET'), ('airport', 'NN', 'NOUN'), ('in', 'IN', 'ADP'), ('Paphos', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+17. What is the baseball team whose club manager is Chip Hale?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [team, the]
+compound_0: [team, baseball]
+nsubj_0: [What, team]
+nmod:poss_0: [manager, whose]
+compound_1: [manager, club]
+nsubj_1: [Chip, manager]
+cop_1: [Chip, is]
+acl:relcl_0: [team, Chip]
+flat_0: [Chip, Hale]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('baseball', 'NN', 'NOUN'), ('team', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('club', 'NN', 'NOUN'), ('manager', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Chip', 'NNP', 'PROPN'), ('Hale', 'NNP', 'PROPN')]
+可能的疑问词：
+[('team', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+18. Which bacteria's taxonomic class is Bacilli?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [bacteria, Which]
+nmod:poss_0: [class, bacteria]
+case_0: [bacteria, 's]
+amod_0: [class, taxonomic]
+nsubj_0: [Bacilli, class]
+cop_0: [Bacilli, is]
+root_0: [Bacilli, Bacilli]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('bacteria', 'NN', 'NOUN'), ("'s", 'POS', 'PART'), ('taxonomic', 'JJ', 'ADJ'), ('class', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Bacilli', 'NNP', 'PROPN')]
+可能的疑问词：
+[('bacteria', 1.0), ('class', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+19. What honours did Reigh Count receive?
+句型词：What, 词性：WDT
+依赖结构：
+det_0: [honours, What]
+obj_0: [receive, honours]
+aux_0: [receive, did]
+compound_0: [Count, Reigh]
+nsubj_0: [receive, Count]
+root_0: [receive, receive]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('What', 'WDT', 'DET'), ('honours', 'NNS', 'NOUN'), ('did', 'VBD', 'AUX'), ('Reigh', 'NNP', 'PROPN'), ('Count', 'VB', 'VERB'), ('receive', 'VB', 'VERB')]
+可能的疑问词：
+[('honours', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (101, 0, 1.0), (102, 0, 1.0), (103, 0, 1.0), (992, 0, 1.0), (993, 0, 1.0), (994, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095)]
+20. What are some products of the the company whose subsidiary is Sony Corp shareholders and subsidies?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+det_0: [products, some]
+nsubj_0: [What, products]
+case_0: [company, of]
+det_1: [company, the]
+det_2: [company, the]
+nmod_0: [products, company]
+nmod:poss_0: [subsidiary, whose]
+nsubj_1: [shareholders, subsidiary]
+cop_1: [shareholders, is]
+compound_0: [Corp, Sony]
+compound_1: [shareholders, Corp]
+acl:relcl_0: [company, shareholders]
+cc_0: [subsidies, and]
+conj_0: [shareholders, subsidies]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('some', 'DT', 'DET'), ('products', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('the', 'DT', 'DET'), ('company', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('subsidiary', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Sony', 'NNP', 'PROPN'), ('Corp', 'NNP', 'PROPN'), ('shareholders', 'NNS', 'NOUN'), ('and', 'CC', 'CCONJ'), ('subsidies', 'NNS', 'NOUN')]
+可能的疑问词：
+[('products', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+21. Who built the stadiums where 2014 FIFA under 17 woman's world cup took place?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [built, Who]
+root_0: [built, built]
+det_0: [stadiums, the]
+obj_0: [built, stadiums]
+advmod_0: [took, where]
+compound_0: [FIFA, 2014]
+nsubj_1: [took, FIFA]
+case_0: [cup, under]
+nummod_0: [woman, 17]
+nmod:poss_0: [cup, woman]
+case_1: [woman, 's]
+compound_1: [cup, world]
+nmod_0: [FIFA, cup]
+acl:relcl_0: [stadiums, took]
+obj_1: [took, place]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('built', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('stadiums', 'NNS', 'NOUN'), ('where', 'WRB', 'ADV'), ('2014', 'CD', 'NUM'), ('FIFA', 'NNP', 'PROPN'), ('under', 'IN', 'ADP'), ('17', 'CD', 'NUM'), ('woman', 'NN', 'NOUN'), ("'s", 'POS', 'PART'), ('world', 'NN', 'NOUN'), ('cup', 'NN', 'NOUN'), ('took', 'VBD', 'VERB'), ('place', 'NN', 'NOUN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+22. Which area operataed by the South Side Elevated Railroad is also the palce of death of the Sakari Suzuki ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [area, Which]
+nsubj_0: [palce, area]
+acl_0: [area, operataed]
+case_0: [Railroad, by]
+det_1: [Railroad, the]
+compound_0: [Side, South]
+compound_1: [Railroad, Side]
+amod_0: [Railroad, Elevated]
+obl_0: [operataed, Railroad]
+cop_0: [palce, is]
+advmod_0: [palce, also]
+det_2: [palce, the]
+root_0: [palce, palce]
+case_1: [death, of]
+nmod_0: [palce, death]
+case_2: [Suzuki, of]
+det_3: [Suzuki, the]
+compound_2: [Suzuki, Sakari]
+nmod_1: [death, Suzuki]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('area', 'NN', 'NOUN'), ('operataed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('South', 'NNP', 'PROPN'), ('Side', 'NNP', 'PROPN'), ('Elevated', 'NNP', 'ADJ'), ('Railroad', 'NNP', 'PROPN'), ('is', 'VBZ', 'AUX'), ('also', 'RB', 'ADV'), ('the', 'DT', 'DET'), ('palce', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('death', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Sakari', 'NNP', 'PROPN'), ('Suzuki', 'NNP', 'PROPN')]
+可能的疑问词：
+[('area', 1.0), ('palce', 0.8461538461538461), ('death', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+23. What is the television show whose related with  Doctor Who Confidential?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [show, the]
+compound_0: [show, television]
+nsubj_0: [What, show]
+nsubj_1: [related, whose]
+acl:relcl_0: [show, related]
+case_0: [Confidential, with]
+compound_1: [Confidential, Doctor]
+flat_0: [Doctor, Who]
+obl_0: [related, Confidential]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('television', 'NN', 'NOUN'), ('show', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('related', 'JJ', 'ADJ'), ('with', 'IN', 'ADP'), ('Doctor', 'NNP', 'PROPN'), ('Who', 'NNP', 'PROPN'), ('Confidential', 'NNP', 'PROPN')]
+可能的疑问词：
+[('show', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+24. In which city wasThe Triple Door (The Courage album)  performed live?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [city, In]
+det_0: [city, which]
+obl_0: [performed, city]
+aux_0: [performed, was]
+det_1: [Door, The]
+amod_0: [Door, Triple]
+nsubj_0: [performed, Door]
+punct_0: [album, (]
+det_2: [album, The]
+compound_0: [album, Courage]
+appos_0: [Door, album]
+punct_1: [album, )]
+root_0: [performed, performed]
+advmod_0: [performed, live]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('city', 'NN', 'NOUN'), ('was', 'VBD', 'AUX'), ('The', 'DT', 'DET'), ('Triple', 'NNP', 'ADJ'), ('Door', 'NNP', 'PROPN'), ('(', '-LRB-', 'PUNCT'), ('The', 'DT', 'DET'), ('Courage', 'NNP', 'PROPN'), ('album', 'NN', 'NOUN'), (')', '-RRB-', 'PUNCT'), ('performed', 'VBD', 'VERB'), ('live', 'RB', 'ADV')]
+可能的疑问词：
+[('city', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+25. Which nearest city of Jurgens Site is the death plce of Jimmie Heuga ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [city, Which]
+amod_0: [city, nearest]
+nsubj_0: [plce, city]
+case_0: [Site, of]
+compound_0: [Site, Jurgens]
+nmod_0: [city, Site]
+cop_0: [plce, is]
+det_1: [plce, the]
+compound_1: [plce, death]
+root_0: [plce, plce]
+case_1: [Jimmie, of]
+nmod_1: [plce, Jimmie]
+flat_0: [Jimmie, Heuga]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('nearest', 'JJS', 'ADJ'), ('city', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Jurgens', 'NNP', 'PROPN'), ('Site', 'NNP', 'PROPN'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('death', 'NN', 'NOUN'), ('plce', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Jimmie', 'NNP', 'PROPN'), ('Heuga', 'NNP', 'PROPN')]
+可能的疑问词：
+[('city', 1.0), ('death', 0.8461538461538461), ('plce', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+26. List the battles fought by  Ali Habib Mahmud ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [battles, the]
+obj_0: [List, battles]
+acl_0: [battles, fought]
+case_0: [Ali, by]
+obl_0: [fought, Ali]
+flat_0: [Ali, Habib]
+flat_1: [Ali, Mahmud]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('battles', 'NNS', 'NOUN'), ('fought', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Ali', 'NNP', 'PROPN'), ('Habib', 'NNP', 'PROPN'), ('Mahmud', 'NNP', 'PROPN')]
+可能的疑问词：
+[('battles', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+27. How many companies were started in the states?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [companies, many]
+nsubj:pass_0: [started, companies]
+aux:pass_0: [started, were]
+root_0: [started, started]
+case_0: [states, in]
+det_0: [states, the]
+obl_0: [started, states]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('companies', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('started', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('states', 'NNS', 'NOUN')]
+可能的疑问词：
+[('companies', 1.0), ('states', 0.8)]
+倒排索引的数据(已按规则的置信度排序)：
+[(34, 0, 1.0), (35, 0, 1.0), (36, 0, 1.0), (788, 0, 1.0), (789, 0, 1.0), (790, 0, 1.0), (925, 0, 1.0), (926, 0, 1.0), (927, 0, 1.0), (1656, 0, 1.0), (1657, 0, 1.0), (1658, 0, 1.0), (26, 0, 0.8), (27, 0, 0.8), (28, 0, 0.8), (29, 0, 0.8), (30, 0, 0.8), (31, 0, 0.8), (32, 0, 0.8), (33, 0, 0.8), (780, 0, 0.8), (781, 0, 0.8), (782, 0, 0.8), (783, 0, 0.8), (784, 0, 0.8), (785, 0, 0.8), (786, 0, 0.8), (787, 0, 0.8), (917, 0, 0.8), (918, 0, 0.8), (919, 0, 0.8), (920, 0, 0.8), (921, 0, 0.8), (922, 0, 0.8), (923, 0, 0.8), (924, 0, 0.8), (1648, 0, 0.8), (1649, 0, 0.8), (1650, 0, 0.8), (1651, 0, 0.8), (1652, 0, 0.8), (1653, 0, 0.8), (1654, 0, 0.8), (1655, 0, 0.8)]
+28. How many movies are distributed by Cinema International Corporation?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [movies, many]
+nsubj:pass_0: [distributed, movies]
+aux:pass_0: [distributed, are]
+root_0: [distributed, distributed]
+case_0: [Corporation, by]
+compound_0: [Corporation, Cinema]
+amod_1: [Corporation, International]
+obl_0: [distributed, Corporation]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('movies', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('distributed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Cinema', 'NNP', 'PROPN'), ('International', 'NNP', 'ADJ'), ('Corporation', 'NNP', 'PROPN')]
+可能的疑问词：
+[('movies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(34, 0, 1.0), (35, 0, 1.0), (36, 0, 1.0), (788, 0, 1.0), (789, 0, 1.0), (790, 0, 1.0), (925, 0, 1.0), (926, 0, 1.0), (927, 0, 1.0), (1656, 0, 1.0), (1657, 0, 1.0), (1658, 0, 1.0), (26, 0, 0.8), (27, 0, 0.8), (28, 0, 0.8), (29, 0, 0.8), (30, 0, 0.8), (31, 0, 0.8), (32, 0, 0.8), (33, 0, 0.8), (780, 0, 0.8), (781, 0, 0.8), (782, 0, 0.8), (783, 0, 0.8), (784, 0, 0.8), (785, 0, 0.8), (786, 0, 0.8), (787, 0, 0.8), (917, 0, 0.8), (918, 0, 0.8), (919, 0, 0.8), (920, 0, 0.8), (921, 0, 0.8), (922, 0, 0.8), (923, 0, 0.8), (924, 0, 0.8), (1648, 0, 0.8), (1649, 0, 0.8), (1650, 0, 0.8), (1651, 0, 0.8), (1652, 0, 0.8), (1653, 0, 0.8), (1654, 0, 0.8), (1655, 0, 0.8)]
+29. Name the local authority of Trinity School, Brentwood ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [authority, the]
+amod_0: [authority, local]
+obj_0: [Name, authority]
+case_0: [School, of]
+compound_0: [School, Trinity]
+nmod_0: [authority, School]
+punct_0: [School, ,]
+appos_0: [School, Brentwood]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('local', 'JJ', 'ADJ'), ('authority', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Trinity', 'NNP', 'PROPN'), ('School', 'NNP', 'PROPN'), (',', ',', 'PUNCT'), ('Brentwood', 'NNP', 'PROPN')]
+可能的疑问词：
+[('authority', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+30. Name the president of Wyche Fowler ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [president, the]
+obj_0: [Name, president]
+case_0: [Wyche, of]
+nmod_0: [president, Wyche]
+flat_0: [Wyche, Fowler]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('president', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Wyche', 'NNP', 'PROPN'), ('Fowler', 'NNP', 'PROPN')]
+可能的疑问词：
+[('president', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+31. In which fields have people born in Lausanne worked?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [fields, In]
+det_0: [fields, which]
+obl_0: [have, fields]
+root_0: [have, have]
+obj_0: [have, people]
+acl_0: [people, born]
+case_1: [Lausanne, in]
+obl_1: [born, Lausanne]
+ccomp_0: [have, worked]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('fields', 'NNS', 'NOUN'), ('have', 'VBP', 'VERB'), ('people', 'NNS', 'NOUN'), ('born', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('Lausanne', 'NNP', 'PROPN'), ('worked', 'VBD', 'VERB')]
+可能的疑问词：
+[('fields', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+32. Which Texas based company  was founded by Jim Harris ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [company, Which]
+compound_0: [based, Texas]
+amod_0: [company, based]
+nsubj:pass_0: [founded, company]
+aux:pass_0: [founded, was]
+root_0: [founded, founded]
+case_0: [Jim, by]
+obl:agent_0: [founded, Jim]
+flat_0: [Jim, Harris]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('Texas', 'NNP', 'PROPN'), ('based', 'VBN', 'VERB'), ('company', 'NN', 'NOUN'), ('was', 'VBD', 'AUX'), ('founded', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Jim', 'NNP', 'PROPN'), ('Harris', 'NNP', 'PROPN')]
+可能的疑问词：
+[('company', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+33. Name a show hosted by Brian Dunkleman and judged by Harry Connick, Jr.?
+句型词：hosted, 词性：VBN
+依赖结构：
+root_0: [Name, Name]
+det_0: [show, a]
+appos_0: [Name, show]
+acl_0: [show, hosted]
+case_0: [Brian, by]
+obl_0: [hosted, Brian]
+flat_0: [Brian, Dunkleman]
+cc_0: [judged, and]
+conj_0: [hosted, judged]
+case_1: [Harry, by]
+obl:agent_0: [judged, Harry]
+flat_1: [Harry, Connick]
+punct_0: [Harry, ,]
+appos_1: [Harry, Jr.]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'hosted'), ('SENTENCE_STRUCTURE_WORD_POS', 'VBN'), ('SENTENCE_SENTENCE_ACL_0', 2), ('SENTENCE_SENTENCE_OBL_0', 1), ('SENTENCE_SENTENCE_CONJ_0', 1)]
+单词及其词性：
+[('Name', 'NN', 'NOUN'), ('a', 'DT', 'DET'), ('show', 'NN', 'NOUN'), ('hosted', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Brian', 'NNP', 'PROPN'), ('Dunkleman', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('judged', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Harry', 'NNP', 'PROPN'), ('Connick', 'NNP', 'PROPN'), (',', ',', 'PUNCT'), ('Jr.', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+34. To which educational institute does Cornell University Press belong to?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [institute, To]
+det_0: [institute, which]
+amod_0: [institute, educational]
+obl_0: [belong, institute]
+aux_0: [belong, does]
+compound_0: [University, Cornell]
+compound_1: [Press, University]
+nsubj_0: [belong, Press]
+root_0: [belong, belong]
+obl_1: [belong, to]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('To', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('educational', 'JJ', 'ADJ'), ('institute', 'NN', 'NOUN'), ('does', 'VBZ', 'AUX'), ('Cornell', 'NNP', 'PROPN'), ('University', 'NNP', 'PROPN'), ('Press', 'NNP', 'PROPN'), ('belong', 'VB', 'VERB'), ('to', 'IN', 'ADP')]
+可能的疑问词：
+[('institute', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+35. In which country's cuisine, ham is an important part?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [cuisine, In]
+det_0: [country, which]
+nmod:poss_0: [cuisine, country]
+case_1: [country, 's]
+obl_0: [part, cuisine]
+punct_0: [part, ,]
+nsubj_0: [part, ham]
+cop_0: [part, is]
+det_1: [part, an]
+amod_0: [part, important]
+root_0: [part, part]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('country', 'NN', 'NOUN'), ("'s", 'POS', 'PART'), ('cuisine', 'NN', 'NOUN'), (',', ',', 'PUNCT'), ('ham', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('an', 'DT', 'DET'), ('important', 'JJ', 'ADJ'), ('part', 'NN', 'NOUN')]
+可能的疑问词：
+[('country', 1.0), ('cuisine', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+36. List the softwares which runs on Microsoft Windows and has license as Software as a service?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [softwares, the]
+obj_0: [List, softwares]
+nsubj_0: [runs, which]
+acl:relcl_0: [softwares, runs]
+case_0: [Windows, on]
+compound_0: [Windows, Microsoft]
+obl_0: [runs, Windows]
+cc_0: [has, and]
+conj_0: [runs, has]
+obj_1: [has, license]
+case_1: [Software, as]
+obl_1: [has, Software]
+case_2: [service, as]
+det_1: [service, a]
+obl_2: [has, service]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('softwares', 'NNS', 'NOUN'), ('which', 'WDT', 'PRON'), ('runs', 'VBZ', 'VERB'), ('on', 'IN', 'ADP'), ('Microsoft', 'NNP', 'PROPN'), ('Windows', 'NNPS', 'PROPN'), ('and', 'CC', 'CCONJ'), ('has', 'VBZ', 'VERB'), ('license', 'NN', 'NOUN'), ('as', 'IN', 'ADP'), ('Software', 'NN', 'NOUN'), ('as', 'IN', 'ADP'), ('a', 'DT', 'DET'), ('service', 'NN', 'NOUN')]
+可能的疑问词：
+[('softwares', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+37. Which ppolitical party of Yashpal Kapur is also the owner of National Herald ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [party, Which]
+amod_0: [party, ppolitical]
+nsubj_0: [owner, party]
+case_0: [Yashpal, of]
+nmod_0: [party, Yashpal]
+flat_0: [Yashpal, Kapur]
+cop_0: [owner, is]
+advmod_0: [owner, also]
+det_1: [owner, the]
+root_0: [owner, owner]
+case_1: [Herald, of]
+amod_1: [Herald, National]
+nmod_1: [owner, Herald]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('ppolitical', 'JJ', 'ADJ'), ('party', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Yashpal', 'NNP', 'PROPN'), ('Kapur', 'NNP', 'PROPN'), ('is', 'VBZ', 'AUX'), ('also', 'RB', 'ADV'), ('the', 'DT', 'DET'), ('owner', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('National', 'NNP', 'ADJ'), ('Herald', 'NNP', 'PROPN')]
+可能的疑问词：
+[('party', 1.0), ('owner', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+38. Who all have been presenters on shows by the NBC?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [presenters, Who]
+det_0: [Who, all]
+aux_0: [presenters, have]
+cop_0: [presenters, been]
+root_0: [presenters, presenters]
+case_0: [shows, on]
+nmod_0: [presenters, shows]
+case_1: [NBC, by]
+det_1: [NBC, the]
+nmod_1: [shows, NBC]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2), ('SENTENCE_SENTENCE_DET_0', 1)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('all', 'DT', 'DET'), ('have', 'VBP', 'AUX'), ('been', 'VBN', 'AUX'), ('presenters', 'NNS', 'NOUN'), ('on', 'IN', 'ADP'), ('shows', 'NNS', 'NOUN'), ('by', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('NBC', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+39. Give me the list of cars which are the predecessor of Full Sized Cars?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [list, the]
+obj_0: [Give, list]
+case_0: [cars, of]
+nmod_0: [list, cars]
+nsubj_0: [predecessor, which]
+cop_0: [predecessor, are]
+det_1: [predecessor, the]
+acl:relcl_0: [list, predecessor]
+case_1: [Cars, of]
+amod_0: [Cars, Full]
+amod_1: [Cars, Sized]
+nmod_1: [predecessor, Cars]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('the', 'DT', 'DET'), ('list', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('cars', 'NNS', 'NOUN'), ('which', 'WDT', 'PRON'), ('are', 'VBP', 'AUX'), ('the', 'DT', 'DET'), ('predecessor', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Full', 'NNP', 'ADJ'), ('Sized', 'NNP', 'ADJ'), ('Cars', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('list', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+40. List the people with final resting place as Plymouth, Vermont and has Samuel W. McCall as predecessor?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [people, the]
+obj_0: [List, people]
+case_0: [place, with]
+amod_0: [place, final]
+amod_1: [place, resting]
+nmod_0: [people, place]
+case_1: [Plymouth, as]
+obl_0: [List, Plymouth]
+punct_0: [Vermont, ,]
+appos_0: [Plymouth, Vermont]
+cc_0: [has, and]
+conj_0: [List, has]
+obj_1: [has, Samuel]
+flat_0: [Samuel, W.]
+flat_1: [Samuel, McCall]
+case_2: [predecessor, as]
+obl_1: [has, predecessor]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1), ('SENTENCE_SENTENCE_OBL_0', 1), ('SENTENCE_SENTENCE_CONJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('people', 'NNS', 'NOUN'), ('with', 'IN', 'ADP'), ('final', 'JJ', 'ADJ'), ('resting', 'NN', 'NOUN'), ('place', 'NN', 'NOUN'), ('as', 'IN', 'ADP'), ('Plymouth', 'NNP', 'PROPN'), (',', ',', 'PUNCT'), ('Vermont', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('has', 'VBZ', 'VERB'), ('Samuel', 'NNP', 'PROPN'), ('W.', 'NNP', 'PROPN'), ('McCall', 'NNP', 'PROPN'), ('as', 'IN', 'ADP'), ('predecessor', 'NN', 'NOUN')]
+可能的疑问词：
+[('people', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+41. What disease led to the demise of Letitia MacTavish Hargrave and Martino Martini ?
+句型词：What, 词性：WDT
+依赖结构：
+det_0: [disease, What]
+nsubj_0: [led, disease]
+root_0: [led, led]
+case_0: [demise, to]
+det_1: [demise, the]
+obl_0: [led, demise]
+case_1: [Letitia, of]
+nmod_0: [demise, Letitia]
+flat_0: [Letitia, MacTavish]
+flat_1: [Letitia, Hargrave]
+cc_0: [Martino, and]
+conj_0: [Letitia, Martino]
+flat_2: [Martino, Martini]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('What', 'WDT', 'DET'), ('disease', 'NN', 'NOUN'), ('led', 'VBD', 'VERB'), ('to', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('demise', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Letitia', 'NNP', 'PROPN'), ('MacTavish', 'NNP', 'PROPN'), ('Hargrave', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('Martino', 'NNP', 'PROPN'), ('Martini', 'NNP', 'PROPN')]
+可能的疑问词：
+[('disease', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (101, 0, 1.0), (102, 0, 1.0), (103, 0, 1.0), (992, 0, 1.0), (993, 0, 1.0), (994, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095)]
+42. What are some software which are written in languages that are run on Unix like OS?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+det_0: [software, some]
+nsubj_0: [What, software]
+nsubj:pass_0: [written, which]
+aux:pass_0: [written, are]
+acl:relcl_0: [software, written]
+case_0: [languages, in]
+obl_0: [written, languages]
+nsubj:pass_1: [run, that]
+aux:pass_1: [run, are]
+acl:relcl_1: [languages, run]
+case_1: [Unix, on]
+obl_1: [run, Unix]
+case_2: [OS, like]
+obl_2: [run, OS]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('some', 'DT', 'DET'), ('software', 'NN', 'NOUN'), ('which', 'WDT', 'PRON'), ('are', 'VBP', 'AUX'), ('written', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('languages', 'NNS', 'NOUN'), ('that', 'WDT', 'PRON'), ('are', 'VBP', 'AUX'), ('run', 'VBN', 'VERB'), ('on', 'IN', 'ADP'), ('Unix', 'NNP', 'PROPN'), ('like', 'IN', 'ADP'), ('OS', 'NNP', 'PROPN')]
+可能的疑问词：
+[('software', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+43. List all the movies whose directors were born in Kenosha, Wisconsin?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det:predet_0: [movies, all]
+det_0: [movies, the]
+obj_0: [List, movies]
+nmod:poss_0: [directors, whose]
+nsubj:pass_0: [born, directors]
+aux:pass_0: [born, were]
+acl:relcl_0: [movies, born]
+case_0: [Kenosha, in]
+obl_0: [born, Kenosha]
+punct_0: [Kenosha, ,]
+appos_0: [Kenosha, Wisconsin]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('all', 'PDT', 'DET'), ('the', 'DT', 'DET'), ('movies', 'NNS', 'NOUN'), ('whose', 'WP$', 'PRON'), ('directors', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('born', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('Kenosha', 'NNP', 'PROPN'), (',', ',', 'PUNCT'), ('Wisconsin', 'NNP', 'PROPN')]
+可能的疑问词：
+[('movies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+44. What stadium's operator is Stan Kroenke
+句型词：What, 词性：WDT
+依赖结构：
+det_0: [stadium, What]
+nmod:poss_0: [operator, stadium]
+case_0: [stadium, 's]
+nsubj_0: [Stan, operator]
+cop_0: [Stan, is]
+root_0: [Stan, Stan]
+flat_0: [Stan, Kroenke]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('What', 'WDT', 'DET'), ('stadium', 'NN', 'NOUN'), ("'s", 'POS', 'PART'), ('operator', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Stan', 'NNP', 'PROPN'), ('Kroenke', 'NNP', 'PROPN')]
+可能的疑问词：
+[('stadium', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(992, 0, 1.0), (993, 0, 1.0), (994, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1641, 0, 0.875), (1642, 0, 0.875), (1643, 0, 0.875), (1644, 0, 0.875), (1645, 0, 0.875), (1646, 0, 0.875), (1647, 0, 0.875), (1025, 0, 0.8095238095238095)]
+45. Whose commanders are John Mc Ewen and Park Chunghee?
+句型词：Whose, 词性：WP$
+依赖结构：
+nmod:poss_0: [commanders, Whose]
+nsubj_0: [John, commanders]
+cop_0: [John, are]
+root_0: [John, John]
+flat_0: [John, Mc]
+flat_1: [John, Ewen]
+cc_0: [Park, and]
+conj_0: [John, Park]
+flat_2: [Park, Chunghee]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Whose'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP$'), ('SENTENCE_SENTENCE_NMOD_POSS_0', 2)]
+单词及其词性：
+[('Whose', 'WP$', 'PRON'), ('commanders', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('John', 'NNP', 'PROPN'), ('Mc', 'NNP', 'PROPN'), ('Ewen', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('Park', 'NNP', 'PROPN'), ('Chunghee', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+46. Who gave guest appearances on the show which is the next episode after the Bombshell one?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [gave, Who]
+root_0: [gave, gave]
+compound_0: [appearances, guest]
+obj_0: [gave, appearances]
+case_0: [show, on]
+det_0: [show, the]
+nmod_0: [appearances, show]
+nsubj_1: [episode, which]
+cop_0: [episode, is]
+det_1: [episode, the]
+amod_0: [episode, next]
+acl:relcl_0: [appearances, episode]
+case_1: [Bombshell, after]
+det_2: [Bombshell, the]
+nmod_1: [episode, Bombshell]
+nummod_0: [Bombshell, one]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('gave', 'VBD', 'VERB'), ('guest', 'NN', 'NOUN'), ('appearances', 'NNS', 'NOUN'), ('on', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('show', 'NN', 'NOUN'), ('which', 'WDT', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('next', 'JJ', 'ADJ'), ('episode', 'NN', 'NOUN'), ('after', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Bombshell', 'NNP', 'PROPN'), ('one', 'CD', 'NUM')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+47. What is manufactured by a company headed by Kazuo Hirai?
+句型词：What, 词性：WP
+依赖结构：
+nsubj:pass_0: [manufactured, What]
+aux:pass_0: [manufactured, is]
+root_0: [manufactured, manufactured]
+case_0: [company, by]
+det_0: [company, a]
+obl:agent_0: [manufactured, company]
+acl_0: [company, headed]
+case_1: [Kazuo, by]
+obl:agent_1: [headed, Kazuo]
+flat_0: [Kazuo, Hirai]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_PASS_0', 2)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('manufactured', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('a', 'DT', 'DET'), ('company', 'NN', 'NOUN'), ('headed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Kazuo', 'NNP', 'PROPN'), ('Hirai', 'NNP', 'PROPN')]
+可能的疑问词：
+[('company', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+48. Under which presidents have politicians from the Continental army served?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [which, Under]
+obl_0: [have, which]
+nsubj_0: [have, presidents]
+root_0: [have, have]
+obj_0: [have, politicians]
+case_1: [army, from]
+det_0: [army, the]
+amod_0: [army, Continental]
+nmod_0: [politicians, army]
+ccomp_0: [have, served]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_CASE_0', 1), ('SENTENCE_SENTENCE_OBL_0', 2)]
+单词及其词性：
+[('Under', 'IN', 'ADP'), ('which', 'WDT', 'PRON'), ('presidents', 'NNS', 'NOUN'), ('have', 'VBP', 'VERB'), ('politicians', 'NNS', 'NOUN'), ('from', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Continental', 'JJ', 'ADJ'), ('army', 'NN', 'NOUN'), ('served', 'VBD', 'VERB')]
+可能的疑问词：
+[('army', 1.0), ('which', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+49. Philadelphia City Council is the governing body of which city?
+句型词：which, 词性：WDT
+依赖结构：
+compound_0: [Council, Philadelphia]
+compound_1: [Council, City]
+nsubj_0: [body, Council]
+cop_0: [body, is]
+det_0: [body, the]
+amod_0: [body, governing]
+root_0: [body, body]
+case_0: [city, of]
+det_1: [city, which]
+nmod_0: [body, city]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_1', 2)]
+单词及其词性：
+[('Philadelphia', 'NNP', 'PROPN'), ('City', 'NNP', 'PROPN'), ('Council', 'NNP', 'PROPN'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('governing', 'VBG', 'VERB'), ('body', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('city', 'NN', 'NOUN')]
+可能的疑问词：
+[('body', 1.0), ('city', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+50. What are the binomial authority of Menetries's warbler?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+det_0: [authority, the]
+amod_0: [authority, binomial]
+nsubj_0: [What, authority]
+case_0: [warbler, of]
+nmod:poss_0: [warbler, Menetries]
+case_1: [Menetries, 's]
+nmod_0: [authority, warbler]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('the', 'DT', 'DET'), ('binomial', 'JJ', 'ADJ'), ('authority', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Menetries', 'NNP', 'PROPN'), ("'s", 'POS', 'PART'), ('warbler', 'NN', 'NOUN')]
+可能的疑问词：
+[('authority', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+51. Name the movie which has music composed by Elliot Goldenthal and screenplay by Akiva Goldsman ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [movie, the]
+obj_0: [Name, movie]
+nsubj_0: [has, which]
+acl:relcl_0: [movie, has]
+obj_1: [has, music]
+acl_0: [music, composed]
+case_0: [Elliot, by]
+obl:agent_0: [composed, Elliot]
+flat_0: [Elliot, Goldenthal]
+cc_0: [screenplay, and]
+conj_0: [Elliot, screenplay]
+case_1: [Akiva, by]
+nmod_0: [screenplay, Akiva]
+flat_1: [Akiva, Goldsman]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('movie', 'NN', 'NOUN'), ('which', 'WDT', 'PRON'), ('has', 'VBZ', 'VERB'), ('music', 'NN', 'NOUN'), ('composed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Elliot', 'NNP', 'PROPN'), ('Goldenthal', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('screenplay', 'NN', 'NOUN'), ('by', 'IN', 'ADP'), ('Akiva', 'NNP', 'PROPN'), ('Goldsman', 'NNP', 'PROPN')]
+可能的疑问词：
+[('movie', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+52. Name the fictional character whose relative are Duck family and Clan McDuck?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [character, the]
+amod_0: [character, fictional]
+obj_0: [Name, character]
+nmod:poss_0: [relative, whose]
+nsubj_0: [family, relative]
+cop_0: [family, are]
+compound_0: [family, Duck]
+acl:relcl_0: [character, family]
+cc_0: [Clan, and]
+conj_0: [family, Clan]
+flat_0: [Clan, McDuck]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('fictional', 'JJ', 'ADJ'), ('character', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('relative', 'NN', 'NOUN'), ('are', 'VBP', 'AUX'), ('Duck', 'NNP', 'PROPN'), ('family', 'NN', 'NOUN'), ('and', 'CC', 'CCONJ'), ('Clan', 'NNP', 'PROPN'), ('McDuck', 'NNP', 'PROPN')]
+可能的疑问词：
+[('character', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+53. Which university with athletics department in NCAA Division I Football Bowl Subdivision has nickname Tulane Green Wave ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [university, Which]
+nsubj_0: [has, university]
+case_0: [department, with]
+compound_0: [department, athletics]
+nmod_0: [university, department]
+case_1: [Subdivision, in]
+compound_1: [Division, NCAA]
+compound_2: [Subdivision, Division]
+compound_3: [Subdivision, I]
+compound_4: [Bowl, Football]
+compound_5: [Subdivision, Bowl]
+nmod_1: [department, Subdivision]
+root_0: [has, has]
+obj_0: [has, nickname]
+compound_6: [Wave, Tulane]
+amod_0: [Wave, Green]
+appos_0: [nickname, Wave]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('university', 'NN', 'NOUN'), ('with', 'IN', 'ADP'), ('athletics', 'NNS', 'NOUN'), ('department', 'NN', 'NOUN'), ('in', 'IN', 'ADP'), ('NCAA', 'NNP', 'PROPN'), ('Division', 'NNP', 'PROPN'), ('I', 'NNP', 'PROPN'), ('Football', 'NNP', 'PROPN'), ('Bowl', 'NNP', 'PROPN'), ('Subdivision', 'NNP', 'PROPN'), ('has', 'VBZ', 'VERB'), ('nickname', 'NN', 'NOUN'), ('Tulane', 'NNP', 'PROPN'), ('Green', 'NNP', 'ADJ'), ('Wave', 'NNP', 'PROPN')]
+可能的疑问词：
+[('university', 1.0), ('department', 0.8461538461538461), ('nickname', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+54. Which state does Jerome B. Chaffee belong ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [state, Which]
+nsubj_0: [does, state]
+root_0: [does, does]
+nsubj_1: [does, Jerome]
+flat_0: [Jerome, B.]
+flat_1: [Jerome, Chaffee]
+acl_0: [Jerome, belong]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('state', 'NN', 'NOUN'), ('does', 'VBZ', 'AUX'), ('Jerome', 'NNP', 'PROPN'), ('B.', 'NNP', 'PROPN'), ('Chaffee', 'NNP', 'PROPN'), ('belong', 'VB', 'VERB')]
+可能的疑问词：
+[('state', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+55. In which of the parties that have governed over Rishikesh, does Govinda belong too?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [which, In]
+obl_0: [belong, which]
+case_1: [parties, of]
+det_0: [parties, the]
+nmod_0: [which, parties]
+nsubj_0: [governed, that]
+aux_0: [governed, have]
+acl:relcl_0: [parties, governed]
+case_2: [Rishikesh, over]
+obl_1: [governed, Rishikesh]
+punct_0: [belong, ,]
+aux_1: [belong, does]
+nsubj_1: [belong, Govinda]
+root_0: [belong, belong]
+advmod_0: [belong, too]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_CASE_0', 1), ('SENTENCE_SENTENCE_OBL_0', 2), ('SENTENCE_SENTENCE_NMOD_0', 1)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('parties', 'NNS', 'NOUN'), ('that', 'WDT', 'PRON'), ('have', 'VBP', 'AUX'), ('governed', 'VBN', 'VERB'), ('over', 'IN', 'ADP'), ('Rishikesh', 'NNP', 'PROPN'), (',', ',', 'PUNCT'), ('does', 'VBZ', 'AUX'), ('Govinda', 'NNP', 'PROPN'), ('belong', 'VB', 'VERB'), ('too', 'RB', 'ADV')]
+可能的疑问词：
+[('parties', 1.0), ('which', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+56. What awards are won by the screenwriter of Lucky You?
+句型词：What, 词性：WDT
+依赖结构：
+det_0: [awards, What]
+nsubj:pass_0: [won, awards]
+aux:pass_0: [won, are]
+root_0: [won, won]
+case_0: [screenwriter, by]
+det_1: [screenwriter, the]
+obl:agent_0: [won, screenwriter]
+case_1: [You, of]
+amod_0: [You, Lucky]
+nmod_0: [screenwriter, You]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('What', 'WDT', 'DET'), ('awards', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('won', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('screenwriter', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Lucky', 'NNP', 'ADJ'), ('You', 'NNP', 'PROPN')]
+可能的疑问词：
+[('awards', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (101, 0, 1.0), (102, 0, 1.0), (103, 0, 1.0), (992, 0, 1.0), (993, 0, 1.0), (994, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095)]
+57. Name  the Pole driver of 1994 Spanish Grand Prix ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [driver, the]
+compound_0: [driver, Pole]
+obj_0: [Name, driver]
+case_0: [1994, of]
+nmod_0: [driver, 1994]
+amod_0: [Prix, Spanish]
+amod_1: [Prix, Grand]
+nmod_1: [driver, Prix]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('Pole', 'NNP', 'PROPN'), ('driver', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('1994', 'CD', 'NUM'), ('Spanish', 'NNP', 'ADJ'), ('Grand', 'NNP', 'ADJ'), ('Prix', 'NNP', 'PROPN')]
+可能的疑问词：
+[('driver', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+58. Where did Georges Wolinski and Judson Huss die/
+句型词：Where, 词性：WRB
+依赖结构：
+advmod_0: [die, Where]
+aux_0: [die, did]
+nsubj_0: [die, Georges]
+flat_0: [Georges, Wolinski]
+cc_0: [Judson, and]
+conj_0: [Georges, Judson]
+flat_1: [Judson, Huss]
+root_0: [die, die]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'Where'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('Where', 'WRB', 'ADV'), ('did', 'VBD', 'AUX'), ('Georges', 'NNP', 'PROPN'), ('Wolinski', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('Judson', 'NNP', 'PROPN'), ('Huss', 'NNP', 'PROPN'), ('die', 'VB', 'VERB')]
+可能的疑问词：
+[('Where', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(928, 0, 1.0), (929, 0, 1.0), (930, 0, 1.0), (933, 0, 1.0), (936, 0, 1.0), (937, 0, 1.0), (940, 0, 1.0), (1740, 0, 1.0), (1741, 0, 1.0), (1742, 0, 1.0), (1745, 0, 1.0), (1748, 0, 1.0), (1749, 0, 1.0), (1752, 0, 1.0), (1641, 0, 0.875), (1642, 0, 0.875), (1643, 0, 0.875), (1644, 0, 0.875), (1645, 0, 0.875), (1646, 0, 0.875), (1647, 0, 0.875), (931, 0, 0.8), (932, 0, 0.8), (934, 0, 0.8), (935, 0, 0.8), (938, 0, 0.8), (939, 0, 0.8), (941, 0, 0.8), (942, 0, 0.8), (1743, 0, 0.8), (1744, 0, 0.8), (1746, 0, 0.8), (1747, 0, 0.8), (1750, 0, 0.8), (1751, 0, 0.8), (1753, 0, 0.8), (1754, 0, 0.8)]
+59. What is the parent company of the airline whose hub is in Detroit?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [company, the]
+compound_0: [company, parent]
+nsubj_0: [What, company]
+case_0: [airline, of]
+det_1: [airline, the]
+nmod_0: [company, airline]
+nmod:poss_0: [hub, whose]
+nsubj_1: [Detroit, hub]
+cop_1: [Detroit, is]
+case_1: [Detroit, in]
+acl:relcl_0: [airline, Detroit]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('parent', 'NN', 'NOUN'), ('company', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('airline', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('hub', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('in', 'IN', 'ADP'), ('Detroit', 'NNP', 'PROPN')]
+可能的疑问词：
+[('company', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+60. What is the appliance which uses the central processing unit manufactured by Marvell Technology Group?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [appliance, the]
+nsubj_0: [What, appliance]
+nsubj_1: [uses, which]
+acl:relcl_0: [appliance, uses]
+det_1: [unit, the]
+amod_0: [unit, central]
+compound_0: [unit, processing]
+obj_0: [uses, unit]
+acl_0: [unit, manufactured]
+case_0: [Group, by]
+compound_1: [Technology, Marvell]
+compound_2: [Group, Technology]
+obl_0: [manufactured, Group]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('appliance', 'NN', 'NOUN'), ('which', 'WDT', 'PRON'), ('uses', 'VBZ', 'VERB'), ('the', 'DT', 'DET'), ('central', 'JJ', 'ADJ'), ('processing', 'NN', 'NOUN'), ('unit', 'NN', 'NOUN'), ('manufactured', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Marvell', 'NNP', 'PROPN'), ('Technology', 'NNP', 'PROPN'), ('Group', 'NNP', 'PROPN')]
+可能的疑问词：
+[('appliance', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+61. Give me all magazines whose founder died in Berkeley, California?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [magazines, all]
+obj_0: [Give, magazines]
+nmod:poss_0: [founder, whose]
+nsubj_0: [died, founder]
+acl:relcl_0: [magazines, died]
+case_0: [Berkeley, in]
+obl_0: [died, Berkeley]
+punct_0: [Berkeley, ,]
+appos_0: [Berkeley, California]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('magazines', 'NNS', 'NOUN'), ('whose', 'WP$', 'PRON'), ('founder', 'NN', 'NOUN'), ('died', 'VBD', 'VERB'), ('in', 'IN', 'ADP'), ('Berkeley', 'NNP', 'PROPN'), (',', ',', 'PUNCT'), ('California', 'NNP', 'PROPN')]
+可能的疑问词：
+[('magazines', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+62. Which technological products were manufactured by Foxconn?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [products, Which]
+amod_0: [products, technological]
+nsubj:pass_0: [manufactured, products]
+aux:pass_0: [manufactured, were]
+root_0: [manufactured, manufactured]
+case_0: [Foxconn, by]
+obl:agent_0: [manufactured, Foxconn]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('technological', 'JJ', 'ADJ'), ('products', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('manufactured', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Foxconn', 'NNP', 'PROPN')]
+可能的疑问词：
+[('products', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+63. Whose predecessor had Jenny Macklin as a deputy ?
+句型词：Whose, 词性：WP$
+依赖结构：
+nmod:poss_0: [predecessor, Whose]
+nsubj_0: [had, predecessor]
+root_0: [had, had]
+obj_0: [had, Jenny]
+flat_0: [Jenny, Macklin]
+case_0: [deputy, as]
+det_0: [deputy, a]
+obl_0: [had, deputy]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Whose'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP$'), ('SENTENCE_SENTENCE_NMOD_POSS_0', 2)]
+单词及其词性：
+[('Whose', 'WP$', 'PRON'), ('predecessor', 'NN', 'NOUN'), ('had', 'VBD', 'VERB'), ('Jenny', 'NNP', 'PROPN'), ('Macklin', 'NNP', 'PROPN'), ('as', 'IN', 'ADP'), ('a', 'DT', 'DET'), ('deputy', 'NN', 'NOUN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+64. How many cars are similar to the ones assembled in the Jefferson North Assembly?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [cars, many]
+nsubj_0: [similar, cars]
+cop_0: [similar, are]
+root_0: [similar, similar]
+case_0: [ones, to]
+det_0: [ones, the]
+obl_0: [similar, ones]
+acl_0: [ones, assembled]
+case_1: [Assembly, in]
+det_1: [Assembly, the]
+compound_0: [Assembly, Jefferson]
+compound_1: [Assembly, North]
+obl_1: [assembled, Assembly]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('cars', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('similar', 'JJ', 'ADJ'), ('to', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('ones', 'NNS', 'NOUN'), ('assembled', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Jefferson', 'NNP', 'PROPN'), ('North', 'NNP', 'PROPN'), ('Assembly', 'NNP', 'PROPN')]
+可能的疑问词：
+[('cars', 1.0), ('ones', 0.8)]
+倒排索引的数据(已按规则的置信度排序)：
+[(34, 0, 1.0), (35, 0, 1.0), (36, 0, 1.0), (788, 0, 1.0), (789, 0, 1.0), (790, 0, 1.0), (925, 0, 1.0), (926, 0, 1.0), (927, 0, 1.0), (1656, 0, 1.0), (1657, 0, 1.0), (1658, 0, 1.0), (26, 0, 0.8), (27, 0, 0.8), (28, 0, 0.8), (29, 0, 0.8), (30, 0, 0.8), (31, 0, 0.8), (32, 0, 0.8), (33, 0, 0.8), (780, 0, 0.8), (781, 0, 0.8), (782, 0, 0.8), (783, 0, 0.8), (784, 0, 0.8), (785, 0, 0.8), (786, 0, 0.8), (787, 0, 0.8), (917, 0, 0.8), (918, 0, 0.8), (919, 0, 0.8), (920, 0, 0.8), (921, 0, 0.8), (922, 0, 0.8), (923, 0, 0.8), (924, 0, 0.8), (1648, 0, 0.8), (1649, 0, 0.8), (1650, 0, 0.8), (1651, 0, 0.8), (1652, 0, 0.8), (1653, 0, 0.8), (1654, 0, 0.8), (1655, 0, 0.8)]
+65. Count the number of region of AN/FSQ-7 Combat Direction Central?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Count, Count]
+det_0: [number, the]
+obj_0: [Count, number]
+case_0: [region, of]
+nmod_0: [number, region]
+case_1: [Central, of]
+nmod_1: [region, AN]
+punct_0: [FSQ, /]
+conj_0: [AN, FSQ]
+punct_1: [FSQ, -]
+nummod_0: [FSQ, 7]
+compound_0: [Central, Combat]
+compound_1: [Central, Direction]
+nmod_2: [region, Central]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Count', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('number', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('region', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('AN', 'NNP', 'PROPN'), ('/', 'SYM', 'SYM'), ('FSQ', 'NNP', 'PROPN'), ('-', 'HYPH', 'PUNCT'), ('7', 'CD', 'NUM'), ('Combat', 'NN', 'NOUN'), ('Direction', 'NNP', 'PROPN'), ('Central', 'NNP', 'PROPN')]
+可能的疑问词：
+[('number', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+66. What are the common houses of US Congress and the Kansas Legislature?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+det_0: [houses, the]
+amod_0: [houses, common]
+nsubj_0: [What, houses]
+case_0: [Congress, of]
+compound_0: [Congress, US]
+nmod_0: [houses, Congress]
+cc_0: [Legislature, and]
+det_1: [Legislature, the]
+compound_1: [Legislature, Kansas]
+conj_0: [Congress, Legislature]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('the', 'DT', 'DET'), ('common', 'JJ', 'ADJ'), ('houses', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('US', 'NNP', 'PROPN'), ('Congress', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('the', 'DT', 'DET'), ('Kansas', 'NNP', 'PROPN'), ('Legislature', 'NNP', 'PROPN')]
+可能的疑问词：
+[('houses', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+67. From how many different places have people gone to the Harward Medical School?
+句型词：how, 词性：WRB
+依赖结构：
+mark_0: [have, From]
+advmod_0: [many, how]
+amod_0: [places, many]
+amod_1: [places, different]
+nsubj_0: [have, places]
+root_0: [have, have]
+obj_0: [have, people]
+xcomp_0: [have, gone]
+case_0: [School, to]
+det_0: [School, the]
+compound_0: [School, Harward]
+amod_2: [School, Medical]
+obl_0: [gone, School]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'how'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('From', 'IN', 'ADP'), ('how', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('different', 'JJ', 'ADJ'), ('places', 'NNS', 'NOUN'), ('have', 'VBP', 'VERB'), ('people', 'NNS', 'NOUN'), ('gone', 'VBN', 'VERB'), ('to', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Harward', 'NNP', 'PROPN'), ('Medical', 'NNP', 'ADJ'), ('School', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+68. Name the television show where Mona Marshall has given voice and is distributed by Comedy Central?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [show, the]
+compound_0: [show, television]
+obj_0: [Name, show]
+advmod_0: [given, where]
+nsubj_0: [given, Mona]
+flat_0: [Mona, Marshall]
+aux_0: [given, has]
+acl:relcl_0: [show, given]
+obj_1: [given, voice]
+cc_0: [distributed, and]
+aux:pass_0: [distributed, is]
+conj_0: [given, distributed]
+case_0: [Central, by]
+compound_1: [Central, Comedy]
+obl_0: [distributed, Central]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('television', 'NN', 'NOUN'), ('show', 'NN', 'NOUN'), ('where', 'WRB', 'ADV'), ('Mona', 'NNP', 'PROPN'), ('Marshall', 'NNP', 'PROPN'), ('has', 'VBZ', 'AUX'), ('given', 'VBN', 'VERB'), ('voice', 'NN', 'NOUN'), ('and', 'CC', 'CCONJ'), ('is', 'VBZ', 'AUX'), ('distributed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Comedy', 'NNP', 'PROPN'), ('Central', 'NNP', 'PROPN')]
+可能的疑问词：
+[('show', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+69. What are Jerry Bock's musicals based upon?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+nmod:poss_0: [musicals, Jerry]
+flat_0: [Jerry, Bock]
+case_0: [Jerry, 's]
+nsubj_0: [What, musicals]
+acl_0: [musicals, based]
+obl_0: [based, upon]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('Jerry', 'NNP', 'PROPN'), ('Bock', 'NNP', 'PROPN'), ("'s", 'POS', 'PART'), ('musicals', 'NNS', 'NOUN'), ('based', 'VBN', 'VERB'), ('upon', 'IN', 'ADP')]
+可能的疑问词：
+[('musicals', 0.8)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+70. Give me list of people who were the first to climb a peak in the Yosemite park?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+obj_0: [Give, list]
+case_0: [people, of]
+nmod_0: [list, people]
+nsubj_0: [first, who]
+cop_0: [first, were]
+det_0: [first, the]
+acl:relcl_0: [people, first]
+mark_0: [climb, to]
+acl_0: [first, climb]
+det_1: [peak, a]
+obj_1: [climb, peak]
+case_1: [park, in]
+det_2: [park, the]
+compound_0: [park, Yosemite]
+obl_0: [climb, park]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('list', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('people', 'NNS', 'NOUN'), ('who', 'WP', 'PRON'), ('were', 'VBD', 'AUX'), ('the', 'DT', 'DET'), ('first', 'JJ', 'ADJ'), ('to', 'TO', 'PART'), ('climb', 'VB', 'VERB'), ('a', 'DT', 'DET'), ('peak', 'NN', 'NOUN'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Yosemite', 'NNP', 'PROPN'), ('park', 'NN', 'NOUN')]
+可能的疑问词：
+[('first', 1.0), ('list', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+71. What is Naval Support Activity Naples a part of?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+amod_0: [Naples, Naval]
+compound_0: [Activity, Support]
+compound_1: [Naples, Activity]
+nsubj_0: [What, Naples]
+det_0: [part, a]
+nsubj_1: [What, part]
+nmod_0: [part, of]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1), ('SENTENCE_SENTENCE_NSUBJ_1', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('Naval', 'JJ', 'ADJ'), ('Support', 'NN', 'NOUN'), ('Activity', 'NNP', 'PROPN'), ('Naples', 'NNP', 'PROPN'), ('a', 'DT', 'DET'), ('part', 'NN', 'NOUN'), ('of', 'IN', 'ADP')]
+可能的疑问词：
+[('part', 0.8095238095238095), ('Naples', 0.8)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+72. Who has allegiance is Colony of Virginia and buried in Montpelier?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [has, Who]
+csubj_0: [Colony, has]
+obj_0: [has, allegiance]
+cop_0: [Colony, is]
+root_0: [Colony, Colony]
+case_0: [Virginia, of]
+nmod_0: [Colony, Virginia]
+cc_0: [buried, and]
+conj_0: [Colony, buried]
+case_1: [Montpelier, in]
+obl_0: [buried, Montpelier]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('has', 'VBZ', 'VERB'), ('allegiance', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Colony', 'NNP', 'PROPN'), ('of', 'IN', 'ADP'), ('Virginia', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('buried', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('Montpelier', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+73. What is the successor of PlayStation 4
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [successor, the]
+nsubj_0: [What, successor]
+case_0: [PlayStation, of]
+nmod_0: [successor, PlayStation]
+nummod_0: [PlayStation, 4]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('successor', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('PlayStation', 'NNP', 'PROPN'), ('4', 'CD', 'NUM')]
+可能的疑问词：
+[('successor', 0.875)]
+倒排索引的数据(已按规则的置信度排序)：
+[(1641, 0, 0.875), (1642, 0, 0.875), (1643, 0, 0.875), (1644, 0, 0.875), (1645, 0, 0.875), (1646, 0, 0.875), (1647, 0, 0.875), (1025, 0, 0.8095238095238095), (1666, 0, 0.8)]
+74. What is the sovereign state of the Dafydd Benfras where Jasmine Lowson is also citizen of ?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [state, the]
+amod_0: [state, sovereign]
+nsubj_0: [What, state]
+case_0: [Benfras, of]
+det_1: [Benfras, the]
+compound_0: [Benfras, Dafydd]
+nmod_0: [state, Benfras]
+advmod_0: [citizen, where]
+nsubj_1: [citizen, Jasmine]
+flat_0: [Jasmine, Lowson]
+cop_1: [citizen, is]
+advmod_1: [citizen, also]
+acl:relcl_0: [state, citizen]
+nmod_1: [citizen, of]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('sovereign', 'JJ', 'ADJ'), ('state', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Dafydd', 'NNP', 'PROPN'), ('Benfras', 'NNPS', 'PROPN'), ('where', 'WRB', 'ADV'), ('Jasmine', 'NNP', 'PROPN'), ('Lowson', 'NNP', 'PROPN'), ('is', 'VBZ', 'AUX'), ('also', 'RB', 'ADV'), ('citizen', 'NN', 'NOUN'), ('of', 'IN', 'ADP')]
+可能的疑问词：
+[('state', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+75. Who did their highschool from a school whose mascot was a fighting tiger?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [did, Who]
+root_0: [did, did]
+nmod:poss_0: [highschool, their]
+obj_0: [did, highschool]
+case_0: [school, from]
+det_0: [school, a]
+obl_0: [did, school]
+nmod:poss_1: [mascot, whose]
+nsubj_1: [tiger, mascot]
+cop_0: [tiger, was]
+det_1: [tiger, a]
+amod_0: [tiger, fighting]
+acl:relcl_0: [school, tiger]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('did', 'VBD', 'VERB'), ('their', 'PRP$', 'PRON'), ('highschool', 'NN', 'NOUN'), ('from', 'IN', 'ADP'), ('a', 'DT', 'DET'), ('school', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('mascot', 'NN', 'NOUN'), ('was', 'VBD', 'AUX'), ('a', 'DT', 'DET'), ('fighting', 'NN', 'NOUN'), ('tiger', 'NN', 'NOUN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+76. Which destination of Emerald Air is also the city served by houston Fort Bend Airport ?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [destination, Which]
+nsubj_0: [city, destination]
+case_0: [Air, of]
+compound_0: [Air, Emerald]
+nmod_0: [destination, Air]
+cop_0: [city, is]
+advmod_0: [city, also]
+det_1: [city, the]
+root_0: [city, city]
+acl_0: [city, served]
+case_1: [Airport, by]
+compound_1: [Airport, houston]
+compound_2: [Bend, Fort]
+compound_3: [Airport, Bend]
+obl_0: [served, Airport]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('destination', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Emerald', 'NNP', 'PROPN'), ('Air', 'NNP', 'PROPN'), ('is', 'VBZ', 'AUX'), ('also', 'RB', 'ADV'), ('the', 'DT', 'DET'), ('city', 'NN', 'NOUN'), ('served', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('houston', 'NNP', 'PROPN'), ('Fort', 'NNP', 'PROPN'), ('Bend', 'NNP', 'PROPN'), ('Airport', 'NNP', 'PROPN')]
+可能的疑问词：
+[('destination', 1.0), ('city', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+77. Name the region served by Jerusalem Institue of Justice which was also the conflict region in GazaIsrael ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [region, the]
+obj_0: [Name, region]
+acl_0: [region, served]
+case_0: [Institue, by]
+compound_0: [Institue, Jerusalem]
+obl_0: [served, Institue]
+case_1: [Justice, of]
+nmod_0: [Institue, Justice]
+nsubj_0: [region, which]
+cop_0: [region, was]
+advmod_0: [region, also]
+det_1: [region, the]
+compound_1: [region, conflict]
+acl:relcl_0: [Institue, region]
+case_2: [GazaIsrael, in]
+nmod_1: [region, GazaIsrael]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('region', 'NN', 'NOUN'), ('served', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Jerusalem', 'NNP', 'PROPN'), ('Institue', 'NNP', 'PROPN'), ('of', 'IN', 'ADP'), ('Justice', 'NNP', 'PROPN'), ('which', 'WDT', 'PRON'), ('was', 'VBD', 'AUX'), ('also', 'RB', 'ADV'), ('the', 'DT', 'DET'), ('conflict', 'NN', 'NOUN'), ('region', 'NN', 'NOUN'), ('in', 'IN', 'ADP'), ('GazaIsrael', 'NNP', 'PROPN')]
+可能的疑问词：
+[('region', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+78. Name the company whose key person is Raymond Conner and produces Boeing CH-47 Chinook?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [company, the]
+obj_0: [Name, company]
+nmod:poss_0: [person, whose]
+amod_0: [person, key]
+nsubj_0: [Raymond, person]
+cop_0: [Raymond, is]
+acl:relcl_0: [company, Raymond]
+flat_0: [Raymond, Conner]
+cc_0: [produces, and]
+conj_0: [Name, produces]
+obj_1: [produces, Boeing]
+obj_2: [produces, CH]
+punct_0: [47, -]
+nummod_0: [CH, 47]
+appos_0: [CH, Chinook]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1), ('SENTENCE_SENTENCE_CONJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('company', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('key', 'JJ', 'ADJ'), ('person', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Raymond', 'NNP', 'PROPN'), ('Conner', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('produces', 'VBZ', 'VERB'), ('Boeing', 'NNP', 'PROPN'), ('CH', 'NNP', 'PROPN'), ('-', 'HYPH', 'PUNCT'), ('47', 'CD', 'NUM'), ('Chinook', 'NNP', 'PROPN')]
+可能的疑问词：
+[('company', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+79. What is the total number of professions in which someone who has suicided worked?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [number, the]
+amod_0: [number, total]
+nsubj_0: [What, number]
+case_0: [professions, of]
+nmod_0: [number, professions]
+case_1: [which, in]
+obl_0: [suicided, which]
+obj_0: [suicided, someone]
+nsubj_1: [suicided, who]
+aux_0: [suicided, has]
+acl:relcl_0: [professions, suicided]
+xcomp_0: [suicided, worked]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('total', 'JJ', 'ADJ'), ('number', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('professions', 'NNS', 'NOUN'), ('in', 'IN', 'ADP'), ('which', 'WDT', 'PRON'), ('someone', 'NN', 'PRON'), ('who', 'WP', 'PRON'), ('has', 'VBZ', 'AUX'), ('suicided', 'VBN', 'VERB'), ('worked', 'VBN', 'VERB')]
+可能的疑问词：
+[('number', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+80. How many golf players are there in Arizona State Sun Devils ?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [players, many]
+compound_0: [players, golf]
+nsubj_0: [there, players]
+cop_0: [there, are]
+root_0: [there, there]
+case_0: [Devils, in]
+compound_1: [State, Arizona]
+compound_2: [Devils, State]
+compound_3: [Devils, Sun]
+obl_0: [there, Devils]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('golf', 'NN', 'NOUN'), ('players', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('there', 'RB', 'ADV'), ('in', 'IN', 'ADP'), ('Arizona', 'NNP', 'PROPN'), ('State', 'NNP', 'PROPN'), ('Sun', 'NNP', 'PROPN'), ('Devils', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('players', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(34, 0, 1.0), (35, 0, 1.0), (36, 0, 1.0), (788, 0, 1.0), (789, 0, 1.0), (790, 0, 1.0), (925, 0, 1.0), (926, 0, 1.0), (927, 0, 1.0), (1656, 0, 1.0), (1657, 0, 1.0), (1658, 0, 1.0), (26, 0, 0.8), (27, 0, 0.8), (28, 0, 0.8), (29, 0, 0.8), (30, 0, 0.8), (31, 0, 0.8), (32, 0, 0.8), (33, 0, 0.8), (780, 0, 0.8), (781, 0, 0.8), (782, 0, 0.8), (783, 0, 0.8), (784, 0, 0.8), (785, 0, 0.8), (786, 0, 0.8), (787, 0, 0.8), (917, 0, 0.8), (918, 0, 0.8), (919, 0, 0.8), (920, 0, 0.8), (921, 0, 0.8), (922, 0, 0.8), (923, 0, 0.8), (924, 0, 0.8), (1648, 0, 0.8), (1649, 0, 0.8), (1650, 0, 0.8), (1651, 0, 0.8), (1652, 0, 0.8), (1653, 0, 0.8), (1654, 0, 0.8), (1655, 0, 0.8)]
+81. Count the number of characters in Batman Live?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Count, Count]
+det_0: [number, the]
+obj_0: [Count, number]
+case_0: [characters, of]
+nmod_0: [number, characters]
+case_1: [Live, in]
+compound_0: [Live, Batman]
+nmod_1: [characters, Live]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Count', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('number', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('characters', 'NNS', 'NOUN'), ('in', 'IN', 'ADP'), ('Batman', 'NNP', 'PROPN'), ('Live', 'NNP', 'PROPN')]
+可能的疑问词：
+[('number', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+82. List the services provided by the company which provides Microsoft azure as one of the service ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [services, the]
+obj_0: [List, services]
+acl_0: [services, provided]
+case_0: [company, by]
+det_1: [company, the]
+obl:agent_0: [provided, company]
+nsubj_0: [provides, which]
+acl:relcl_0: [company, provides]
+compound_0: [azure, Microsoft]
+obj_1: [provides, azure]
+case_1: [one, as]
+obl_0: [provides, one]
+case_2: [service, of]
+det_2: [service, the]
+nmod_0: [one, service]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('services', 'NNS', 'NOUN'), ('provided', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('company', 'NN', 'NOUN'), ('which', 'WDT', 'PRON'), ('provides', 'VBZ', 'VERB'), ('Microsoft', 'NNP', 'PROPN'), ('azure', 'NN', 'NOUN'), ('as', 'IN', 'ADP'), ('one', 'CD', 'NUM'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('service', 'NN', 'NOUN')]
+可能的疑问词：
+[('services', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+83. What are some team members of the team based in Camp Nou?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+det_0: [members, some]
+compound_0: [members, team]
+nsubj_0: [What, members]
+case_0: [team, of]
+det_1: [team, the]
+nmod_0: [members, team]
+acl_0: [team, based]
+case_1: [Nou, in]
+compound_1: [Nou, Camp]
+obl_0: [based, Nou]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('some', 'DT', 'DET'), ('team', 'NN', 'NOUN'), ('members', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('team', 'NN', 'NOUN'), ('based', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('Camp', 'NNP', 'PROPN'), ('Nou', 'NNP', 'PROPN')]
+可能的疑问词：
+[('members', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+84. Which universities are also known as the Tulane Green wave?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [universities, Which]
+nsubj:pass_0: [known, universities]
+aux:pass_0: [known, are]
+advmod_0: [known, also]
+root_0: [known, known]
+case_0: [wave, as]
+det_1: [wave, the]
+compound_0: [wave, Tulane]
+amod_0: [wave, Green]
+obl_0: [known, wave]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('universities', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('also', 'RB', 'ADV'), ('known', 'VBN', 'VERB'), ('as', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Tulane', 'NNP', 'PROPN'), ('Green', 'NNP', 'ADJ'), ('wave', 'NN', 'NOUN')]
+可能的疑问词：
+[('universities', 1.0), ('wave', 0.8461538461538461)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (104, 0, 1.0), (107, 0, 1.0), (110, 0, 1.0), (791, 0, 1.0), (794, 0, 1.0), (797, 0, 1.0), (995, 0, 1.0), (998, 0, 1.0), (1001, 0, 1.0), (1659, 0, 1.0), (1662, 0, 1.0), (1665, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (105, 0, 0.8461538461538461), (106, 0, 0.8461538461538461), (108, 0, 0.8461538461538461), (109, 0, 0.8461538461538461), (792, 0, 0.8461538461538461), (793, 0, 0.8461538461538461), (795, 0, 0.8461538461538461), (796, 0, 0.8461538461538461), (996, 0, 0.8461538461538461), (997, 0, 0.8461538461538461), (999, 0, 0.8461538461538461), (1000, 0, 0.8461538461538461), (1660, 0, 0.8461538461538461), (1661, 0, 0.8461538461538461), (1663, 0, 0.8461538461538461), (1664, 0, 0.8461538461538461)]
+85. What is the branch of the politicians whose governor is Bill Clements?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [branch, the]
+nsubj_0: [What, branch]
+case_0: [politicians, of]
+det_1: [politicians, the]
+nmod_0: [branch, politicians]
+nmod:poss_0: [governor, whose]
+nsubj_1: [Bill, governor]
+cop_1: [Bill, is]
+acl:relcl_0: [politicians, Bill]
+flat_0: [Bill, Clements]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('branch', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('politicians', 'NNS', 'NOUN'), ('whose', 'WP$', 'PRON'), ('governor', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Bill', 'NNP', 'PROPN'), ('Clements', 'NNP', 'PROPN')]
+可能的疑问词：
+[('branch', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+86. Who composed the episode after which came Butter's Very own Episode?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [composed, Who]
+root_0: [composed, composed]
+det_0: [episode, the]
+obj_0: [composed, episode]
+case_0: [which, after]
+obl_0: [came, which]
+acl:relcl_0: [episode, came]
+nmod:poss_0: [Episode, Butter]
+case_1: [Butter, 's]
+advmod_0: [own, Very]
+amod_0: [Episode, own]
+obj_1: [came, Episode]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('composed', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('episode', 'NN', 'NOUN'), ('after', 'IN', 'ADP'), ('which', 'WDT', 'PRON'), ('came', 'VBD', 'VERB'), ('Butter', 'NNP', 'PROPN'), ("'s", 'POS', 'PART'), ('Very', 'RB', 'ADV'), ('own', 'JJ', 'ADJ'), ('Episode', 'NN', 'NOUN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+87. What is the location country of Teperberg 1870 ?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [country, the]
+compound_0: [country, location]
+nsubj_0: [What, country]
+case_0: [Teperberg, of]
+nmod_0: [country, Teperberg]
+nummod_0: [Teperberg, 1870]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('location', 'NN', 'NOUN'), ('country', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Teperberg', 'NNP', 'PROPN'), ('1870', 'CD', 'NUM')]
+可能的疑问词：
+[('country', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+88. List the software developed by Shawn Fanning ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [software, the]
+obj_0: [List, software]
+acl_0: [software, developed]
+case_0: [Shawn, by]
+obl_0: [developed, Shawn]
+flat_0: [Shawn, Fanning]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('software', 'NN', 'NOUN'), ('developed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Shawn', 'NNP', 'PROPN'), ('Fanning', 'NNP', 'PROPN')]
+可能的疑问词：
+[('software', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+89. What is the stylistic origin of the music genres where the Bass guitar is important?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [origin, the]
+amod_0: [origin, stylistic]
+nsubj_0: [What, origin]
+case_0: [genres, of]
+det_1: [genres, the]
+compound_0: [genres, music]
+nmod_0: [origin, genres]
+advmod_0: [important, where]
+det_2: [guitar, the]
+compound_1: [guitar, Bass]
+nsubj_1: [important, guitar]
+cop_1: [important, is]
+acl:relcl_0: [genres, important]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('stylistic', 'JJ', 'ADJ'), ('origin', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('music', 'NN', 'NOUN'), ('genres', 'NNS', 'NOUN'), ('where', 'WRB', 'ADV'), ('the', 'DT', 'DET'), ('Bass', 'NNP', 'PROPN'), ('guitar', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('important', 'JJ', 'ADJ')]
+可能的疑问词：
+[('origin', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+90. What are the other notable work of the executive producer of The Runaway Bride episode of Doctor Who?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+det_0: [work, the]
+amod_0: [work, other]
+amod_1: [work, notable]
+nsubj_0: [What, work]
+case_0: [producer, of]
+det_1: [producer, the]
+amod_2: [producer, executive]
+nmod_0: [work, producer]
+case_1: [episode, of]
+det_2: [episode, The]
+compound_0: [Bride, Runaway]
+compound_1: [episode, Bride]
+nmod_1: [producer, episode]
+case_2: [Doctor, of]
+nmod_2: [episode, Doctor]
+flat_0: [Doctor, Who]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('the', 'DT', 'DET'), ('other', 'JJ', 'ADJ'), ('notable', 'JJ', 'ADJ'), ('work', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('executive', 'JJ', 'ADJ'), ('producer', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('The', 'DT', 'DET'), ('Runaway', 'NNP', 'PROPN'), ('Bride', 'NNP', 'PROPN'), ('episode', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Doctor', 'NNP', 'PROPN'), ('Who', 'NNP', 'PROPN')]
+可能的疑问词：
+[('work', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+91. Who was the voice actor of allen walker also gave voice to kimihiro watanuki?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [actor, Who]
+cop_0: [actor, was]
+det_0: [actor, the]
+compound_0: [actor, voice]
+nsubj_1: [gave, actor]
+case_0: [walker, of]
+compound_1: [walker, allen]
+nmod_0: [actor, walker]
+advmod_0: [gave, also]
+root_0: [gave, gave]
+obj_0: [gave, voice]
+case_1: [kimihiro, to]
+obl_0: [gave, kimihiro]
+flat_0: [kimihiro, watanuki]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('was', 'VBD', 'AUX'), ('the', 'DT', 'DET'), ('voice', 'NN', 'NOUN'), ('actor', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('allen', 'NNP', 'PROPN'), ('walker', 'NN', 'NOUN'), ('also', 'RB', 'ADV'), ('gave', 'VBD', 'VERB'), ('voice', 'NN', 'NOUN'), ('to', 'IN', 'ADP'), ('kimihiro', 'NNP', 'PROPN'), ('watanuki', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+92. Name the office holder whose final resting place is North Bend and was part of Siege of fort recovery conflict ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Name, Name]
+det_0: [holder, the]
+compound_0: [holder, office]
+obj_0: [Name, holder]
+nmod:poss_0: [place, whose]
+amod_0: [place, final]
+amod_1: [place, resting]
+nsubj_0: [Bend, place]
+cop_0: [Bend, is]
+compound_1: [Bend, North]
+acl:relcl_0: [holder, Bend]
+cc_0: [part, and]
+cop_1: [part, was]
+conj_0: [Name, part]
+case_0: [Siege, of]
+nmod_0: [part, Siege]
+case_1: [conflict, of]
+compound_2: [recovery, fort]
+compound_3: [conflict, recovery]
+nmod_1: [Siege, conflict]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1), ('SENTENCE_SENTENCE_CONJ_0', 1)]
+单词及其词性：
+[('Name', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('office', 'NN', 'NOUN'), ('holder', 'NN', 'NOUN'), ('whose', 'WP$', 'PRON'), ('final', 'JJ', 'ADJ'), ('resting', 'NN', 'NOUN'), ('place', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('North', 'NNP', 'PROPN'), ('Bend', 'NNP', 'PROPN'), ('and', 'CC', 'CCONJ'), ('was', 'VBD', 'AUX'), ('part', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Siege', 'NNP', 'PROPN'), ('of', 'IN', 'ADP'), ('fort', 'NNP', 'PROPN'), ('recovery', 'NN', 'NOUN'), ('conflict', 'NN', 'NOUN')]
+可能的疑问词：
+[('holder', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+93. What type of engines are utilised by Purvis Eureka?
+句型词：What, 词性：WDT
+依赖结构：
+det_0: [type, What]
+nsubj:pass_0: [utilised, type]
+case_0: [engines, of]
+nmod_0: [type, engines]
+aux:pass_0: [utilised, are]
+root_0: [utilised, utilised]
+case_1: [Purvis, by]
+obl:agent_0: [utilised, Purvis]
+flat_0: [Purvis, Eureka]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('What', 'WDT', 'DET'), ('type', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('engines', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('utilised', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Purvis', 'NNP', 'PROPN'), ('Eureka', 'NNP', 'PROPN')]
+可能的疑问词：
+[('type', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (101, 0, 1.0), (102, 0, 1.0), (103, 0, 1.0), (992, 0, 1.0), (993, 0, 1.0), (994, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095)]
+94. Who edited Easy street ?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [edited, Who]
+root_0: [edited, edited]
+amod_0: [street, Easy]
+obj_0: [edited, street]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('edited', 'VBD', 'VERB'), ('Easy', 'JJ', 'ADJ'), ('street', 'NN', 'NOUN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+95. Who were involved in the wars where Jonathan Haskell battled?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [involved, Who]
+cop_0: [involved, were]
+root_0: [involved, involved]
+case_0: [wars, in]
+det_0: [wars, the]
+obl_0: [involved, wars]
+advmod_0: [battled, where]
+nsubj_1: [battled, Jonathan]
+flat_0: [Jonathan, Haskell]
+acl:relcl_0: [wars, battled]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('were', 'VBD', 'AUX'), ('involved', 'JJ', 'ADJ'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('wars', 'NNS', 'NOUN'), ('where', 'WRB', 'ADV'), ('Jonathan', 'NNP', 'PROPN'), ('Haskell', 'NNP', 'PROPN'), ('battled', 'VBD', 'VERB')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+96. In which city was the film star of Singhasan Battisi born ?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [city, In]
+det_0: [city, which]
+nmod_0: [star, city]
+root_0: [was, was]
+det_1: [star, the]
+compound_0: [star, film]
+nsubj_0: [was, star]
+case_1: [Singhasan, of]
+nsubj_1: [born, Singhasan]
+flat_0: [Singhasan, Battisi]
+acl_0: [star, born]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('city', 'NN', 'NOUN'), ('was', 'VBD', 'AUX'), ('the', 'DT', 'DET'), ('film', 'NN', 'NOUN'), ('star', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Singhasan', 'NNP', 'PROPN'), ('Battisi', 'NNP', 'PROPN'), ('born', 'VBN', 'VERB')]
+可能的疑问词：
+[('city', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+97. What are the reason served by Toll Global Express which is also the country of LPGA ?
+句型词：What, 词性：WP
+依赖结构：
+nsubj_0: [reason, What]
+cop_0: [reason, are]
+det_0: [reason, the]
+root_0: [reason, reason]
+acl_0: [reason, served]
+case_0: [Express, by]
+compound_0: [Express, Toll]
+amod_0: [Express, Global]
+obl_0: [served, Express]
+nsubj_1: [country, which]
+cop_1: [country, is]
+advmod_0: [country, also]
+det_1: [country, the]
+acl:relcl_0: [Express, country]
+case_1: [LPGA, of]
+nmod_0: [country, LPGA]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('the', 'DT', 'DET'), ('reason', 'NN', 'NOUN'), ('served', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Toll', 'NNP', 'PROPN'), ('Global', 'NNP', 'ADJ'), ('Express', 'NNP', 'PROPN'), ('which', 'WDT', 'PRON'), ('is', 'VBZ', 'AUX'), ('also', 'RB', 'ADV'), ('the', 'DT', 'DET'), ('country', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('LPGA', 'NNP', 'PROPN')]
+可能的疑问词：
+[('reason', 0.8095238095238095), ('What', 0.8)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]
+98. List the territory of Tonkin Campaign ?
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [territory, the]
+obj_0: [List, territory]
+case_0: [Campaign, of]
+compound_0: [Campaign, Tonkin]
+nmod_0: [territory, Campaign]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('territory', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Tonkin', 'NNP', 'PROPN'), ('Campaign', 'NNP', 'PROPN')]
+可能的疑问词：
+[('territory', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(525, 0, 1.0), (526, 0, 1.0), (527, 0, 1.0), (528, 0, 1.0), (529, 0, 1.0), (530, 0, 1.0), (531, 0, 1.0), (1404, 0, 1.0), (1405, 0, 1.0), (1406, 0, 1.0), (1407, 0, 1.0), (1408, 0, 1.0), (1409, 0, 1.0), (1410, 0, 1.0)]
+99. For which teams did Ryan Powell play for?
+句型词：which, 词性：WDT
+依赖结构：
+mark_0: [did, For]
+det_0: [teams, which]
+nsubj_0: [did, teams]
+root_0: [did, did]
+obj_0: [did, Ryan]
+flat_0: [Ryan, Powell]
+xcomp_0: [did, play]
+obl_0: [play, for]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('For', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('teams', 'NNS', 'NOUN'), ('did', 'VBD', 'VERB'), ('Ryan', 'NNP', 'PROPN'), ('Powell', 'NNP', 'PROPN'), ('play', 'VB', 'VERB'), ('for', 'IN', 'ADP')]
+可能的疑问词：
+[('teams', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(78, 0, 1.0), (79, 0, 1.0), (80, 0, 1.0), (111, 0, 1.0), (112, 0, 1.0), (115, 0, 1.0), (869, 0, 1.0), (870, 0, 1.0), (873, 0, 1.0), (969, 0, 0.9629629629629629), (970, 0, 0.9629629629629629), (971, 0, 0.9629629629629629), (1002, 0, 0.8571428571428571), (1003, 0, 0.8571428571428571), (1004, 0, 0.8571428571428571), (1737, 0, 0.8571428571428571), (1738, 0, 0.8571428571428571), (1739, 0, 0.8571428571428571), (113, 0, 0.8333333333333334), (114, 0, 0.8333333333333334), (116, 0, 0.8333333333333334), (117, 0, 0.8333333333333334), (871, 0, 0.8333333333333334), (872, 0, 0.8333333333333334), (874, 0, 0.8333333333333334), (875, 0, 0.8333333333333334)]
+100. What are the awards won by the person who wrote the screen play for Lost in Rio ?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, are]
+det_0: [awards, the]
+nsubj_0: [What, awards]
+acl_0: [awards, won]
+case_0: [person, by]
+det_1: [person, the]
+obl:agent_0: [won, person]
+nsubj_1: [wrote, who]
+acl:relcl_0: [person, wrote]
+det_2: [play, the]
+compound_0: [play, screen]
+obj_0: [wrote, play]
+case_1: [Lost, for]
+nmod_0: [play, Lost]
+case_2: [Rio, in]
+nmod_1: [Lost, Rio]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('are', 'VBP', 'AUX'), ('the', 'DT', 'DET'), ('awards', 'NNS', 'NOUN'), ('won', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('person', 'NN', 'NOUN'), ('who', 'WP', 'PRON'), ('wrote', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('screen', 'NN', 'NOUN'), ('play', 'NN', 'NOUN'), ('for', 'IN', 'ADP'), ('Lost', 'NNP', 'PROPN'), ('in', 'IN', 'ADP'), ('Rio', 'NNP', 'PROPN')]
+可能的疑问词：
+[('awards', 0.8095238095238095)]
+倒排索引的数据(已按规则的置信度排序)：
+[(138, 0, 0.8095238095238095), (1025, 0, 0.8095238095238095), (798, 0, 0.8), (1666, 0, 0.8)]

@@ -1,0 +1,200 @@
+Give me all films produced by Hal Roach.
+films
+Give me all actors starring in Batman Begins.
+actors
+Give me all movies with Tom Cruise!
+movies
+List all episodes of the first season of the HBO television series The Sopranos!
+episodes
+Which books were written by Danielle Steel?
+books
+Who wrote the book The pillars of the Earth?
+Who
+Which mountains are higher than the Nanga Parbat?
+mountains
+When was Capcom founded?
+When
+Which software has been published by Mean Hamster Software?
+software
+Which software has been developed by organizations founded in California?
+software
+Which country has the most official languages?
+country
+Give me all European Capitals!
+Capitals
+Who produced films starring Natalie Portman?
+Who
+In which films did Julia Roberts as well as Richard Gere play?
+films
+Give me the websites of companies with more than 500000 employees.
+websites
+Give me all female Russian astronauts.
+astronauts
+Give me the birthdays of all actors of the television show Charmed.
+birthdays
+Which countries have places with more than two caves?
+countries
+Give me the capitals of all countries in Africa.
+capitals
+How many employees does IBM have?
+employees
+Which states border Illinois?
+states
+Which European countries have a constitutional monarchy?
+countries
+Which awards did WikiLeaks win?
+awards
+Which state of the USA has the highest population density?
+state
+When did Finland join the EU?
+When
+What is the highest mountain in Australia?
+mountain
+Give me all companies in the advertising industry.
+companies
+Give me all presidents of the United States.
+presidents
+Who was the wife of U.S. president Lincoln?
+wife
+What is the official website of Tom Cruise?
+website
+Give me all people with first name Jimmy.
+people
+Who created Wikipedia?
+Who
+Give me all video games published by Mean Hamster Software.
+games
+Which languages are spoken in Estonia?
+languages
+How many films did Hal Roach produce?
+films
+Give me all books written by Danielle Steel.
+books
+Which airports are located in California, USA?
+airports
+Give me all Canadian Grunge record labels.
+record
+Give me all movies with Tom Cruise.
+movies
+Give me all female German chancellors.
+chancellors
+Which budget did the first movie of Zdenek Sverak have?
+budget
+How many big fires struck Paris during the Middle Ages?
+fires
+How often was Michael Jordan divorced?
+often
+What is the most beautiful painting?
+painting
+Give me all animal species that live in the Teutoburg Forest.
+animal
+When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?
+When
+Who is the daughter of Ingrid Bergman married to?
+Who
+In which city did John F. Kennedy die?
+city
+Which classis do tree frogs belong to?
+classis
+When did Latvia join the EU?
+When
+Give me all actors starring in Last Action Hero.
+actors
+Who wrote the book Les Piliers de la terre?
+Who
+Give me all cosmonauts.
+cosmonauts
+How many countries are there in Europe?
+countries
+In which U.S. state is Mount McKinley located?
+state
+Which countries have more than ten caves?
+countries
+Give me all communist countries.
+countries
+Which U.S. state has the highest population density?
+state
+Which countries adopted the Euro?
+countries
+Which monarchs were married to a German?
+monarchs
+What is the official language of Suriname?
+language
+Who is the mayor of Tel Aviv?
+mayor
+What is the highest place of the Urals?
+place
+Who is the editor of Forbes?
+editor
+Give me all libraries established earlier than 1400.
+libraries
+Give me all federal chancellors of Germany.
+chancellors
+List all episodes of the first season of the HBO television series The Sopranos.
+episodes
+Which companies work in the aerospace industry as well as in medicine?
+companies
+How many Aldi stores are there?
+stores
+Who was the first president of the United States?
+president
+Give me all female given names.
+names
+Who wrote the book The Pillars of the Earth?
+Who
+Which organizations were founded in 1930?
+organizations
+Who was John F. Kennedy's vice president?
+president
+Give me a list of all bandleaders that play trumpet.
+list
+Give me all world heritage sites designated within the past two years.
+heritage
+What were the main discoveries of the Mars rover Curiosity?
+discoveries
+How many languages are spoken in Turkmenistan?
+languages
+Give me all actors starring in movies directed by William Shatner.
+actors
+Give me all Methodist politicians.
+politicians
+Give me all islands that belong to Japan.
+islands
+Give me all Apollo 14 astronauts.
+astronauts
+Which U.S. states are in the same time zone as Utah?
+states
+Give me all Danish films.
+films
+Which instruments does Cat Stevens play?
+instruments
+Which Chess players died in the same place they were born in?
+players
+Who is the daughter of Robert Kennedy married to?
+Who
+In which country does the Ganges start?
+country
+Which television shows were created by John Cleese?
+television
+Which awards did Douglas Hofstadter win?
+awards
+Who is the owner of Rolls-Royce?
+owner
+Who was the 16th president of the United States?
+president
+Give me all animal species that live in the Amazon rainforest.
+animal
+How many missions does the Soyuz programme have?
+missions
+Give me all Danish movies.
+movies
+Who was called Frank The Tank?
+Tank
+Which movies did Kurosawa direct?
+movies
+What is the most frequent cause of death?
+cause
+Which rockets were launched from Baikonur?
+rockets
+What does IYCM stand for?
+What

@@ -1,0 +1,200 @@
+How many pages does War and Peace have?
+pages
+Which ingredients do I need for carrot cake?
+ingredients
+What is the most frequent death cause?
+cause
+Who has Tom Cruise been married to?
+Who
+Who is the tallest player of the Atlanta Falcons?
+player
+What is the bridge with the longest span?
+bridge
+Give me all films produced by Steven Spielberg with a budget of at least $80 million.
+films
+Which actor was casted in the most movies?
+actor
+Where was Bach born?
+Where
+Which of Tim Burton's films had the highest budget?
+films
+Who are the four youngest MVP basketball players?
+players
+What are the top-10 action role-playing video games according to IGN?
+games
+Give me all actors who were born in Berlin.
+actors
+Give me all actors who were born in Paris after 1950.
+actors
+What was Brazil's lowest rank in the FIFA World Ranking?
+rank
+Give me all Australian metalcore bands.
+bands
+When is Halloween?
+When
+How many inhabitants does the largest city in Canada have?
+inhabitants
+In which countries can you pay using the West African CFA franc?
+countries
+Give me the capitals of all countries that the Himalayas run through.
+capitals
+To which artistic movement did the painter of The Three Dancers belong?
+movement
+Which pope succeeded John Paul II?
+pope
+What was the last movie with Alec Guinness?
+movie
+How many James Bond movies are there?
+movies
+Which actor played Chewbacca?
+actor
+Give me the grandchildren of Bruce Lee.
+grandchildren
+Give me all writers that won the Nobel Prize in literature.
+writers
+What is the official color of the University of Oxford?
+color
+Give me all Swedish oceanographers.
+oceanographers
+How deep is Lake Placid?
+deep
+Which spaceflights were launched from Baikonur?
+spaceflights
+Give me all actors called Baldwin.
+actors
+What does CPU stand for?
+What
+In which studio did the Beatles record their first album?
+studio
+How many gold medals did Michael Phelps win at the 2008 Olympics?
+medals
+Give me all ESA astronauts.
+astronauts
+Give me all Swedish holidays.
+holidays
+Who is the youngest Pulitzer Prize winner?
+winner
+Which animals are critically endangered?
+animals
+Which soccer players were born on Malta?
+players
+Which programming languages were influenced by Perl?
+languages
+How many children does Eddie Murphy have?
+children
+Who is the oldest child of Meryl Streep?
+child
+Who killed John Lennon?
+Who
+In which city is Air China headquartered?
+city
+Which frequent flyer program has the most airlines?
+program
+Which artists were born on the same date as Rachel Stevens?
+artists
+How many scientists graduated from an Ivy League university?
+scientists
+Which types of grapes grow in Oregon?
+grapes
+Who is starring in Spanish movies produced by Benicio del Toro?
+Who
+Who is the manager of Real Madrid?
+manager
+Give me the currency of China.
+currency
+Which movies starring Brad Pitt were directed by Guy Ritchie?
+movies
+How many companies were founded by the founder of Facebook?
+companies
+How many companies were founded in the same year as Google?
+companies
+Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?
+subsidiary
+How many airlines are members of the Star Alliance?
+airlines
+Give me all spacecrafts that flew to Mars.
+spacecrafts
+Which musician wrote the most books?
+musician
+Show me everyone who was born on Halloween.
+everyone
+Give me all Swiss non-profit organizations.
+organizations
+In which country is Mecca located?
+country
+What is the net income of Apple?
+income
+What does the abbreviation FIFA stand for?
+What
+When did the Ming dynasty dissolve?
+When
+Which museum in New York has the most visitors?
+museum
+esserts from which country contain fish?
+country
+What is the highest mountain in Italy?
+mountain
+Where did the architect of the Eiffel Tower study?
+architect
+Which Greek parties are pro-European?
+parties
+What is the height difference between Mount Everest and K2?
+difference
+Who is the mayor of Rotterdam?
+mayor
+In which city were the parents of Che Guevara born?
+parents
+How high is the Yokohama Marine Tower?
+high
+How many ethnic groups live in Slovenia?
+ethnic
+List the seven kings of Rome.
+kings
+Who were the parents of Queen Victoria?
+parents
+Who is the heaviest player of the Chicago Bulls?
+player
+Which volcanos in Japan erupted since 2000?
+volcanos
+Who is the tallest basketball player?
+player
+Where was the "Father of Singapore" born?
+Where
+Which Secretary of State was significantly involved in the United States' dominance of the Caribbean?
+Secretary
+Who is the architect of the tallest building in Japan?
+architect
+What is the name of the Viennese newspaper founded by the creator of the croissant?
+name
+In which city where Charlie Chaplin's half brothers born?
+city
+Which German mathematicians were members of the von Braun rocket group?
+members
+Which writers converted to Islam?
+writers
+Which movie by the Coen brothers stars John Turturro in the role of a New York City playwright?
+movie
+Which of the volcanoes that erupted in 1550 is still active?
+volcanoes
+Who was the doctoral supervisor of Albert Einstein?
+supervisor
+Who wrote the song Hotel California?
+Who
+Who was on the Apollo 11 mission?
+mission
+Which electronics companies were founded in Beijing?
+companies
+What is in a chocolate chip cookie?
+cookie
+What is the atmosphere of the Moon composed of?
+atmosphere
+How many movies did Park Chan-wook direct?
+movies
+Who are the developers of DBpedia?
+developers
+Which Indian company has the most employees?
+company
+What is the name of the school where Obama's wife studied?
+name
+Where does Piccadilly start?
+Where

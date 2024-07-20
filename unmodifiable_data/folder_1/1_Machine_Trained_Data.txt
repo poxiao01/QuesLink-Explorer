@@ -1,0 +1,1171 @@
+[
+    {
+        "index": 1,
+        "sentence": "Which sects people are part of local political parties which fall under the International Muslim Brotherhood?",
+        "疑问词": [
+            [
+                "people",
+                0.9375
+            ],
+            [
+                "part",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "sentence": "List common systems are developed by of the Google Videos and written by of the Google Web Toolkit ?",
+        "疑问词": []
+    },
+    {
+        "index": 3,
+        "sentence": "For which games are Sam Loyd and Eric Schiller both famous?",
+        "疑问词": [
+            [
+                "games",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "sentence": "Name the artist who made Dream Dancing and is often associated with Joe Pass?",
+        "疑问词": [
+            [
+                "artist",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "sentence": "Who is the office holder with deputies as Neil Brown and Andrew Peacock?",
+        "疑问词": [
+            [
+                "holder",
+                0.8333333333333334
+            ],
+            [
+                "office",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "sentence": "Where did these popular aeroplanes - Focke Wulf 260 and Start+Flug H 101 originate?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "sentence": "Which television show 's producer is Stephen E. Ambrose and written by Erik Jendresen?",
+        "疑问词": [
+            [
+                "show",
+                0.9375
+            ],
+            [
+                "television",
+                0.8125
+            ],
+            [
+                "producer",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "sentence": "Who created the Women in the Garden and also the L'Enfant a la tasse ?",
+        "疑问词": [
+            [
+                "Women",
+                0.8333333333333334
+            ],
+            [
+                "created",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "sentence": "Which famous horserace has seen both Fergie sutherland and the illustrious War of Attrition?",
+        "疑问词": [
+            [
+                "horserace",
+                0.9375
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "sentence": "Tell me the name of the Prime Time Entertainment Network's TV show whose Artist is Christopher Franke ?",
+        "疑问词": [
+            [
+                "name",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "sentence": "How many other battles have the military person fought whose one of the battles is World War II ?",
+        "疑问词": [
+            [
+                "battles",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "sentence": "Whose network's parent organisation is Comcast?",
+        "疑问词": [
+            [
+                "organisation",
+                1.0
+            ],
+            [
+                "network",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "sentence": "Which cport of Vishwajyot High School is also the genere of Battle chess",
+        "疑问词": [
+            [
+                "cport",
+                1.0
+            ],
+            [
+                "genere",
+                0.8125
+            ],
+            [
+                "chess",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "sentence": "In which state is the Channel district?",
+        "疑问词": [
+            [
+                "state",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "sentence": "Who was in the missions of Apollo 11 and Gemini 8?",
+        "疑问词": [
+            [
+                "missions",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "sentence": "What is the total number of other tenant of the stadia whose one of the tenant is Raptors 905?",
+        "疑问词": [
+            [
+                "number",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "sentence": "Where can one find the Dzogchen Ponolop Rinpoche?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "sentence": "Who is the stockholder of the road tunnels operated by the Massachusetts Department of Transportation?",
+        "疑问词": [
+            [
+                "stockholder",
+                0.8333333333333334
+            ],
+            [
+                "road",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "sentence": "What are the awards won by the film director of Saraband ?",
+        "疑问词": [
+            [
+                "awards",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "sentence": "What is the almamater of the president whose vice president was Enrique Jos Varona?",
+        "疑问词": [
+            [
+                "almamater",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "sentence": "What is the route end of Birmingham and Oxford Junction Railway ?",
+        "疑问词": [
+            [
+                "end",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "sentence": "Where did the Vitis Vinifera grapes originate?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "sentence": "How many people are there whose children died in Indiana?",
+        "疑问词": [
+            [
+                "people",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "sentence": "What is the military branch of the William French Smith which is also the branch of Pierre R. Graham ?",
+        "疑问词": [
+            [
+                "branch",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "sentence": "What is the river whose source is Lake Ontario?",
+        "疑问词": [
+            [
+                "river",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "sentence": "Which location city of the Denver Broncos is the palce of birth of Steven Clark Cunningham ?",
+        "疑问词": [
+            [
+                "city",
+                0.9375
+            ],
+            [
+                "location",
+                0.8125
+            ],
+            [
+                "palce",
+                0.8125
+            ],
+            [
+                "birth",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "sentence": "What is the religion of the person who founded the Emel magazine?",
+        "疑问词": [
+            [
+                "religion",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "sentence": "Give the name of the  managers of England national under-20 football team and England national under-21 football team?",
+        "疑问词": [
+            [
+                "name",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "sentence": "How many cities are around the sea in which the the fig tree bay meets?",
+        "疑问词": [
+            [
+                "cities",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "sentence": "Name the movies distributed by RKO Pictures and has music composer as Bernard Herrmann?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "sentence": "How many pole drivers have been there in grand prixes where first driver was Damon Hill?",
+        "疑问词": [
+            [
+                "drivers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "sentence": "Where are jockeys in Dubai World Cup from?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "sentence": "Who owns the newspaper which was founded by Nehru?",
+        "疑问词": [
+            [
+                "newspaper",
+                0.8333333333333334
+            ],
+            [
+                "owns",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "sentence": "To which places do the flights go by airlines headquartered in the UK?",
+        "疑问词": [
+            [
+                "places",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "sentence": "What is the magazine which have been  founded by Ralph J. Gleason?",
+        "疑问词": [
+            [
+                "magazine",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "sentence": "In which cities can the beverage related to Barq's be found?",
+        "疑问词": [
+            [
+                "cities",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "sentence": "What is the birth place of the astronaut whose mission was the Vostok programmer?",
+        "疑问词": [
+            [
+                "place",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "sentence": "Count everyone who studied at an institute which are in Suburbs?",
+        "疑问词": [
+            [
+                "institute",
+                1.0
+            ],
+            [
+                "everyone",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "sentence": "Where did Whitney Wistert debut?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "sentence": "What is the major shrine of the monarchs whose successor is Dragimir of Travunia and Zachlumia?",
+        "疑问词": [
+            [
+                "shrine",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "sentence": "How many television shows have  Fox Broadcasting Company as their channel?",
+        "疑问词": [
+            [
+                "shows",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "sentence": "What is the river whose mouth locations are Arctic Ocean and Laptev Sea?",
+        "疑问词": [
+            [
+                "river",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "sentence": "What are some wars fought when Chung Il Kwon as the country's prime minister?",
+        "疑问词": [
+            [
+                "wars",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "sentence": "Where was the person born who died in Bryn Mawr Hospital?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "sentence": "What is the faith of the Ajith Perera and religious affiliation of the Neungin High School?",
+        "疑问词": [
+            [
+                "faith",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "sentence": "Who was in military unit which played the role of Air interdiction?",
+        "疑问词": [
+            [
+                "role",
+                0.8333333333333334
+            ],
+            [
+                "unit",
+                0.8
+            ],
+            [
+                "interdiction",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "sentence": "Who are the current members of Insects vs Robots?",
+        "疑问词": [
+            [
+                "members",
+                0.8333333333333334
+            ],
+            [
+                "Who",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "sentence": "Greater Napanee is the home town of what people?",
+        "疑问词": [
+            [
+                "town",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "sentence": "What place did Edwin Adams die at, which gave birth to William A Purtell?",
+        "疑问词": [
+            [
+                "place",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "sentence": "Name the nationalteam of Trn Vit Hng ?",
+        "疑问词": [
+            [
+                "nationalteam",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "sentence": "Which designer of RENFE also owns Renaissance Center ?",
+        "疑问词": [
+            [
+                "designer",
+                0.9375
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "sentence": "Which uni did Joshua A. Siegel attend ?",
+        "疑问词": [
+            [
+                "uni",
+                0.9375
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "sentence": "How many books are written by the author who is famous for Novelas Ejemplares?",
+        "疑问词": [
+            [
+                "books",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "sentence": "Name the rivers who originate from Essex?",
+        "疑问词": [
+            [
+                "rivers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "sentence": "Companies founded in Taiwan have typically which divisions?",
+        "疑问词": [
+            [
+                "divisions",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "sentence": "To which university did both, the Stanford Cardinal and Gerald Reaven go?",
+        "疑问词": [
+            [
+                "university",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "sentence": "Name the nearest city to David W. Brown House ?",
+        "疑问词": [
+            [
+                "city",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "sentence": "Where did Deion Sanders debut?",
+        "疑问词": [
+            [
+                "Where",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "sentence": "What cities are nearer to Fuountain Lake Farm?",
+        "疑问词": [
+            [
+                "cities",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "sentence": "Who are the characters of Batman Live?",
+        "疑问词": [
+            [
+                "characters",
+                0.8333333333333334
+            ],
+            [
+                "Who",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "sentence": "Which artists trained in San Francisco Art Institute?",
+        "疑问词": [
+            [
+                "artists",
+                0.9375
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "sentence": "What is the owning organisation of the Ford Kansas City Assembly Plant and also the builder of the Ford Y-block engine?",
+        "疑问词": [
+            [
+                "organisation",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "sentence": "What awards have been given to A. Peter Dewey?",
+        "疑问词": [
+            [
+                "awards",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "sentence": "How many shows belong to the network one of whose sister station is Cartoonite?",
+        "疑问词": [
+            [
+                "shows",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "sentence": "What has been developed by John Fanning?",
+        "疑问词": []
+    },
+    {
+        "index": 66,
+        "sentence": "Muhammad Yunus has won how many awards?",
+        "疑问词": [
+            [
+                "Muhammad",
+                1.0
+            ],
+            [
+                "awards",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "sentence": "List the associates of bands which have a label by Motown ?",
+        "疑问词": [
+            [
+                "associates",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "sentence": "Who wrote the musical whose composer is Emil Dean Zoghby?",
+        "疑问词": [
+            [
+                "musical",
+                0.8333333333333334
+            ],
+            [
+                "composer",
+                0.8
+            ],
+            [
+                "wrote",
+                0.8
+            ],
+            [
+                "Emil",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "sentence": "Count the units garrisoned at Arlington County, Virginia.",
+        "疑问词": [
+            [
+                "units",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "sentence": "What is the faith of Kwai Chang Caine ?",
+        "疑问词": [
+            [
+                "faith",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "sentence": "Who is  related to Kelly Osbourne & Ozzy Osbourne?",
+        "疑问词": [
+            [
+                "related",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "sentence": "What are the houses of the legislature where the leader is called Pullaiahgaripalli ?",
+        "疑问词": [
+            [
+                "houses",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "sentence": "Which serving railway line of the Daund Junction railway station was also the place where 99 (2009 film) was recorded ?",
+        "疑问词": [
+            [
+                "line",
+                0.9375
+            ],
+            [
+                "serving",
+                0.8125
+            ],
+            [
+                "railway",
+                0.8125
+            ],
+            [
+                "station",
+                0.8125
+            ],
+            [
+                "place",
+                0.8125
+            ],
+            [
+                "film",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "sentence": "List the ethnicity of Riley Reid?",
+        "疑问词": [
+            [
+                "ethnicity",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "sentence": "Which shows are from a company whose subsidiary is Viacom Productions?",
+        "疑问词": [
+            [
+                "shows",
+                0.9375
+            ],
+            [
+                "company",
+                0.8125
+            ],
+            [
+                "subsidiary",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "sentence": "Giuseppe Bertello and Pietro Parolin are leaders of which place ?",
+        "疑问词": []
+    },
+    {
+        "index": 77,
+        "sentence": "What is the university whose campus is Mount Moosilauke?",
+        "疑问词": [
+            [
+                "university",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "sentence": "How many religions are followed by the group whose architectural style can be seen on Sanggar Agung?",
+        "疑问词": [
+            [
+                "religions",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "sentence": "How many things are written in C++?",
+        "疑问词": [
+            [
+                "things",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "sentence": "Name the garrison of the Western Naval Command and line of the Vadodara Junction railway station ?",
+        "疑问词": [
+            [
+                "garrison",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "sentence": "Who are the shareholder of the soccer club for whom Steve Holland plays?",
+        "疑问词": [
+            [
+                "shareholder",
+                0.8333333333333334
+            ],
+            [
+                "soccer",
+                0.8
+            ],
+            [
+                "club",
+                0.8
+            ],
+            [
+                "Who",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "sentence": "Which city located on Mediterranean Sea is also the stadium of Panionios G.S.S. season ?",
+        "疑问词": [
+            [
+                "city",
+                0.9375
+            ],
+            [
+                "stadium",
+                0.8125
+            ],
+            [
+                "season",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "sentence": "Through which cities do the rivers starting at the Montauk State Park flow?",
+        "疑问词": [
+            [
+                "rivers",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "sentence": "How many ideologies do the political party of Boonchu Rojanastien hold?",
+        "疑问词": [
+            [
+                "ideologies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "sentence": "What are the hubs of PLUS Helicopter Services, a highway helicopter unit of PLUS Expressways?",
+        "疑问词": [
+            [
+                "hubs",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "sentence": "Name the movies for which music was given by  Geoffrey Burgon and distributed by  Cinema International Corporation?",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "sentence": "Which country's leader  is Giuseppe Bertello?",
+        "疑问词": [
+            [
+                "country",
+                0.9375
+            ],
+            [
+                "leader",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "sentence": "Who wrote the subsequent work of One Day at a Time (Em's Version) ?",
+        "疑问词": [
+            [
+                "work",
+                0.8333333333333334
+            ],
+            [
+                "wrote",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "sentence": "Name the fictional character whose voice's animator is Hardie Gramatky?",
+        "疑问词": [
+            [
+                "character",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "sentence": "Which license provider of MSX basic is also the designer of Language Integrated Query ?",
+        "疑问词": [
+            [
+                "provider",
+                0.9375
+            ],
+            [
+                "license",
+                0.8125
+            ],
+            [
+                "basic",
+                0.8125
+            ],
+            [
+                "designer",
+                0.8125
+            ],
+            [
+                "Language",
+                0.8125
+            ],
+            [
+                "Query",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "sentence": "Who are the architect of the stadium whose one of the architect is louis D. Astorino ?",
+        "疑问词": [
+            [
+                "architect",
+                0.8333333333333334
+            ],
+            [
+                "stadium",
+                0.8
+            ],
+            [
+                "Who",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "sentence": "Who are the astronauts associated with NASA?",
+        "疑问词": [
+            [
+                "astronauts",
+                0.8333333333333334
+            ],
+            [
+                "Who",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "sentence": "What is a common ingredient used in boyt Blodpalt and Kaszanka ?",
+        "疑问词": [
+            [
+                "ingredient",
+                0.9285714285714286
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "sentence": "Who is the partner of Rob Patterson?",
+        "疑问词": [
+            [
+                "partner",
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "sentence": "How many politicians are there from the city of Ganges?",
+        "疑问词": [
+            [
+                "politicians",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "sentence": "To which american football teams does the Heinz Field serve as home stadium?",
+        "疑问词": [
+            [
+                "Field",
+                0.8823529411764706
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "sentence": "Which architect of the Marine Corps Air Station Kaneohe Bay is the branch of the Burnet R. Maybank?",
+        "疑问词": [
+            [
+                "architect",
+                0.9375
+            ],
+            [
+                "branch",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "sentence": "Which movies's screenplay is written by Akiva Goldsman",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ],
+            [
+                "screenplay",
+                0.8125
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "sentence": "How many TV shows are similar to the ones belonging to fantasy genre?",
+        "疑问词": [
+            [
+                "shows",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "sentence": "How many developers were involved in creating games whose score is composed by Gerard Marino?",
+        "疑问词": [
+            [
+                "developers",
+                1.0
+            ]
+        ]
+    }
+]

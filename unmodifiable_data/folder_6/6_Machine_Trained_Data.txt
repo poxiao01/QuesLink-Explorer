@@ -1,0 +1,966 @@
+[
+    {
+        "index": 1,
+        "sentence": "To which countries does the Himalayan mountain system extend?",
+        "疑问词": [
+            [
+                "countries",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "sentence": "Give me a list of all trumpet players that were bandleaders.",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ],
+            [
+                "players",
+                0.875
+            ],
+            [
+                "bandleaders",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "sentence": "What is the total amount of men and women serving in the FDNY?",
+        "疑问词": [
+            [
+                "amount",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "sentence": "Who is the Formula 1 race driver with the most races?",
+        "疑问词": []
+    },
+    {
+        "index": 5,
+        "sentence": "Give me all world heritage sites designated within the past five years.",
+        "疑问词": [
+            [
+                "sites",
+                1.0
+            ],
+            [
+                "years",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "sentence": "Who is the youngest player in the Premier League?",
+        "疑问词": []
+    },
+    {
+        "index": 7,
+        "sentence": "Give me all members of Prodigy.",
+        "疑问词": [
+            [
+                "members",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "sentence": "What is the longest river?",
+        "疑问词": [
+            [
+                "river",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "sentence": "Give me all cars that are produced in Germany.",
+        "疑问词": [
+            [
+                "cars",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "sentence": "Give me all people that were born in Vienna and died in Berlin.",
+        "疑问词": [
+            [
+                "people",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "sentence": "How tall is Michael Jordan?",
+        "疑问词": [
+            [
+                "Michael",
+                1.0
+            ],
+            [
+                "tall",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "sentence": "What is the capital of Canada?",
+        "疑问词": [
+            [
+                "capital",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "sentence": "Who is the governor of Texas?",
+        "疑问词": []
+    },
+    {
+        "index": 14,
+        "sentence": "Who was the father of Queen Elizabeth II?",
+        "疑问词": []
+    },
+    {
+        "index": 15,
+        "sentence": "Which U.S. state has been admitted latest?",
+        "疑问词": [
+            [
+                "state",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "sentence": "How many official languages are spoken on the Seychelles?",
+        "疑问词": [
+            [
+                "languages",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "sentence": "Sean Parnell is the governor of which U.S. state?",
+        "疑问词": [
+            [
+                "governor",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "sentence": "Give me all movies directed by Francis Ford Coppola.",
+        "疑问词": [
+            [
+                "movies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "sentence": "Give me all actors starring in movies directed by and starring William Shatner.",
+        "疑问词": [
+            [
+                "actors",
+                1.0
+            ],
+            [
+                "movies",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "sentence": "What is the birth name of Angela Merkel?",
+        "疑问词": [
+            [
+                "name",
+                0.8
+            ],
+            [
+                "birth",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "sentence": "Give me all current Methodist national leaders.",
+        "疑问词": [
+            [
+                "leaders",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "sentence": "How often did Nicole Kidman marry?",
+        "疑问词": [
+            [
+                "marry",
+                1.0
+            ],
+            [
+                "often",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "sentence": "Give me all Australian nonprofit organizations.",
+        "疑问词": [
+            [
+                "organizations",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "sentence": "In which military conflicts did Lawrence of Arabia participate?",
+        "疑问词": []
+    },
+    {
+        "index": 25,
+        "sentence": "Who developed Skype?",
+        "疑问词": []
+    },
+    {
+        "index": 26,
+        "sentence": "What is the melting point of copper?",
+        "疑问词": [
+            [
+                "point",
+                0.8
+            ],
+            [
+                "melting",
+                0.8
+            ],
+            [
+                "copper",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "sentence": "Give me all sister cities of Brno.",
+        "疑问词": [
+            [
+                "cities",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "sentence": "How many inhabitants does Maribor have?",
+        "疑问词": [
+            [
+                "inhabitants",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "sentence": "Give me all companies in Munich.",
+        "疑问词": [
+            [
+                "companies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "sentence": "List all boardgames by GMT.",
+        "疑问词": [
+            [
+                "boardgames",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "sentence": "Who founded Intel?",
+        "疑问词": []
+    },
+    {
+        "index": 32,
+        "sentence": "Who is the husband of Amanda Palmer?",
+        "疑问词": []
+    },
+    {
+        "index": 33,
+        "sentence": "Give me all breeds of the German Shepherd dog.",
+        "疑问词": [
+            [
+                "breeds",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "sentence": "Which cities does the Weser flow through?",
+        "疑问词": [
+            [
+                "cities",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "sentence": "Which countries are connected by the Rhine?",
+        "疑问词": [
+            [
+                "countries",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "sentence": "Which professional surfers were born on the Philippines?",
+        "疑问词": [
+            [
+                "surfers",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "sentence": "What is the average temperature on Hawaii?",
+        "疑问词": [
+            [
+                "temperature",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "sentence": "In which UK city are the headquarters of the MI6?",
+        "疑问词": [
+            [
+                "headquarters",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "sentence": "Which other weapons did the designer of the Uzi develop?",
+        "疑问词": [
+            [
+                "weapons",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "sentence": "Give me all Frisian islands that belong to the Netherlands.",
+        "疑问词": [
+            [
+                "islands",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "sentence": "Who invented the zipper?",
+        "疑问词": []
+    },
+    {
+        "index": 42,
+        "sentence": "What is the ruling party in Lisbon?",
+        "疑问词": [
+            [
+                "party",
+                0.8
+            ],
+            [
+                "ruling",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "sentence": "What are the nicknames of San Francisco?",
+        "疑问词": [
+            [
+                "nicknames",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "sentence": "Which Greek goddesses dwelt on Mount Olympus?",
+        "疑问词": [
+            [
+                "goddesses",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "sentence": "When were the Hells Angels founded?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "sentence": "Give me the Apollo 14 astronauts.",
+        "疑问词": [
+            [
+                "astronauts",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "sentence": "What is the time zone of Salt Lake City?",
+        "疑问词": [
+            [
+                "zone",
+                0.8
+            ],
+            [
+                "time",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "sentence": "Which U.S. states are in the same timezone as Utah?",
+        "疑问词": [
+            [
+                "states",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "sentence": "Give me a list of all lakes in Denmark.",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ],
+            [
+                "lakes",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "sentence": "How many space missions have there been?",
+        "疑问词": [
+            [
+                "missions",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "sentence": "Give me all Argentine films.",
+        "疑问词": [
+            [
+                "films",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "sentence": "Give me all launch pads operated by NASA.",
+        "疑问词": [
+            [
+                "pads",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "sentence": "Which instruments did John Lennon play?",
+        "疑问词": [
+            [
+                "instruments",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "sentence": "Which ships were called after Benjamin Franklin?",
+        "疑问词": [
+            [
+                "ships",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "sentence": "Who are the parents of the wife of Juan Carlos I?",
+        "疑问词": []
+    },
+    {
+        "index": 56,
+        "sentence": "How many employees does Google have?",
+        "疑问词": [
+            [
+                "employees",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "sentence": "When was the Statue of Liberty built?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "sentence": "In which U.S. state is Area 51 located?",
+        "疑问词": [
+            [
+                "Area",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "sentence": "How many children did Benjamin Franklin have?",
+        "疑问词": [
+            [
+                "children",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "sentence": "When did Michael Jackson die?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "sentence": "Which daughters of British earls died in the same place they were born in?",
+        "疑问词": [
+            [
+                "daughters",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "sentence": "List the children of Margaret Thatcher.",
+        "疑问词": [
+            [
+                "children",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "sentence": "Who was called Scarface?",
+        "疑问词": []
+    },
+    {
+        "index": 64,
+        "sentence": "Give me all books by William Goldman with more than 300 pages.",
+        "疑问词": [
+            [
+                "books",
+                1.0
+            ],
+            [
+                "pages",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "sentence": "Which books by Kerouac were published by Viking Press?",
+        "疑问词": [
+            [
+                "books",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "sentence": "Give me a list of all American inventions.",
+        "疑问词": [
+            [
+                "list",
+                1.0
+            ],
+            [
+                "inventions",
+                0.875
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "sentence": "How high is the Mount Everest?",
+        "疑问词": [
+            [
+                "high",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "sentence": "Who created the comic Captain America?",
+        "疑问词": []
+    },
+    {
+        "index": 69,
+        "sentence": "How many people live in the capital of Australia?",
+        "疑问词": [
+            [
+                "people",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "sentence": "What is the largest city in Australia?",
+        "疑问词": [
+            [
+                "city",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "sentence": "Who composed the music for Harold and Maude?",
+        "疑问词": []
+    },
+    {
+        "index": 72,
+        "sentence": "Which films starring Clint Eastwood did he direct himself?",
+        "疑问词": [
+            [
+                "films",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "sentence": "In which city was the former Dutch queen Juliana buried?",
+        "疑问词": [
+            [
+                "city",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "sentence": "Where is the residence of the prime minister of Spain?",
+        "疑问词": []
+    },
+    {
+        "index": 75,
+        "sentence": "Which U.S. State has the abbreviation MN?",
+        "疑问词": [
+            [
+                "State",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "sentence": "Show me all songs from Bruce Springsteen released between 1980 and 1990.",
+        "疑问词": [
+            [
+                "songs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "sentence": "Which movies did Sam Raimi direct after Army of Darkness?",
+        "疑问词": [
+            [
+                "movies",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "sentence": "What is the founding year of the brewery that produces Pilsner Urquell?",
+        "疑问词": [
+            [
+                "year",
+                0.8
+            ],
+            [
+                "founding",
+                0.8
+            ],
+            [
+                "brewery",
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "sentence": "Who wrote the lyrics for the Polish national anthem?",
+        "疑问词": []
+    },
+    {
+        "index": 80,
+        "sentence": "Give me all B-sides of the Ramones.",
+        "疑问词": [
+            [
+                "sides",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "sentence": "Who painted The Storm on the Sea of Galilee?",
+        "疑问词": []
+    },
+    {
+        "index": 82,
+        "sentence": "Which country does the creator of Miffy come from?",
+        "疑问词": [
+            [
+                "country",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "sentence": "For which label did Elvis record his first album?",
+        "疑问词": [
+            [
+                "label",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "sentence": "Who produces Orangina?",
+        "疑问词": []
+    },
+    {
+        "index": 85,
+        "sentence": "Who is the governor of Wyoming?",
+        "疑问词": []
+    },
+    {
+        "index": 86,
+        "sentence": "Who developed Minecraft?",
+        "疑问词": []
+    },
+    {
+        "index": 87,
+        "sentence": "List all games by GMT.",
+        "疑问词": [
+            [
+                "games",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "sentence": "In which U.S. state is Fort Knox located?",
+        "疑问词": [
+            [
+                "state",
+                0.8181818181818182
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "sentence": "Which U.S. state has the abbreviation MN?",
+        "疑问词": [
+            [
+                "state",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "sentence": "Which movies did Kurosawa direct after Rashomon?",
+        "疑问词": [
+            [
+                "movies",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "sentence": "Give me all taikonauts.",
+        "疑问词": [
+            [
+                "taikonauts",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "sentence": "How many languages are spoken in Colombia?",
+        "疑问词": [
+            [
+                "languages",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "sentence": "Which poet wrote the most books?",
+        "疑问词": [
+            [
+                "poet",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "sentence": "How many programming languages are there?",
+        "疑问词": [
+            [
+                "languages",
+                0.9090909090909091
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "sentence": "Give me all Dutch parties.",
+        "疑问词": [
+            [
+                "parties",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "sentence": "When was Carlo Giuliani shot?",
+        "疑问词": [
+            [
+                "When",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "sentence": "Which rivers flow into a German lake?",
+        "疑问词": [
+            [
+                "rivers",
+                0.88
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "sentence": "How heavy is Jupiter's lightest moon?",
+        "疑问词": [
+            [
+                "heavy",
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "sentence": "Who is the youngest Darts player?",
+        "疑问词": []
+    },
+    {
+        "index": 100,
+        "sentence": "Give me all animals that are extinct.",
+        "疑问词": [
+            [
+                "animals",
+                1.0
+            ]
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+How high is the Landegode Lighthouse?
+high
+How many employees does Staedtler have?
+employees
+How many ethnic groups live in Spain?
+groups
+How many inhabitants does Nagamangala have?
+inhabitants
+How many museums does Sofia have?
+museums
+How many pages does The Man with the Red Tattoo have?
+pages
+How many people live in the capital of Togo?
+people
+How many politicians graduated from Stanford University?
+politicians
+How many scientists graduated from Washburn University?
+scientists
+How many students does the Texas Tech University have?
+students
+How much did Vanilla Sky cost?
+cost
+How often did Teresa Mo marry?
+often
+How tall is John Windsor?
+tall
+How tall is Kate Upton?
+tall
+In which country is Solaize located?
+country
+In which country is the Tasman Lake?
+country
+In which country is the Tiefer See?
+country
+In which programming language is QuickTime written?
+language
+Show me everyone who was born on Boxing Day.
+everyone
+What are the official languages of Tunisia?
+languages
+What is the area code of Aegina?
+code
+What is the capital of Venezuela?
+capital
+What is the currency of Rhodesia?
+currency
+What is the eye color of Liza Kennedy?
+color
+What is the hair color of Marlon Teixeira?
+color
+What is the official color of the Carleton University?
+color
+What is the ruling party in Lo Espejo?
+party
+When did Jules Bergman die?
+When
+When did Red Sonja's creator die?
+When
+When is Gibraltar Diamond Jubilee Flotilla?
+When
+When was Sevcon founded?
+When
+When was Albert Schweitzer born?
+When
+When was the Cobble Hill Tunnel built?
+When
+When was the Riverdale Monument built?
+When
+When was the Operation Purple Haze?
+When
+Where did Queen Emma of Hawaii  die?
+Where
+Where is the Sandhammaren located?
+Where
+Which airports are located in Chios?
+airports
+Which artist made the album Old School Prankstas?
+artist
+Which books were published by DAW Books?
+books
+Which bridges cross the Prut?
+bridges
+Which instruments does Courtney Love play?
+instruments
+Which languages are spoken in Romania?
+languages
+Which museum exhibits The Skater?
+museum
+Which music albums contain the song Into Your Arms?
+albums
+Which organizations were founded in 1918?
+organizations
+Which presidents were born in 1891?
+presidents
+Which professional surfers were born in Australia?
+surfers
+Who created Retrocrush?
+Who
+Who created Miss Marple?
+Who
+Who created the comic Old Man Logan?
+Who
+Who designed the Langebro?
+Who
+Who developed Quake engine?
+Who
+Who developed the video game Duke Nukem 3D?
+Who
+Who founded Sony?
+Who
+Who is the editor of Semana?
+editor
+Who is the founder of DC Comics?
+founder
+Who is the heaviest player of the ASK Riga?
+player
+Who is the manager of Gazelle FC?
+manager
+Who is the mayor of Virar?
+mayor
+Who is the mayor of the capital of New Caledonia?
+mayor
+Who is the owner of Mazda?
+owner
+Who is the tallest player of Udinese Calcio?
+player
+Who is the youngest Snooker player?
+player
+Who painted Unfinished portrait of General Bonaparte?
+Who
+Who produces Red Bull?
+Who
+Who were the parents of Maria of Antioch?
+parents
+Who wrote the book Leave It to Psmith?
+Who
+Who are the presidents of the United States?
+presidents
+Who has been the 5th president of the United States of America?
+president
+Give me all female German chancellors!
+chancellors
+Who was Tom Hanks married to?
+Who
+Which people were born in Heraklion?
+people
+Which actors were born in Germany?
+actors
+Which companies work in the aerospace industry as well as on nuclear reactor technology?
+companies
+Which people have as their given name Jimmy?
+people
+Who developed the video game World of Warcraft?
+Who
+Who was the wife of President Lincoln?
+wife
+Which presidents were born in 1945?
+presidents
+Which caves have more than 3 entrances?
+caves
+Which cities have more than 2 million inhabitants?
+cities
+Who owns Aldi?
+Who
+Which capitals in Europe were host cities of the summer olympic games?
+capitals
+Give me all soccer clubs in the Premier League.
+clubs
+In which programming language is GIMP written?
+language
+What languages are spoken in Estonia?
+languages
+Who is called Dana?
+Who
+Which country does the Airedale Terrier come from?
+country
+What is the highest mountain?
+mountain
+Which birds are there in the United States?
+birds
+Give me all school types.
+types
+Which organizations were founded in 1950?
+organizations
+Which genre does DBpedia belong to?
+genre
+When was DBpedia released?
+When
+Who created English Wikipedia?
+Who
+Which companies are located in California, USA?
+companies
+What is the official website of Tom Hanks?
+website
+How many films did Leonardo DiCaprio star in?
+films
+Who produced the most films?
+Who
+Which music albums contain the song Last Christmas?
+albums

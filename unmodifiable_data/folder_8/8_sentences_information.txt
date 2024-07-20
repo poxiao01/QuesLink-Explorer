@@ -1,0 +1,1882 @@
+1. Give me all films produced by Hal Roach.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [films, all]
+obj_0: [Give, films]
+acl_0: [films, produced]
+case_0: [Hal, by]
+obl:agent_0: [produced, Hal]
+flat_0: [Hal, Roach]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('films', 'NNS', 'NOUN'), ('produced', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Hal', 'NNP', 'PROPN'), ('Roach', 'NNP', 'PROPN')]
+可能的疑问词：
+[('films', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+2. Give me all actors starring in Batman Begins.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [actors, all]
+obj_0: [Give, actors]
+acl_0: [actors, starring]
+case_0: [Begins, in]
+compound_0: [Begins, Batman]
+obl_0: [starring, Begins]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('actors', 'NNS', 'NOUN'), ('starring', 'VBG', 'VERB'), ('in', 'IN', 'ADP'), ('Batman', 'NNP', 'PROPN'), ('Begins', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('actors', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+3. Give me all movies with Tom Cruise!
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [movies, all]
+obj_0: [Give, movies]
+case_0: [Tom, with]
+nmod_0: [movies, Tom]
+flat_0: [Tom, Cruise]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('movies', 'NNS', 'NOUN'), ('with', 'IN', 'ADP'), ('Tom', 'NNP', 'PROPN'), ('Cruise', 'NNP', 'PROPN')]
+可能的疑问词：
+[('movies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+4. List all episodes of the first season of the HBO television series The Sopranos!
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [episodes, all]
+obj_0: [List, episodes]
+case_0: [season, of]
+det_1: [season, the]
+amod_0: [season, first]
+nmod_0: [episodes, season]
+case_1: [series, of]
+det_2: [series, the]
+compound_0: [series, HBO]
+compound_1: [series, television]
+nmod_1: [season, series]
+det_3: [Sopranos, The]
+appos_0: [series, Sopranos]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('all', 'DT', 'DET'), ('episodes', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('first', 'JJ', 'ADJ'), ('season', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('HBO', 'NNP', 'PROPN'), ('television', 'NN', 'NOUN'), ('series', 'NN', 'NOUN'), ('The', 'DT', 'DET'), ('Sopranos', 'NNP', 'PROPN')]
+可能的疑问词：
+[('episodes', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+5. Which books were written by Danielle Steel?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [books, Which]
+nsubj:pass_0: [written, books]
+aux:pass_0: [written, were]
+root_0: [written, written]
+case_0: [Danielle, by]
+obl:agent_0: [written, Danielle]
+flat_0: [Danielle, Steel]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('books', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('written', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Danielle', 'NNP', 'PROPN'), ('Steel', 'NNP', 'PROPN')]
+可能的疑问词：
+[('books', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+6. Who wrote the book The pillars of the Earth?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [wrote, Who]
+root_0: [wrote, wrote]
+det_0: [book, the]
+obj_0: [wrote, book]
+det_1: [pillars, The]
+appos_0: [book, pillars]
+case_0: [Earth, of]
+det_2: [Earth, the]
+nmod_0: [pillars, Earth]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('wrote', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('book', 'NN', 'NOUN'), ('The', 'DT', 'DET'), ('pillars', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Earth', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+7. Which mountains are higher than the Nanga Parbat?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [mountains, Which]
+nsubj_0: [higher, mountains]
+cop_0: [higher, are]
+root_0: [higher, higher]
+case_0: [Parbat, than]
+det_1: [Parbat, the]
+compound_0: [Parbat, Nanga]
+obl_0: [higher, Parbat]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('mountains', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('higher', 'JJR', 'ADJ'), ('than', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Nanga', 'NNP', 'PROPN'), ('Parbat', 'NNP', 'PROPN')]
+可能的疑问词：
+[('mountains', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+8. When was Capcom founded?
+句型词：When, 词性：WRB
+依赖结构：
+advmod_0: [founded, When]
+aux:pass_0: [founded, was]
+nsubj:pass_0: [founded, Capcom]
+root_0: [founded, founded]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'When'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('When', 'WRB', 'ADV'), ('was', 'VBD', 'AUX'), ('Capcom', 'NNP', 'PROPN'), ('founded', 'VBN', 'VERB')]
+可能的疑问词：
+[('When', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(622, 0, 1.0), (623, 0, 1.0), (626, 0, 1.0), (629, 0, 1.0), (630, 0, 1.0), (633, 0, 1.0), (636, 0, 1.0), (853, 0, 1.0), (854, 0, 1.0), (857, 0, 1.0), (860, 0, 1.0), (861, 0, 1.0), (864, 0, 1.0), (867, 0, 1.0), (3533, 0, 1.0), (3534, 0, 1.0), (3537, 0, 1.0), (3540, 0, 1.0), (3541, 0, 1.0), (3544, 0, 1.0), (3547, 0, 1.0), (3795, 0, 1.0), (3796, 0, 1.0), (3799, 0, 1.0), (3802, 0, 1.0), (3803, 0, 1.0), (3806, 0, 1.0), (3809, 0, 1.0), (624, 0, 0.8), (625, 0, 0.8), (627, 0, 0.8), (628, 0, 0.8), (631, 0, 0.8), (632, 0, 0.8), (634, 0, 0.8), (635, 0, 0.8), (855, 0, 0.8), (856, 0, 0.8), (858, 0, 0.8), (859, 0, 0.8), (862, 0, 0.8), (863, 0, 0.8), (865, 0, 0.8), (866, 0, 0.8), (3535, 0, 0.8), (3536, 0, 0.8), (3538, 0, 0.8), (3539, 0, 0.8), (3542, 0, 0.8), (3543, 0, 0.8), (3545, 0, 0.8), (3546, 0, 0.8), (3797, 0, 0.8), (3798, 0, 0.8), (3800, 0, 0.8), (3801, 0, 0.8), (3804, 0, 0.8), (3805, 0, 0.8), (3807, 0, 0.8), (3808, 0, 0.8)]
+9. Which software has been published by Mean Hamster Software?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [software, Which]
+nsubj:pass_0: [published, software]
+aux_0: [published, has]
+aux:pass_0: [published, been]
+root_0: [published, published]
+case_0: [Software, by]
+compound_0: [Hamster, Mean]
+compound_1: [Software, Hamster]
+obl_0: [published, Software]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('software', 'NN', 'NOUN'), ('has', 'VBZ', 'AUX'), ('been', 'VBN', 'AUX'), ('published', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Mean', 'NNP', 'PROPN'), ('Hamster', 'NN', 'NOUN'), ('Software', 'NNP', 'PROPN')]
+可能的疑问词：
+[('software', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+10. Which software has been developed by organizations founded in California?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [software, Which]
+nsubj:pass_0: [developed, software]
+aux_0: [developed, has]
+aux:pass_0: [developed, been]
+root_0: [developed, developed]
+case_0: [organizations, by]
+obl:agent_0: [developed, organizations]
+acl_0: [organizations, founded]
+case_1: [California, in]
+obl_0: [founded, California]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('software', 'NN', 'NOUN'), ('has', 'VBZ', 'AUX'), ('been', 'VBN', 'AUX'), ('developed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('organizations', 'NNS', 'NOUN'), ('founded', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('California', 'NNP', 'PROPN')]
+可能的疑问词：
+[('software', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+11. Which country has the most official languages?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [country, Which]
+nsubj_0: [has, country]
+root_0: [has, has]
+det_1: [languages, the]
+advmod_0: [official, most]
+amod_0: [languages, official]
+obj_0: [has, languages]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('country', 'NN', 'NOUN'), ('has', 'VBZ', 'VERB'), ('the', 'DT', 'DET'), ('most', 'RBS', 'ADV'), ('official', 'JJ', 'ADJ'), ('languages', 'NNS', 'NOUN')]
+可能的疑问词：
+[('country', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+12. Give me all European Capitals!
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [Capitals, all]
+amod_0: [Capitals, European]
+obj_0: [Give, Capitals]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('European', 'NNP', 'ADJ'), ('Capitals', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('Capitals', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+13. Who produced films starring Natalie Portman?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [produced, Who]
+root_0: [produced, produced]
+obj_0: [produced, films]
+acl_0: [films, starring]
+obj_1: [starring, Natalie]
+flat_0: [Natalie, Portman]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('produced', 'VBD', 'VERB'), ('films', 'NNS', 'NOUN'), ('starring', 'VBG', 'VERB'), ('Natalie', 'NNP', 'PROPN'), ('Portman', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+14. In which films did Julia Roberts as well as Richard Gere play?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [films, In]
+det_0: [films, which]
+obl_0: [did, films]
+root_0: [did, did]
+obj_0: [did, Julia]
+flat_0: [Julia, Roberts]
+cc_0: [play, as]
+fixed_0: [as, well]
+fixed_1: [as, as]
+compound_0: [play, Richard]
+flat_1: [Richard, Gere]
+conj_0: [Julia, play]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('films', 'NNS', 'NOUN'), ('did', 'VBD', 'VERB'), ('Julia', 'NNP', 'PROPN'), ('Roberts', 'NNP', 'PROPN'), ('as', 'RB', 'ADV'), ('well', 'RB', 'ADV'), ('as', 'IN', 'ADP'), ('Richard', 'NNP', 'PROPN'), ('Gere', 'NNP', 'PROPN'), ('play', 'NN', 'NOUN')]
+可能的疑问词：
+[('play', 1.0), ('films', 0.9285714285714286)]
+倒排索引的数据(已按规则的置信度排序)：
+[(33, 0, 1.0), (1223, 0, 1.0), (1277, 0, 1.0), (3855, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+15. Give me the websites of companies with more than 500000 employees.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [websites, the]
+obj_0: [Give, websites]
+case_0: [companies, of]
+nmod_0: [websites, companies]
+case_1: [employees, with]
+advmod_0: [500000, more]
+fixed_0: [more, than]
+nummod_0: [employees, 500000]
+nmod_1: [companies, employees]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('the', 'DT', 'DET'), ('websites', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('companies', 'NNS', 'NOUN'), ('with', 'IN', 'ADP'), ('more', 'JJR', 'ADJ'), ('than', 'IN', 'ADP'), ('500000', 'CD', 'NUM'), ('employees', 'NNS', 'NOUN')]
+可能的疑问词：
+[('websites', 1.0), ('companies', 0.8333333333333334), ('employees', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+16. Give me all female Russian astronauts.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [astronauts, all]
+amod_0: [astronauts, female]
+amod_1: [astronauts, Russian]
+obj_0: [Give, astronauts]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('female', 'JJ', 'ADJ'), ('Russian', 'JJ', 'ADJ'), ('astronauts', 'NNS', 'NOUN')]
+可能的疑问词：
+[('astronauts', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+17. Give me the birthdays of all actors of the television show Charmed.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [birthdays, the]
+obj_0: [Give, birthdays]
+case_0: [actors, of]
+det_1: [actors, all]
+nmod_0: [birthdays, actors]
+case_1: [Charmed, of]
+det_2: [Charmed, the]
+compound_0: [show, television]
+compound_1: [Charmed, show]
+nmod_1: [actors, Charmed]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('the', 'DT', 'DET'), ('birthdays', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('all', 'DT', 'DET'), ('actors', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('television', 'NN', 'NOUN'), ('show', 'NN', 'NOUN'), ('Charmed', 'VBN', 'VERB')]
+可能的疑问词：
+[('birthdays', 1.0), ('actors', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+18. Which countries have places with more than two caves?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [countries, Which]
+nsubj_0: [have, countries]
+root_0: [have, have]
+obj_0: [have, places]
+case_0: [caves, with]
+advmod_0: [two, more]
+fixed_0: [more, than]
+nummod_0: [caves, two]
+nmod_0: [places, caves]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('countries', 'NNS', 'NOUN'), ('have', 'VBP', 'VERB'), ('places', 'NNS', 'NOUN'), ('with', 'IN', 'ADP'), ('more', 'JJR', 'ADJ'), ('than', 'IN', 'ADP'), ('two', 'CD', 'NUM'), ('caves', 'NNS', 'NOUN')]
+可能的疑问词：
+[('countries', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+19. Give me the capitals of all countries in Africa.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [capitals, the]
+obj_0: [Give, capitals]
+case_0: [countries, of]
+det_1: [countries, all]
+nmod_0: [capitals, countries]
+case_1: [Africa, in]
+nmod_1: [countries, Africa]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('the', 'DT', 'DET'), ('capitals', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('all', 'DT', 'DET'), ('countries', 'NNS', 'NOUN'), ('in', 'IN', 'ADP'), ('Africa', 'NNP', 'PROPN')]
+可能的疑问词：
+[('capitals', 1.0), ('countries', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+20. How many employees does IBM have?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [employees, many]
+obj_0: [have, employees]
+aux_0: [have, does]
+nsubj_0: [have, IBM]
+root_0: [have, have]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('employees', 'NNS', 'NOUN'), ('does', 'VBZ', 'AUX'), ('IBM', 'NNP', 'PROPN'), ('have', 'VB', 'VERB')]
+可能的疑问词：
+[('employees', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(615, 0, 1.0), (616, 0, 1.0), (617, 0, 1.0), (618, 0, 1.0), (619, 0, 1.0), (620, 0, 1.0), (621, 0, 1.0), (752, 0, 1.0), (753, 0, 1.0), (754, 0, 1.0), (755, 0, 1.0), (756, 0, 1.0), (757, 0, 1.0), (758, 0, 1.0), (3526, 0, 1.0), (3527, 0, 1.0), (3528, 0, 1.0), (3529, 0, 1.0), (3530, 0, 1.0), (3531, 0, 1.0), (3532, 0, 1.0), (3663, 0, 1.0), (3664, 0, 1.0), (3665, 0, 1.0), (3666, 0, 1.0), (3667, 0, 1.0), (3668, 0, 1.0), (3669, 0, 1.0)]
+21. Which states border Illinois?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [border, Which]
+compound_0: [border, states]
+compound_1: [Illinois, border]
+root_0: [Illinois, Illinois]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('states', 'NNS', 'NOUN'), ('border', 'NN', 'NOUN'), ('Illinois', 'NNP', 'PROPN')]
+可能的疑问词：
+[('border', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+22. Which European countries have a constitutional monarchy?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [countries, Which]
+amod_0: [countries, European]
+nsubj_0: [have, countries]
+root_0: [have, have]
+det_1: [monarchy, a]
+amod_1: [monarchy, constitutional]
+obj_0: [have, monarchy]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('European', 'JJ', 'ADJ'), ('countries', 'NNS', 'NOUN'), ('have', 'VBP', 'VERB'), ('a', 'DT', 'DET'), ('constitutional', 'JJ', 'ADJ'), ('monarchy', 'NN', 'NOUN')]
+可能的疑问词：
+[('countries', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+23. Which awards did WikiLeaks win?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [awards, Which]
+obj_0: [win, awards]
+aux_0: [win, did]
+nsubj_0: [win, WikiLeaks]
+root_0: [win, win]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('awards', 'NNS', 'NOUN'), ('did', 'VBD', 'AUX'), ('WikiLeaks', 'NNP', 'PROPN'), ('win', 'VB', 'VERB')]
+可能的疑问词：
+[('awards', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+24. Which state of the USA has the highest population density?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [state, Which]
+nsubj_0: [has, state]
+case_0: [USA, of]
+det_1: [USA, the]
+nmod_0: [state, USA]
+root_0: [has, has]
+det_2: [density, the]
+amod_0: [density, highest]
+compound_0: [density, population]
+obj_0: [has, density]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('state', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('USA', 'NNP', 'PROPN'), ('has', 'VBZ', 'VERB'), ('the', 'DT', 'DET'), ('highest', 'JJS', 'ADJ'), ('population', 'NN', 'NOUN'), ('density', 'NN', 'NOUN')]
+可能的疑问词：
+[('state', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+25. When did Finland join the EU?
+句型词：When, 词性：WRB
+依赖结构：
+advmod_0: [join, When]
+aux_0: [join, did]
+nsubj_0: [join, Finland]
+root_0: [join, join]
+det_0: [EU, the]
+obj_0: [join, EU]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'When'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('When', 'WRB', 'ADV'), ('did', 'VBD', 'AUX'), ('Finland', 'NNP', 'PROPN'), ('join', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('EU', 'NNP', 'PROPN')]
+可能的疑问词：
+[('When', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(622, 0, 1.0), (623, 0, 1.0), (626, 0, 1.0), (629, 0, 1.0), (630, 0, 1.0), (633, 0, 1.0), (636, 0, 1.0), (853, 0, 1.0), (854, 0, 1.0), (857, 0, 1.0), (860, 0, 1.0), (861, 0, 1.0), (864, 0, 1.0), (867, 0, 1.0), (3533, 0, 1.0), (3534, 0, 1.0), (3537, 0, 1.0), (3540, 0, 1.0), (3541, 0, 1.0), (3544, 0, 1.0), (3547, 0, 1.0), (3795, 0, 1.0), (3796, 0, 1.0), (3799, 0, 1.0), (3802, 0, 1.0), (3803, 0, 1.0), (3806, 0, 1.0), (3809, 0, 1.0), (624, 0, 0.8), (625, 0, 0.8), (627, 0, 0.8), (628, 0, 0.8), (631, 0, 0.8), (632, 0, 0.8), (634, 0, 0.8), (635, 0, 0.8), (855, 0, 0.8), (856, 0, 0.8), (858, 0, 0.8), (859, 0, 0.8), (862, 0, 0.8), (863, 0, 0.8), (865, 0, 0.8), (866, 0, 0.8), (3535, 0, 0.8), (3536, 0, 0.8), (3538, 0, 0.8), (3539, 0, 0.8), (3542, 0, 0.8), (3543, 0, 0.8), (3545, 0, 0.8), (3546, 0, 0.8), (3797, 0, 0.8), (3798, 0, 0.8), (3800, 0, 0.8), (3801, 0, 0.8), (3804, 0, 0.8), (3805, 0, 0.8), (3807, 0, 0.8), (3808, 0, 0.8)]
+26. What is the highest mountain in Australia?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [mountain, the]
+amod_0: [mountain, highest]
+nsubj_0: [What, mountain]
+case_0: [Australia, in]
+nmod_0: [mountain, Australia]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('highest', 'JJS', 'ADJ'), ('mountain', 'NN', 'NOUN'), ('in', 'IN', 'ADP'), ('Australia', 'NNP', 'PROPN')]
+可能的疑问词：
+[('mountain', 0.9166666666666666)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
+27. Give me all companies in the advertising industry.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [companies, all]
+obj_0: [Give, companies]
+case_0: [industry, in]
+det_1: [industry, the]
+compound_0: [industry, advertising]
+nmod_0: [companies, industry]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('companies', 'NNS', 'NOUN'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('advertising', 'NN', 'NOUN'), ('industry', 'NN', 'NOUN')]
+可能的疑问词：
+[('companies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+28. Give me all presidents of the United States.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [presidents, all]
+obj_0: [Give, presidents]
+case_0: [States, of]
+det_1: [States, the]
+amod_0: [States, United]
+nmod_0: [presidents, States]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('presidents', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('United', 'NNP', 'ADJ'), ('States', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('presidents', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+29. Who was the wife of U.S. president Lincoln?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [wife, Who]
+cop_0: [wife, was]
+det_0: [wife, the]
+root_0: [wife, wife]
+case_0: [president, of]
+compound_0: [president, U.S.]
+nmod_0: [wife, president]
+flat_0: [president, Lincoln]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('was', 'VBD', 'AUX'), ('the', 'DT', 'DET'), ('wife', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('U.S.', 'NNP', 'PROPN'), ('president', 'NNP', 'PROPN'), ('Lincoln', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+30. What is the official website of Tom Cruise?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [website, the]
+amod_0: [website, official]
+nsubj_0: [What, website]
+case_0: [Tom, of]
+nmod_0: [website, Tom]
+flat_0: [Tom, Cruise]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('official', 'JJ', 'ADJ'), ('website', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Tom', 'NNP', 'PROPN'), ('Cruise', 'NNP', 'PROPN')]
+可能的疑问词：
+[('website', 0.9166666666666666)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
+31. Give me all people with first name Jimmy.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [people, all]
+obj_0: [Give, people]
+case_0: [Jimmy, with]
+amod_0: [name, first]
+compound_0: [Jimmy, name]
+nmod_0: [people, Jimmy]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('people', 'NNS', 'NOUN'), ('with', 'IN', 'ADP'), ('first', 'JJ', 'ADJ'), ('name', 'NN', 'NOUN'), ('Jimmy', 'NNP', 'PROPN')]
+可能的疑问词：
+[('people', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+32. Who created Wikipedia?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [created, Who]
+root_0: [created, created]
+obj_0: [created, Wikipedia]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('created', 'VBD', 'VERB'), ('Wikipedia', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+33. Give me all video games published by Mean Hamster Software.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [games, all]
+compound_0: [games, video]
+obj_0: [Give, games]
+acl_0: [games, published]
+case_0: [Software, by]
+compound_1: [Hamster, Mean]
+compound_2: [Software, Hamster]
+obl_0: [published, Software]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('video', 'NN', 'NOUN'), ('games', 'NNS', 'NOUN'), ('published', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Mean', 'NNP', 'PROPN'), ('Hamster', 'NNP', 'PROPN'), ('Software', 'NNP', 'PROPN')]
+可能的疑问词：
+[('games', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+34. Which languages are spoken in Estonia?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [languages, Which]
+nsubj_0: [spoken, languages]
+aux:pass_0: [spoken, are]
+root_0: [spoken, spoken]
+case_0: [Estonia, in]
+obl_0: [spoken, Estonia]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('languages', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('spoken', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('Estonia', 'NNP', 'PROPN')]
+可能的疑问词：
+[('languages', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+35. How many films did Hal Roach produce?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [films, many]
+obj_0: [produce, films]
+aux_0: [produce, did]
+nsubj_0: [produce, Hal]
+flat_0: [Hal, Roach]
+root_0: [produce, produce]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('films', 'NNS', 'NOUN'), ('did', 'VBD', 'AUX'), ('Hal', 'NNP', 'PROPN'), ('Roach', 'NNP', 'PROPN'), ('produce', 'VB', 'VERB')]
+可能的疑问词：
+[('films', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(615, 0, 1.0), (616, 0, 1.0), (617, 0, 1.0), (618, 0, 1.0), (619, 0, 1.0), (620, 0, 1.0), (621, 0, 1.0), (752, 0, 1.0), (753, 0, 1.0), (754, 0, 1.0), (755, 0, 1.0), (756, 0, 1.0), (757, 0, 1.0), (758, 0, 1.0), (3526, 0, 1.0), (3527, 0, 1.0), (3528, 0, 1.0), (3529, 0, 1.0), (3530, 0, 1.0), (3531, 0, 1.0), (3532, 0, 1.0), (3663, 0, 1.0), (3664, 0, 1.0), (3665, 0, 1.0), (3666, 0, 1.0), (3667, 0, 1.0), (3668, 0, 1.0), (3669, 0, 1.0)]
+36. Give me all books written by Danielle Steel.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [books, all]
+obj_0: [Give, books]
+acl_0: [books, written]
+case_0: [Danielle, by]
+obl:agent_0: [written, Danielle]
+flat_0: [Danielle, Steel]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('books', 'NNS', 'NOUN'), ('written', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('Danielle', 'NNP', 'PROPN'), ('Steel', 'NNP', 'PROPN')]
+可能的疑问词：
+[('books', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+37. Which airports are located in California, USA?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [airports, Which]
+nsubj:pass_0: [located, airports]
+aux:pass_0: [located, are]
+root_0: [located, located]
+case_0: [California, in]
+obl_0: [located, California]
+punct_0: [California, ,]
+appos_0: [California, USA]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('airports', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('located', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('California', 'NNP', 'PROPN'), (',', ',', 'PUNCT'), ('USA', 'NNP', 'PROPN')]
+可能的疑问词：
+[('airports', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+38. Give me all Canadian Grunge record labels.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [labels, all]
+amod_0: [labels, Canadian]
+compound_0: [labels, Grunge]
+compound_1: [labels, record]
+obj_0: [Give, labels]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('Canadian', 'JJ', 'ADJ'), ('Grunge', 'NNP', 'PROPN'), ('record', 'NN', 'NOUN'), ('labels', 'NNS', 'NOUN')]
+可能的疑问词：
+[('labels', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+39. Give me all movies with Tom Cruise.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [movies, all]
+obj_0: [Give, movies]
+case_0: [Tom, with]
+nmod_0: [movies, Tom]
+flat_0: [Tom, Cruise]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('movies', 'NNS', 'NOUN'), ('with', 'IN', 'ADP'), ('Tom', 'NNP', 'PROPN'), ('Cruise', 'NNP', 'PROPN')]
+可能的疑问词：
+[('movies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+40. Give me all female German chancellors.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [chancellors, all]
+amod_0: [chancellors, female]
+amod_1: [chancellors, German]
+obj_0: [Give, chancellors]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('female', 'JJ', 'ADJ'), ('German', 'JJ', 'ADJ'), ('chancellors', 'NNS', 'NOUN')]
+可能的疑问词：
+[('chancellors', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+41. Which budget did the first movie of Zdenek Sverak have?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [budget, Which]
+nsubj_0: [did, budget]
+root_0: [did, did]
+det_1: [movie, the]
+amod_0: [movie, first]
+obj_0: [did, movie]
+case_0: [Zdenek, of]
+nmod_0: [movie, Zdenek]
+flat_0: [Zdenek, Sverak]
+acl_0: [movie, have]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('budget', 'NN', 'NOUN'), ('did', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('first', 'JJ', 'ADJ'), ('movie', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Zdenek', 'NNP', 'PROPN'), ('Sverak', 'NNP', 'PROPN'), ('have', 'VB', 'VERB')]
+可能的疑问词：
+[('budget', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+42. How many big fires struck Paris during the Middle Ages?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [fires, many]
+amod_1: [fires, big]
+nsubj_0: [struck, fires]
+root_0: [struck, struck]
+obj_0: [struck, Paris]
+case_0: [Ages, during]
+det_0: [Ages, the]
+amod_2: [Ages, Middle]
+obl_0: [struck, Ages]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('big', 'JJ', 'ADJ'), ('fires', 'NNS', 'NOUN'), ('struck', 'VBD', 'VERB'), ('Paris', 'NNP', 'PROPN'), ('during', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Middle', 'NNP', 'ADJ'), ('Ages', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('fires', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(615, 0, 1.0), (616, 0, 1.0), (617, 0, 1.0), (618, 0, 1.0), (619, 0, 1.0), (620, 0, 1.0), (621, 0, 1.0), (752, 0, 1.0), (753, 0, 1.0), (754, 0, 1.0), (755, 0, 1.0), (756, 0, 1.0), (757, 0, 1.0), (758, 0, 1.0), (3526, 0, 1.0), (3527, 0, 1.0), (3528, 0, 1.0), (3529, 0, 1.0), (3530, 0, 1.0), (3531, 0, 1.0), (3532, 0, 1.0), (3663, 0, 1.0), (3664, 0, 1.0), (3665, 0, 1.0), (3666, 0, 1.0), (3667, 0, 1.0), (3668, 0, 1.0), (3669, 0, 1.0)]
+43. How often was Michael Jordan divorced?
+句型词：How, 词性：WRB
+依赖结构：
+advmod_0: [often, How]
+root_0: [often, often]
+cop_0: [often, was]
+nsubj_0: [divorced, Michael]
+flat_0: [Michael, Jordan]
+advcl_0: [often, divorced]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('often', 'RB', 'ADV'), ('was', 'VBD', 'AUX'), ('Michael', 'NNP', 'PROPN'), ('Jordan', 'NNP', 'PROPN'), ('divorced', 'VBN', 'VERB')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+44. What is the most beautiful painting?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [painting, the]
+advmod_0: [beautiful, most]
+amod_0: [painting, beautiful]
+nsubj_0: [What, painting]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('most', 'RBS', 'ADV'), ('beautiful', 'JJ', 'ADJ'), ('painting', 'NN', 'NOUN')]
+可能的疑问词：
+[('painting', 0.9166666666666666)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
+45. Give me all animal species that live in the Teutoburg Forest.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [species, all]
+compound_0: [species, animal]
+obj_0: [Give, species]
+nsubj_0: [live, that]
+acl:relcl_0: [species, live]
+case_0: [Forest, in]
+det_1: [Forest, the]
+compound_1: [Forest, Teutoburg]
+obl_0: [live, Forest]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('animal', 'NN', 'NOUN'), ('species', 'NNS', 'NOUN'), ('that', 'WDT', 'PRON'), ('live', 'VBP', 'VERB'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Teutoburg', 'NNP', 'PROPN'), ('Forest', 'NNP', 'PROPN')]
+可能的疑问词：
+[('species', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+46. When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?
+句型词：When, 词性：WRB
+依赖结构：
+advmod_0: [going, When]
+aux_0: [going, is]
+det_0: [Scenario, the]
+compound_0: [Scenario, movie]
+amod_0: [Scenario, Worst]
+compound_1: [Scenario, Case]
+nsubj_0: [going, Scenario]
+root_0: [going, going]
+mark_0: [cinemas, to]
+cop_0: [cinemas, be]
+case_0: [cinemas, in]
+xcomp_0: [going, cinemas]
+case_1: [Netherlands, in]
+det_1: [Netherlands, the]
+nmod_0: [cinemas, Netherlands]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'When'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('When', 'WRB', 'ADV'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('movie', 'NN', 'NOUN'), ('Worst', 'JJS', 'ADJ'), ('Case', 'NN', 'NOUN'), ('Scenario', 'NN', 'NOUN'), ('going', 'VBG', 'VERB'), ('to', 'TO', 'PART'), ('be', 'VB', 'AUX'), ('in', 'IN', 'ADP'), ('cinemas', 'NNS', 'NOUN'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Netherlands', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('When', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(622, 0, 1.0), (623, 0, 1.0), (626, 0, 1.0), (629, 0, 1.0), (630, 0, 1.0), (633, 0, 1.0), (636, 0, 1.0), (853, 0, 1.0), (854, 0, 1.0), (857, 0, 1.0), (860, 0, 1.0), (861, 0, 1.0), (864, 0, 1.0), (867, 0, 1.0), (3533, 0, 1.0), (3534, 0, 1.0), (3537, 0, 1.0), (3540, 0, 1.0), (3541, 0, 1.0), (3544, 0, 1.0), (3547, 0, 1.0), (3795, 0, 1.0), (3796, 0, 1.0), (3799, 0, 1.0), (3802, 0, 1.0), (3803, 0, 1.0), (3806, 0, 1.0), (3809, 0, 1.0), (624, 0, 0.8), (625, 0, 0.8), (627, 0, 0.8), (628, 0, 0.8), (631, 0, 0.8), (632, 0, 0.8), (634, 0, 0.8), (635, 0, 0.8), (855, 0, 0.8), (856, 0, 0.8), (858, 0, 0.8), (859, 0, 0.8), (862, 0, 0.8), (863, 0, 0.8), (865, 0, 0.8), (866, 0, 0.8), (3535, 0, 0.8), (3536, 0, 0.8), (3538, 0, 0.8), (3539, 0, 0.8), (3542, 0, 0.8), (3543, 0, 0.8), (3545, 0, 0.8), (3546, 0, 0.8), (3797, 0, 0.8), (3798, 0, 0.8), (3800, 0, 0.8), (3801, 0, 0.8), (3804, 0, 0.8), (3805, 0, 0.8), (3807, 0, 0.8), (3808, 0, 0.8)]
+47. Who is the daughter of Ingrid Bergman married to?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [daughter, Who]
+cop_0: [daughter, is]
+det_0: [daughter, the]
+root_0: [daughter, daughter]
+case_0: [Ingrid, of]
+nmod_0: [daughter, Ingrid]
+flat_0: [Ingrid, Bergman]
+acl_0: [Ingrid, married]
+obl_0: [married, to]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('daughter', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Ingrid', 'NNP', 'PROPN'), ('Bergman', 'NNP', 'PROPN'), ('married', 'VBN', 'VERB'), ('to', 'IN', 'ADP')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+48. In which city did John F. Kennedy die?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [city, In]
+det_0: [city, which]
+obl_0: [die, city]
+aux_0: [die, did]
+nsubj_0: [die, John]
+flat_0: [John, F.]
+flat_1: [John, Kennedy]
+root_0: [die, die]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('city', 'NN', 'NOUN'), ('did', 'VBD', 'AUX'), ('John', 'NNP', 'PROPN'), ('F.', 'NNP', 'PROPN'), ('Kennedy', 'NNP', 'PROPN'), ('die', 'VB', 'VERB')]
+可能的疑问词：
+[('city', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(33, 0, 1.0), (1223, 0, 1.0), (1277, 0, 1.0), (3855, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+49. Which classis do tree frogs belong to?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [classis, Which]
+obl_0: [belong, classis]
+aux_0: [belong, do]
+compound_0: [frogs, tree]
+nsubj_0: [belong, frogs]
+root_0: [belong, belong]
+obl_1: [belong, to]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('classis', 'NN', 'NOUN'), ('do', 'VBP', 'AUX'), ('tree', 'NN', 'NOUN'), ('frogs', 'NNS', 'NOUN'), ('belong', 'VBP', 'VERB'), ('to', 'IN', 'ADP')]
+可能的疑问词：
+[('classis', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+50. When did Latvia join the EU?
+句型词：When, 词性：WRB
+依赖结构：
+advmod_0: [join, When]
+aux_0: [join, did]
+nsubj_0: [join, Latvia]
+root_0: [join, join]
+det_0: [EU, the]
+obj_0: [join, EU]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'When'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB'), ('SENTENCE_SENTENCE_ADVMOD_0', 2)]
+单词及其词性：
+[('When', 'WRB', 'ADV'), ('did', 'VBD', 'AUX'), ('Latvia', 'NNP', 'PROPN'), ('join', 'VB', 'VERB'), ('the', 'DT', 'DET'), ('EU', 'NNP', 'PROPN')]
+可能的疑问词：
+[('When', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(622, 0, 1.0), (623, 0, 1.0), (626, 0, 1.0), (629, 0, 1.0), (630, 0, 1.0), (633, 0, 1.0), (636, 0, 1.0), (853, 0, 1.0), (854, 0, 1.0), (857, 0, 1.0), (860, 0, 1.0), (861, 0, 1.0), (864, 0, 1.0), (867, 0, 1.0), (3533, 0, 1.0), (3534, 0, 1.0), (3537, 0, 1.0), (3540, 0, 1.0), (3541, 0, 1.0), (3544, 0, 1.0), (3547, 0, 1.0), (3795, 0, 1.0), (3796, 0, 1.0), (3799, 0, 1.0), (3802, 0, 1.0), (3803, 0, 1.0), (3806, 0, 1.0), (3809, 0, 1.0), (624, 0, 0.8), (625, 0, 0.8), (627, 0, 0.8), (628, 0, 0.8), (631, 0, 0.8), (632, 0, 0.8), (634, 0, 0.8), (635, 0, 0.8), (855, 0, 0.8), (856, 0, 0.8), (858, 0, 0.8), (859, 0, 0.8), (862, 0, 0.8), (863, 0, 0.8), (865, 0, 0.8), (866, 0, 0.8), (3535, 0, 0.8), (3536, 0, 0.8), (3538, 0, 0.8), (3539, 0, 0.8), (3542, 0, 0.8), (3543, 0, 0.8), (3545, 0, 0.8), (3546, 0, 0.8), (3797, 0, 0.8), (3798, 0, 0.8), (3800, 0, 0.8), (3801, 0, 0.8), (3804, 0, 0.8), (3805, 0, 0.8), (3807, 0, 0.8), (3808, 0, 0.8)]
+51. Give me all actors starring in Last Action Hero.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [actors, all]
+obj_0: [Give, actors]
+acl_0: [actors, starring]
+case_0: [Hero, in]
+amod_0: [Hero, Last]
+compound_0: [Hero, Action]
+obl_0: [starring, Hero]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('actors', 'NNS', 'NOUN'), ('starring', 'VBG', 'VERB'), ('in', 'IN', 'ADP'), ('Last', 'NNP', 'ADJ'), ('Action', 'NNP', 'PROPN'), ('Hero', 'NNP', 'PROPN')]
+可能的疑问词：
+[('actors', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+52. Who wrote the book Les Piliers de la terre?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [wrote, Who]
+root_0: [wrote, wrote]
+det_0: [book, the]
+obj_0: [wrote, book]
+appos_0: [book, Les]
+flat_0: [Les, Piliers]
+flat_1: [Les, de]
+flat_2: [Les, la]
+flat_3: [Les, terre]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('wrote', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('book', 'NN', 'NOUN'), ('Les', 'NNP', 'PROPN'), ('Piliers', 'NNP', 'PROPN'), ('de', 'NNP', 'PROPN'), ('la', 'NNP', 'PROPN'), ('terre', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+53. Give me all cosmonauts.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [cosmonauts, all]
+obj_0: [Give, cosmonauts]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('cosmonauts', 'NNS', 'NOUN')]
+可能的疑问词：
+[('cosmonauts', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+54. How many countries are there in Europe?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [countries, many]
+nsubj_0: [there, countries]
+cop_0: [there, are]
+root_0: [there, there]
+case_0: [Europe, in]
+obl_0: [there, Europe]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('countries', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('there', 'RB', 'ADV'), ('in', 'IN', 'ADP'), ('Europe', 'NNP', 'PROPN')]
+可能的疑问词：
+[('countries', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(615, 0, 1.0), (616, 0, 1.0), (617, 0, 1.0), (618, 0, 1.0), (619, 0, 1.0), (620, 0, 1.0), (621, 0, 1.0), (752, 0, 1.0), (753, 0, 1.0), (754, 0, 1.0), (755, 0, 1.0), (756, 0, 1.0), (757, 0, 1.0), (758, 0, 1.0), (3526, 0, 1.0), (3527, 0, 1.0), (3528, 0, 1.0), (3529, 0, 1.0), (3530, 0, 1.0), (3531, 0, 1.0), (3532, 0, 1.0), (3663, 0, 1.0), (3664, 0, 1.0), (3665, 0, 1.0), (3666, 0, 1.0), (3667, 0, 1.0), (3668, 0, 1.0), (3669, 0, 1.0)]
+55. In which U.S. state is Mount McKinley located?
+句型词：which, 词性：WDT
+依赖结构：
+case_0: [which, In]
+det_0: [state, which]
+compound_0: [state, U.S.]
+nsubj:pass_0: [located, state]
+aux:pass_0: [located, is]
+compound_1: [located, Mount]
+flat_0: [Mount, McKinley]
+root_0: [located, located]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_CASE_0', 1), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('U.S.', 'NNP', 'PROPN'), ('state', 'NN', 'NOUN'), ('is', 'VBZ', 'AUX'), ('Mount', 'NNP', 'PROPN'), ('McKinley', 'NNP', 'PROPN'), ('located', 'VBN', 'VERB')]
+可能的疑问词：
+[('state', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(33, 0, 1.0), (1223, 0, 1.0), (1277, 0, 1.0), (3855, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+56. Which countries have more than ten caves?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [countries, Which]
+nsubj_0: [have, countries]
+root_0: [have, have]
+advmod_0: [ten, more]
+fixed_0: [more, than]
+nummod_0: [caves, ten]
+obj_0: [have, caves]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('countries', 'NNS', 'NOUN'), ('have', 'VBP', 'VERB'), ('more', 'JJR', 'ADJ'), ('than', 'IN', 'ADP'), ('ten', 'CD', 'NUM'), ('caves', 'NNS', 'NOUN')]
+可能的疑问词：
+[('countries', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+57. Give me all communist countries.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [countries, all]
+amod_0: [countries, communist]
+obj_0: [Give, countries]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('communist', 'JJ', 'ADJ'), ('countries', 'NNS', 'NOUN')]
+可能的疑问词：
+[('countries', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+58. Which U.S. state has the highest population density?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [state, Which]
+compound_0: [state, U.S.]
+nsubj_0: [has, state]
+root_0: [has, has]
+det_1: [density, the]
+amod_0: [density, highest]
+compound_1: [density, population]
+obj_0: [has, density]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('U.S.', 'NNP', 'PROPN'), ('state', 'NN', 'NOUN'), ('has', 'VBZ', 'VERB'), ('the', 'DT', 'DET'), ('highest', 'JJS', 'ADJ'), ('population', 'NN', 'NOUN'), ('density', 'NN', 'NOUN')]
+可能的疑问词：
+[('state', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+59. Which countries adopted the Euro?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [countries, Which]
+nsubj_0: [adopted, countries]
+root_0: [adopted, adopted]
+det_1: [Euro, the]
+obj_0: [adopted, Euro]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('countries', 'NNS', 'NOUN'), ('adopted', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('Euro', 'NNP', 'PROPN')]
+可能的疑问词：
+[('countries', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+60. Which monarchs were married to a German?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [monarchs, Which]
+nsubj:pass_0: [married, monarchs]
+aux:pass_0: [married, were]
+root_0: [married, married]
+case_0: [German, to]
+det_1: [German, a]
+obl_0: [married, German]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('monarchs', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('married', 'VBN', 'VERB'), ('to', 'IN', 'ADP'), ('a', 'DT', 'DET'), ('German', 'NNP', 'PROPN')]
+可能的疑问词：
+[('monarchs', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+61. What is the official language of Suriname?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [language, the]
+amod_0: [language, official]
+nsubj_0: [What, language]
+case_0: [Suriname, of]
+nmod_0: [language, Suriname]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('official', 'JJ', 'ADJ'), ('language', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Suriname', 'NNP', 'PROPN')]
+可能的疑问词：
+[('language', 0.9166666666666666)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
+62. Who is the mayor of Tel Aviv?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [mayor, Who]
+cop_0: [mayor, is]
+det_0: [mayor, the]
+root_0: [mayor, mayor]
+case_0: [Tel, of]
+nmod_0: [mayor, Tel]
+flat_0: [Tel, Aviv]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('mayor', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Tel', 'NNP', 'PROPN'), ('Aviv', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+63. What is the highest place of the Urals?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [place, the]
+amod_0: [place, highest]
+nsubj_0: [What, place]
+case_0: [Urals, of]
+det_1: [Urals, the]
+nmod_0: [place, Urals]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('highest', 'JJS', 'ADJ'), ('place', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Urals', 'NNPS', 'PROPN')]
+可能的疑问词：
+[('place', 0.9166666666666666)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
+64. Who is the editor of Forbes?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [editor, Who]
+cop_0: [editor, is]
+det_0: [editor, the]
+root_0: [editor, editor]
+case_0: [Forbes, of]
+nmod_0: [editor, Forbes]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('editor', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Forbes', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+65. Give me all libraries established earlier than 1400.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [libraries, all]
+obj_0: [Give, libraries]
+acl_0: [libraries, established]
+advmod_0: [established, earlier]
+case_0: [1400, than]
+obl_0: [earlier, 1400]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('libraries', 'NNS', 'NOUN'), ('established', 'VBN', 'VERB'), ('earlier', 'RBR', 'ADV'), ('than', 'IN', 'ADP'), ('1400', 'CD', 'NUM')]
+可能的疑问词：
+[('libraries', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+66. Give me all federal chancellors of Germany.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [chancellors, all]
+amod_0: [chancellors, federal]
+obj_0: [Give, chancellors]
+case_0: [Germany, of]
+nmod_0: [chancellors, Germany]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('federal', 'JJ', 'ADJ'), ('chancellors', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('Germany', 'NNP', 'PROPN')]
+可能的疑问词：
+[('chancellors', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+67. List all episodes of the first season of the HBO television series The Sopranos.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [List, List]
+det_0: [episodes, all]
+obj_0: [List, episodes]
+case_0: [season, of]
+det_1: [season, the]
+amod_0: [season, first]
+nmod_0: [episodes, season]
+case_1: [series, of]
+det_2: [series, the]
+compound_0: [series, HBO]
+compound_1: [series, television]
+nmod_1: [season, series]
+det_3: [Sopranos, The]
+appos_0: [series, Sopranos]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('List', 'VB', 'VERB'), ('all', 'DT', 'DET'), ('episodes', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('first', 'JJ', 'ADJ'), ('season', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('HBO', 'NNP', 'PROPN'), ('television', 'NN', 'NOUN'), ('series', 'NN', 'NOUN'), ('The', 'DT', 'DET'), ('Sopranos', 'NNP', 'PROPN')]
+可能的疑问词：
+[('episodes', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+68. Which companies work in the aerospace industry as well as in medicine?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [companies, Which]
+nsubj_0: [work, companies]
+root_0: [work, work]
+case_0: [industry, in]
+det_1: [industry, the]
+compound_0: [industry, aerospace]
+obl_0: [work, industry]
+cc_0: [medicine, as]
+fixed_0: [as, well]
+fixed_1: [as, as]
+case_1: [medicine, in]
+conj_0: [industry, medicine]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('companies', 'NNS', 'NOUN'), ('work', 'VBP', 'VERB'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('aerospace', 'NN', 'NOUN'), ('industry', 'NN', 'NOUN'), ('as', 'RB', 'ADV'), ('well', 'RB', 'ADV'), ('as', 'IN', 'ADP'), ('in', 'IN', 'ADP'), ('medicine', 'NN', 'NOUN')]
+可能的疑问词：
+[('companies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+69. How many Aldi stores are there?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [stores, many]
+compound_0: [stores, Aldi]
+nsubj_0: [there, stores]
+cop_0: [there, are]
+root_0: [there, there]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('Aldi', 'NNP', 'PROPN'), ('stores', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('there', 'RB', 'ADV')]
+可能的疑问词：
+[('stores', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(615, 0, 1.0), (616, 0, 1.0), (617, 0, 1.0), (618, 0, 1.0), (619, 0, 1.0), (620, 0, 1.0), (621, 0, 1.0), (752, 0, 1.0), (753, 0, 1.0), (754, 0, 1.0), (755, 0, 1.0), (756, 0, 1.0), (757, 0, 1.0), (758, 0, 1.0), (3526, 0, 1.0), (3527, 0, 1.0), (3528, 0, 1.0), (3529, 0, 1.0), (3530, 0, 1.0), (3531, 0, 1.0), (3532, 0, 1.0), (3663, 0, 1.0), (3664, 0, 1.0), (3665, 0, 1.0), (3666, 0, 1.0), (3667, 0, 1.0), (3668, 0, 1.0), (3669, 0, 1.0)]
+70. Who was the first president of the United States?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [president, Who]
+cop_0: [president, was]
+det_0: [president, the]
+amod_0: [president, first]
+root_0: [president, president]
+case_0: [States, of]
+det_1: [States, the]
+amod_1: [States, United]
+nmod_0: [president, States]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('was', 'VBD', 'AUX'), ('the', 'DT', 'DET'), ('first', 'JJ', 'ADJ'), ('president', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('United', 'NNP', 'ADJ'), ('States', 'NNPS', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+71. Give me all female given names.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [names, all]
+amod_0: [names, female]
+amod_1: [names, given]
+obj_0: [Give, names]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('female', 'JJ', 'ADJ'), ('given', 'VBN', 'VERB'), ('names', 'NNS', 'NOUN')]
+可能的疑问词：
+[('names', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+72. Who wrote the book The Pillars of the Earth?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [wrote, Who]
+root_0: [wrote, wrote]
+det_0: [book, the]
+obj_0: [wrote, book]
+det_1: [Pillars, The]
+appos_0: [book, Pillars]
+case_0: [Earth, of]
+det_2: [Earth, the]
+nmod_0: [Pillars, Earth]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('wrote', 'VBD', 'VERB'), ('the', 'DT', 'DET'), ('book', 'NN', 'NOUN'), ('The', 'DT', 'DET'), ('Pillars', 'NNPS', 'PROPN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Earth', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+73. Which organizations were founded in 1930?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [organizations, Which]
+nsubj:pass_0: [founded, organizations]
+aux:pass_0: [founded, were]
+root_0: [founded, founded]
+case_0: [1930, in]
+obl_0: [founded, 1930]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('organizations', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('founded', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('1930', 'CD', 'NUM')]
+可能的疑问词：
+[('organizations', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+74. Who was John F. Kennedy's vice president?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [president, Who]
+cop_0: [president, was]
+nmod:poss_0: [president, John]
+flat_0: [John, F.]
+flat_1: [John, Kennedy]
+case_0: [John, 's]
+compound_0: [president, vice]
+root_0: [president, president]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('was', 'VBD', 'AUX'), ('John', 'NNP', 'PROPN'), ('F.', 'NNP', 'PROPN'), ('Kennedy', 'NNP', 'PROPN'), ("'s", 'POS', 'PART'), ('vice', 'NN', 'NOUN'), ('president', 'NN', 'NOUN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+75. Give me a list of all bandleaders that play trumpet.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [list, a]
+obj_0: [Give, list]
+case_0: [bandleaders, of]
+det_1: [bandleaders, all]
+nmod_0: [list, bandleaders]
+nsubj_0: [play, that]
+acl:relcl_0: [bandleaders, play]
+obj_1: [play, trumpet]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('a', 'DT', 'DET'), ('list', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('all', 'DT', 'DET'), ('bandleaders', 'NNS', 'NOUN'), ('that', 'WDT', 'PRON'), ('play', 'VBP', 'VERB'), ('trumpet', 'NN', 'NOUN')]
+可能的疑问词：
+[('list', 1.0), ('bandleaders', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+76. Give me all world heritage sites designated within the past two years.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [sites, all]
+compound_0: [heritage, world]
+compound_1: [sites, heritage]
+obj_0: [Give, sites]
+acl_0: [sites, designated]
+case_0: [years, within]
+det_1: [years, the]
+amod_0: [years, past]
+nummod_0: [years, two]
+obl_0: [designated, years]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('world', 'NN', 'NOUN'), ('heritage', 'NN', 'NOUN'), ('sites', 'NNS', 'NOUN'), ('designated', 'VBN', 'VERB'), ('within', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('past', 'JJ', 'ADJ'), ('two', 'CD', 'NUM'), ('years', 'NNS', 'NOUN')]
+可能的疑问词：
+[('sites', 1.0), ('years', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+77. What were the main discoveries of the Mars rover Curiosity?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, were]
+det_0: [discoveries, the]
+amod_0: [discoveries, main]
+nsubj_0: [What, discoveries]
+case_0: [Curiosity, of]
+det_1: [Curiosity, the]
+compound_0: [rover, Mars]
+compound_1: [Curiosity, rover]
+nmod_0: [discoveries, Curiosity]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('were', 'VBD', 'AUX'), ('the', 'DT', 'DET'), ('main', 'JJ', 'ADJ'), ('discoveries', 'NNS', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Mars', 'NNP', 'PROPN'), ('rover', 'NN', 'NOUN'), ('Curiosity', 'NNP', 'PROPN')]
+可能的疑问词：
+[('discoveries', 0.9166666666666666)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
+78. How many languages are spoken in Turkmenistan?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [languages, many]
+nsubj_0: [spoken, languages]
+aux_0: [spoken, are]
+root_0: [spoken, spoken]
+case_0: [Turkmenistan, in]
+obl_0: [spoken, Turkmenistan]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('languages', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('spoken', 'VBN', 'VERB'), ('in', 'IN', 'ADP'), ('Turkmenistan', 'NNP', 'PROPN')]
+可能的疑问词：
+[('languages', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(615, 0, 1.0), (616, 0, 1.0), (617, 0, 1.0), (618, 0, 1.0), (619, 0, 1.0), (620, 0, 1.0), (621, 0, 1.0), (752, 0, 1.0), (753, 0, 1.0), (754, 0, 1.0), (755, 0, 1.0), (756, 0, 1.0), (757, 0, 1.0), (758, 0, 1.0), (3526, 0, 1.0), (3527, 0, 1.0), (3528, 0, 1.0), (3529, 0, 1.0), (3530, 0, 1.0), (3531, 0, 1.0), (3532, 0, 1.0), (3663, 0, 1.0), (3664, 0, 1.0), (3665, 0, 1.0), (3666, 0, 1.0), (3667, 0, 1.0), (3668, 0, 1.0), (3669, 0, 1.0)]
+79. Give me all actors starring in movies directed by William Shatner.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [actors, all]
+obj_0: [Give, actors]
+acl_0: [actors, starring]
+case_0: [movies, in]
+obl_0: [starring, movies]
+acl_1: [movies, directed]
+case_1: [William, by]
+obl:agent_0: [directed, William]
+flat_0: [William, Shatner]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('actors', 'NNS', 'NOUN'), ('starring', 'VBG', 'VERB'), ('in', 'IN', 'ADP'), ('movies', 'NNS', 'NOUN'), ('directed', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('William', 'NNP', 'PROPN'), ('Shatner', 'NNP', 'PROPN')]
+可能的疑问词：
+[('actors', 1.0), ('movies', 0.8333333333333334)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+80. Give me all Methodist politicians.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [politicians, all]
+compound_0: [politicians, Methodist]
+obj_0: [Give, politicians]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('Methodist', 'NNP', 'PROPN'), ('politicians', 'NNS', 'NOUN')]
+可能的疑问词：
+[('politicians', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+81. Give me all islands that belong to Japan.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [islands, all]
+obj_0: [Give, islands]
+nsubj_0: [belong, that]
+acl:relcl_0: [islands, belong]
+case_0: [Japan, to]
+obl_0: [belong, Japan]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('islands', 'NNS', 'NOUN'), ('that', 'WDT', 'PRON'), ('belong', 'VBP', 'VERB'), ('to', 'IN', 'ADP'), ('Japan', 'NNP', 'PROPN')]
+可能的疑问词：
+[('islands', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+82. Give me all Apollo 14 astronauts.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [astronauts, all]
+compound_0: [astronauts, Apollo]
+nummod_0: [astronauts, 14]
+obj_0: [Give, astronauts]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('Apollo', 'NNP', 'PROPN'), ('14', 'CD', 'NUM'), ('astronauts', 'NNS', 'NOUN')]
+可能的疑问词：
+[('astronauts', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+83. Which U.S. states are in the same time zone as Utah?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [states, Which]
+compound_0: [states, U.S.]
+nsubj_0: [zone, states]
+cop_0: [zone, are]
+case_0: [zone, in]
+det_1: [zone, the]
+amod_0: [zone, same]
+compound_1: [zone, time]
+root_0: [zone, zone]
+case_1: [Utah, as]
+nmod_0: [zone, Utah]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('U.S.', 'NNP', 'PROPN'), ('states', 'NNS', 'NOUN'), ('are', 'VBP', 'AUX'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('same', 'JJ', 'ADJ'), ('time', 'NN', 'NOUN'), ('zone', 'NN', 'NOUN'), ('as', 'IN', 'ADP'), ('Utah', 'NNP', 'PROPN')]
+可能的疑问词：
+[('states', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+84. Give me all Danish films.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [films, all]
+amod_0: [films, Danish]
+obj_0: [Give, films]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('Danish', 'JJ', 'ADJ'), ('films', 'NNS', 'NOUN')]
+可能的疑问词：
+[('films', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+85. Which instruments does Cat Stevens play?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [instruments, Which]
+obj_0: [play, instruments]
+aux_0: [play, does]
+nsubj_0: [play, Cat]
+flat_0: [Cat, Stevens]
+root_0: [play, play]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('instruments', 'NNS', 'NOUN'), ('does', 'VBZ', 'AUX'), ('Cat', 'NNP', 'PROPN'), ('Stevens', 'NNP', 'PROPN'), ('play', 'VB', 'VERB')]
+可能的疑问词：
+[('instruments', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+86. Which Chess players died in the same place they were born in?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [players, Which]
+compound_0: [players, Chess]
+nsubj_0: [died, players]
+root_0: [died, died]
+case_0: [place, in]
+det_1: [place, the]
+amod_0: [place, same]
+obl_0: [died, place]
+nsubj:pass_0: [born, they]
+aux:pass_0: [born, were]
+acl:relcl_0: [place, born]
+obl_1: [born, in]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('Chess', 'NN', 'NOUN'), ('players', 'NNS', 'NOUN'), ('died', 'VBD', 'VERB'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('same', 'JJ', 'ADJ'), ('place', 'NN', 'NOUN'), ('they', 'PRP', 'PRON'), ('were', 'VBD', 'AUX'), ('born', 'VBN', 'VERB'), ('in', 'IN', 'ADP')]
+可能的疑问词：
+[('players', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+87. Who is the daughter of Robert Kennedy married to?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [daughter, Who]
+cop_0: [daughter, is]
+det_0: [daughter, the]
+root_0: [daughter, daughter]
+case_0: [Robert, of]
+nmod_0: [daughter, Robert]
+flat_0: [Robert, Kennedy]
+acl_0: [daughter, married]
+obl_0: [married, to]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('daughter', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Robert', 'NNP', 'PROPN'), ('Kennedy', 'NNP', 'PROPN'), ('married', 'VBN', 'VERB'), ('to', 'IN', 'ADP')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+88. In which country does the Ganges start?
+句型词：which, 词性：WDT
+依赖结构：
+mark_0: [does, In]
+det_0: [country, which]
+nsubj_0: [does, country]
+root_0: [does, does]
+det_1: [Ganges, the]
+nsubj_1: [start, Ganges]
+ccomp_0: [does, start]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('In', 'IN', 'ADP'), ('which', 'WDT', 'DET'), ('country', 'NN', 'NOUN'), ('does', 'VBZ', 'VERB'), ('the', 'DT', 'DET'), ('Ganges', 'NNPS', 'PROPN'), ('start', 'VB', 'VERB')]
+可能的疑问词：
+[('country', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(33, 0, 1.0), (1223, 0, 1.0), (1277, 0, 1.0), (3855, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+89. Which television shows were created by John Cleese?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [shows, Which]
+compound_0: [shows, television]
+nsubj:pass_0: [created, shows]
+aux:pass_0: [created, were]
+root_0: [created, created]
+case_0: [John, by]
+obl:agent_0: [created, John]
+flat_0: [John, Cleese]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('television', 'NN', 'NOUN'), ('shows', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('created', 'VBN', 'VERB'), ('by', 'IN', 'ADP'), ('John', 'NNP', 'PROPN'), ('Cleese', 'NNP', 'PROPN')]
+可能的疑问词：
+[('shows', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+90. Which awards did Douglas Hofstadter win?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [awards, Which]
+obj_0: [win, awards]
+aux_0: [win, did]
+nsubj_0: [win, Douglas]
+flat_0: [Douglas, Hofstadter]
+root_0: [win, win]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('awards', 'NNS', 'NOUN'), ('did', 'VBD', 'AUX'), ('Douglas', 'NNP', 'PROPN'), ('Hofstadter', 'NNP', 'PROPN'), ('win', 'VB', 'VERB')]
+可能的疑问词：
+[('awards', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+91. Who is the owner of Rolls-Royce?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [owner, Who]
+cop_0: [owner, is]
+det_0: [owner, the]
+root_0: [owner, owner]
+case_0: [Royce, of]
+compound_0: [Royce, Rolls]
+punct_0: [Royce, -]
+nmod_0: [owner, Royce]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('owner', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('Rolls', 'NNPS', 'PROPN'), ('-', 'HYPH', 'PUNCT'), ('Royce', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+92. Who was the 16th president of the United States?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj_0: [president, Who]
+cop_0: [president, was]
+det_0: [president, the]
+amod_0: [president, 16th]
+root_0: [president, president]
+case_0: [States, of]
+det_1: [States, the]
+amod_1: [States, United]
+nmod_0: [president, States]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('was', 'VBD', 'AUX'), ('the', 'DT', 'DET'), ('16th', 'JJ', 'ADJ'), ('president', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('United', 'NNP', 'ADJ'), ('States', 'NNPS', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+93. Give me all animal species that live in the Amazon rainforest.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [species, all]
+compound_0: [species, animal]
+obj_0: [Give, species]
+nsubj_0: [live, that]
+acl:relcl_0: [species, live]
+case_0: [rainforest, in]
+det_1: [rainforest, the]
+compound_1: [rainforest, Amazon]
+obl_0: [live, rainforest]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('animal', 'NN', 'NOUN'), ('species', 'NNS', 'NOUN'), ('that', 'WDT', 'PRON'), ('live', 'VBP', 'VERB'), ('in', 'IN', 'ADP'), ('the', 'DT', 'DET'), ('Amazon', 'NNP', 'PROPN'), ('rainforest', 'NN', 'NOUN')]
+可能的疑问词：
+[('species', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+94. How many missions does the Soyuz programme have?
+句型词：How many, 词性：WRB
+依赖结构：
+advmod_0: [many, How]
+amod_0: [missions, many]
+obj_0: [have, missions]
+aux_0: [have, does]
+det_0: [programme, the]
+compound_0: [programme, Soyuz]
+nsubj_0: [have, programme]
+root_0: [have, have]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'How many'), ('SENTENCE_STRUCTURE_WORD_POS', 'WRB')]
+单词及其词性：
+[('How', 'WRB', 'ADV'), ('many', 'JJ', 'ADJ'), ('missions', 'NNS', 'NOUN'), ('does', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('Soyuz', 'NNP', 'PROPN'), ('programme', 'NN', 'NOUN'), ('have', 'VB', 'VERB')]
+可能的疑问词：
+[('missions', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(615, 0, 1.0), (616, 0, 1.0), (617, 0, 1.0), (618, 0, 1.0), (619, 0, 1.0), (620, 0, 1.0), (621, 0, 1.0), (752, 0, 1.0), (753, 0, 1.0), (754, 0, 1.0), (755, 0, 1.0), (756, 0, 1.0), (757, 0, 1.0), (758, 0, 1.0), (3526, 0, 1.0), (3527, 0, 1.0), (3528, 0, 1.0), (3529, 0, 1.0), (3530, 0, 1.0), (3531, 0, 1.0), (3532, 0, 1.0), (3663, 0, 1.0), (3664, 0, 1.0), (3665, 0, 1.0), (3666, 0, 1.0), (3667, 0, 1.0), (3668, 0, 1.0), (3669, 0, 1.0)]
+95. Give me all Danish movies.
+句型词：VB, 词性：VB
+依赖结构：
+root_0: [Give, Give]
+iobj_0: [Give, me]
+det_0: [movies, all]
+amod_0: [movies, Danish]
+obj_0: [Give, movies]
+句型词相关信息：
+[('SENTENCE_PATTERN', '陈述句'), ('SENTENCE_STRUCTURE_WORD', 'VB'), ('SENTENCE_STRUCTURE_WORD_POS', 'VB'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_IOBJ_0', 1), ('SENTENCE_SENTENCE_OBJ_0', 1)]
+单词及其词性：
+[('Give', 'VB', 'VERB'), ('me', 'PRP', 'PRON'), ('all', 'DT', 'DET'), ('Danish', 'JJ', 'ADJ'), ('movies', 'NNS', 'NOUN')]
+可能的疑问词：
+[('movies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(2318, 0, 1.0), (2319, 0, 1.0), (2320, 0, 1.0), (2329, 0, 1.0), (2330, 0, 1.0), (2331, 0, 1.0), (2674, 0, 1.0), (2675, 0, 1.0), (2676, 0, 1.0), (2310, 0, 0.9166666666666666), (2311, 0, 0.9166666666666666), (2312, 0, 0.9166666666666666), (2313, 0, 0.9166666666666666), (2321, 0, 0.9166666666666666), (2322, 0, 0.9166666666666666), (2323, 0, 0.9166666666666666), (2324, 0, 0.9166666666666666), (2666, 0, 0.9166666666666666), (2667, 0, 0.9166666666666666), (2668, 0, 0.9166666666666666), (2669, 0, 0.9166666666666666), (2314, 0, 0.8333333333333334), (2315, 0, 0.8333333333333334), (2316, 0, 0.8333333333333334), (2317, 0, 0.8333333333333334), (2325, 0, 0.8333333333333334), (2326, 0, 0.8333333333333334), (2327, 0, 0.8333333333333334), (2328, 0, 0.8333333333333334), (2670, 0, 0.8333333333333334), (2671, 0, 0.8333333333333334), (2672, 0, 0.8333333333333334), (2673, 0, 0.8333333333333334)]
+96. Who was called Frank The Tank?
+句型词：Who, 词性：WP
+依赖结构：
+nsubj:pass_0: [called, Who]
+aux:pass_0: [called, was]
+root_0: [called, called]
+compound_0: [Tank, Frank]
+compound_1: [Tank, The]
+xcomp_0: [called, Tank]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Who'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_NSUBJ_PASS_0', 2)]
+单词及其词性：
+[('Who', 'WP', 'PRON'), ('was', 'VBD', 'AUX'), ('called', 'VBN', 'VERB'), ('Frank', 'NNP', 'PROPN'), ('The', 'DT', 'DET'), ('Tank', 'NNP', 'PROPN')]
+可能的疑问词：
+[]
+倒排索引的数据(已按规则的置信度排序)：
+[]
+97. Which movies did Kurosawa direct?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [movies, Which]
+obj_0: [direct, movies]
+aux_0: [direct, did]
+nsubj_0: [direct, Kurosawa]
+root_0: [direct, direct]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('movies', 'NNS', 'NOUN'), ('did', 'VBD', 'AUX'), ('Kurosawa', 'NNP', 'PROPN'), ('direct', 'VB', 'VERB')]
+可能的疑问词：
+[('movies', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+98. What is the most frequent cause of death?
+句型词：What, 词性：WP
+依赖结构：
+root_0: [What, What]
+cop_0: [What, is]
+det_0: [cause, the]
+advmod_0: [frequent, most]
+amod_0: [cause, frequent]
+nsubj_0: [What, cause]
+case_0: [death, of]
+nmod_0: [cause, death]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_ROOT_0', 1), ('SENTENCE_SENTENCE_COP_0', 1), ('SENTENCE_SENTENCE_NSUBJ_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('is', 'VBZ', 'AUX'), ('the', 'DT', 'DET'), ('most', 'RBS', 'ADV'), ('frequent', 'JJ', 'ADJ'), ('cause', 'NN', 'NOUN'), ('of', 'IN', 'ADP'), ('death', 'NN', 'NOUN')]
+可能的疑问词：
+[('cause', 0.9166666666666666)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
+99. Which rockets were launched from Baikonur?
+句型词：Which, 词性：WDT
+依赖结构：
+det_0: [rockets, Which]
+nsubj:pass_0: [launched, rockets]
+aux:pass_0: [launched, were]
+root_0: [launched, launched]
+case_0: [Baikonur, from]
+obl_0: [launched, Baikonur]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'Which'), ('SENTENCE_STRUCTURE_WORD_POS', 'WDT'), ('SENTENCE_SENTENCE_DET_0', 2)]
+单词及其词性：
+[('Which', 'WDT', 'DET'), ('rockets', 'NNS', 'NOUN'), ('were', 'VBD', 'AUX'), ('launched', 'VBN', 'VERB'), ('from', 'IN', 'ADP'), ('Baikonur', 'NNP', 'PROPN')]
+可能的疑问词：
+[('rockets', 1.0)]
+倒排索引的数据(已按规则的置信度排序)：
+[(27, 0, 1.0), (28, 0, 1.0), (29, 0, 1.0), (66, 0, 1.0), (67, 0, 1.0), (68, 0, 1.0), (1271, 0, 1.0), (1272, 0, 1.0), (1273, 0, 1.0), (1310, 0, 1.0), (1311, 0, 1.0), (1312, 0, 1.0), (0, 0, 0.9285714285714286), (1244, 0, 0.9285714285714286), (1, 0, 0.9047619047619048), (2, 0, 0.9047619047619048), (1245, 0, 0.9047619047619048), (1246, 0, 0.9047619047619048)]
+100. What does IYCM stand for?
+句型词：What, 词性：WP
+依赖结构：
+obl_0: [stand, What]
+aux_0: [stand, does]
+nsubj_0: [stand, IYCM]
+root_0: [stand, stand]
+case_0: [What, for]
+句型词相关信息：
+[('SENTENCE_PATTERN', '疑问句'), ('SENTENCE_STRUCTURE_WORD', 'What'), ('SENTENCE_STRUCTURE_WORD_POS', 'WP'), ('SENTENCE_SENTENCE_OBL_0', 2), ('SENTENCE_SENTENCE_CASE_0', 1)]
+单词及其词性：
+[('What', 'WP', 'PRON'), ('does', 'VBZ', 'AUX'), ('IYCM', 'NNP', 'PROPN'), ('stand', 'VB', 'VERB'), ('for', 'IN', 'ADP')]
+可能的疑问词：
+[('IYCM', 0.8888888888888888)]
+倒排索引的数据(已按规则的置信度排序)：
+[(759, 0, 0.9166666666666666), (3670, 0, 0.9166666666666666), (347, 0, 0.8888888888888888), (348, 0, 0.8888888888888888), (349, 0, 0.8888888888888888), (350, 0, 0.8888888888888888), (351, 0, 0.8888888888888888), (352, 0, 0.8888888888888888), (353, 0, 0.8888888888888888), (354, 0, 0.8888888888888888), (355, 0, 0.8888888888888888), (356, 0, 0.8888888888888888), (357, 0, 0.8888888888888888), (358, 0, 0.8888888888888888), (359, 0, 0.8888888888888888), (360, 0, 0.8888888888888888), (361, 0, 0.8888888888888888), (3226, 0, 0.8888888888888888), (3227, 0, 0.8888888888888888), (3228, 0, 0.8888888888888888), (3229, 0, 0.8888888888888888), (3230, 0, 0.8888888888888888), (3231, 0, 0.8888888888888888), (3232, 0, 0.8888888888888888), (3233, 0, 0.8888888888888888), (3234, 0, 0.8888888888888888), (3235, 0, 0.8888888888888888), (3236, 0, 0.8888888888888888), (3237, 0, 0.8888888888888888), (3238, 0, 0.8888888888888888), (3239, 0, 0.8888888888888888), (3240, 0, 0.8888888888888888)]
