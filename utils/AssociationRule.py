@@ -1,4 +1,3 @@
-# 关联规则类
 from db.DbAccessor import count_rows_by_conditions
 
 
@@ -24,6 +23,7 @@ class AssociationRule:
             consequent_list = []
             for item in consequent_list_hashed:
                 consequent_list.append((item_hasher.get_items_list(item[0]), item[1], item[2]))
+
             self.rules_dict[antecedent] = consequent_list
 
         # 遍历原始字典的每一对键值对
@@ -134,6 +134,7 @@ class AssociationRule:
         Parameters:
         - filename: 要保存的文件名
         """
+
         rules_file = filename + '_rules.JSON'
         with open(rules_file, 'w', encoding='utf-8') as file:
             rules_id = 0
@@ -147,10 +148,3 @@ class AssociationRule:
             for (pre_item, item_list) in self.inverted_index_dict.items():
                 file.write(f"{pre_item}: {item_list} \n")
         print(f"倒排索引数据已保存到文件 {inverted_index_file}.")
-
-
-class QuestionWordFinder:
-    def __init__(self):
-        self.sentences_list = []
-        self.all_inverted_index_list = []
-        self.all_structure_words_information = []

@@ -1,10 +1,6 @@
 # 设置编码，支持中文
 # -*- coding: utf-8 -*-
 
-# 注意事项：
-# 1. `insert_data`函数中处理`temp_list`的具体逻辑需自行实现。
-# 2. CSV文件的编码建议使用`utf-8-sig`避免中文乱码问题，特别是当文件需要跨平台兼容时。
-
 
 # 导入必要的库
 from sqlalchemy.orm import Session

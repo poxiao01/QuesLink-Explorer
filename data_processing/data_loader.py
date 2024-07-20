@@ -3,8 +3,6 @@ import pandas as pd
 
 def process_data_to_list(file_path, ignore_columns):
     """
-    读取CSV文件，处理DataFrame，并返回处理后的行数据，并按照含有 'QUESTION' 的行优先排序。
-
     :param file_path: str，CSV文件的路径
     :param ignore_columns: list，需要忽略的列名列表
     :return: list，包含处理后的行数据的列表，整体按照含有 'QUESTION' 的行优先排序
